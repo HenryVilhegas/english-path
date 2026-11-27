@@ -1,0 +1,9 @@
+version: 2
+updates:
+  # O projeto não tem dependências de pacote (sem package.json), mas o Dependabot
+  # também cobre as GitHub Actions usadas nos workflows deste repositório.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5

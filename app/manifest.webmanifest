@@ -1,7 +1,7 @@
 {
   "name": "English Path",
   "short_name": "English Path",
-  "description": "Trilha de inglês A1 a C1 + inglês de rua dos EUA, phrasal verbs e dicas de imersão.",
+  "description": "Trilha de inglÃªs A1 a C1 + inglÃªs de rua dos EUA, phrasal verbs e dicas de imersÃ£o.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

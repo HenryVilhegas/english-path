@@ -1,0 +1,7 @@
+# Normaliza quebra de linha e evita que o Git re-grave arquivos de texto
+# com encoding diferente de UTF-8 sem BOM (o motivo de bugs antigos aqui).
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary

@@ -1,4 +1,4 @@
-﻿// ===== Áudio (Web Speech API) e Dica do dia =====
+// ===== Áudio (Web Speech API) e Dica do dia =====
 // speakBtn(texto)  -> HTML com botões 🔊 (normal) e 🐢 (devagar)
 // renderSay(itens) -> lista de frases "EN | PT" com áudio
 // renderTip()      -> sorteia uma dica de data/tips.json na Home
