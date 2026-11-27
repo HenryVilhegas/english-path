@@ -1,0 +1,415 @@
+{
+ "level": "B1",
+ "name": "B1 · Intermediário",
+ "description": "Present perfect, condicionais 0 e 1, modais, used to, opiniões e conectores. Aqui você começa a contar experiências e argumentar.",
+ "flashcards": [
+  {
+   "id": "b1-fc-1",
+   "topic": "Present Perfect",
+   "front": "Como se forma o <b>present perfect</b>?",
+   "back": "<b>have/has + particípio</b> (worked, been, seen). Liga o passado ao presente: experiência, resultado ou algo que continua.",
+   "en": "I have lived here for five years.",
+   "syl": "ai rév livd rír fór fáiv IÉRS"
+  },
+  {
+   "id": "b1-fc-2",
+   "topic": "Present Perfect",
+   "front": "<b>For</b> × <b>since</b>.",
+   "back": "<b>for</b> + duração (for two years). <b>since</b> + ponto no tempo (since 2020, since Monday).",
+   "en": "I've known her for ten years, since 2016.",
+   "syl": "aiv nôun rer fór tén IÉRS, sins tuén-ti-SIKS-tín"
+  },
+  {
+   "id": "b1-fc-3",
+   "topic": "Present Perfect",
+   "front": "<b>Ever</b>, <b>never</b>, <b>already</b>, <b>yet</b>, <b>just</b>.",
+   "back": "ever (já, em perguntas) · never · already (afirmativa) · yet (negativa/pergunta, no fim) · just (acabou de).",
+   "en": "Have you ever been to Canada? I haven't finished yet.",
+   "syl": "rév iú É-ver bín tu KÉ-nâ-dâ · ai RÉ-vent FÍ-nicht iét"
+  },
+  {
+   "id": "b1-fc-4",
+   "topic": "Present Perfect",
+   "front": "<b>Present perfect</b> × <b>past simple</b>.",
+   "back": "Past simple: momento definido e terminado (yesterday, in 2019). Present perfect: sem tempo definido ou ligado ao agora.",
+   "en": "I went to Rome in 2019. I've been to Rome twice.",
+   "syl": "ai uênt tu rôum in tuén-ti-nain-TÍN · aiv bín tu rôum tuáis"
+  },
+  {
+   "id": "b1-fc-5",
+   "topic": "Present Perfect",
+   "front": "<b>Been</b> × <b>gone</b>.",
+   "back": "<b>has been to</b> = foi e voltou · <b>has gone to</b> = foi e ainda está lá.",
+   "en": "She has been to Paris. He has gone to Paris.",
+   "syl": "chi réz bín tu PÉ-ris · ri réz gón tu PÉ-ris"
+  },
+  {
+   "id": "b1-fc-6",
+   "topic": "Condicionais 0 e 1",
+   "front": "<b>Zero conditional</b>.",
+   "back": "If + presente, presente: fatos e regras gerais. If you heat ice, it melts.",
+   "en": "If you heat ice, it melts.",
+   "syl": "if iú rít áis, it mélts"
+  },
+  {
+   "id": "b1-fc-7",
+   "topic": "Condicionais 0 e 1",
+   "front": "<b>First conditional</b>.",
+   "back": "If + presente simples, <b>will</b> + verbo. Situação real e possível no futuro.",
+   "en": "If it rains tomorrow, we will stay home.",
+   "syl": "if it réinz tu-MÓ-rôu, uí uíu stêi rôum"
+  },
+  {
+   "id": "b1-fc-8",
+   "topic": "Condicionais 0 e 1",
+   "front": "<b>Unless</b>.",
+   "back": "Unless = if ... not (a menos que). Unless you hurry, you'll be late = If you don't hurry...",
+   "en": "Unless you hurry, you'll miss the bus.",
+   "syl": "ân-LÉS iú RÁ-ri, iúu mis dâ bâs"
+  },
+  {
+   "id": "b1-fc-9",
+   "topic": "Verbos Modais",
+   "front": "<b>Should</b>, <b>must</b>, <b>have to</b>.",
+   "back": "<b>should</b> = conselho. <b>must</b> = obrigação forte/pessoal. <b>have to</b> = obrigação externa. <b>mustn't</b> = proibido; <b>don't have to</b> = não precisa.",
+   "en": "You should rest. You must wear a seatbelt.",
+   "syl": "iú chúd rést · iú mâst uér â SÉIT-bélt"
+  },
+  {
+   "id": "b1-fc-10",
+   "topic": "Verbos Modais",
+   "front": "<b>May</b>, <b>might</b>, <b>could</b> para possibilidade.",
+   "back": "Probabilidade crescente: <b>might / may / could</b> (talvez) < <b>must</b> (certeza de que é). He might be at home.",
+   "en": "He might be at home. He must be tired.",
+   "syl": "ri máit bi ét rôum · ri mâst bi TÁI-erd"
+  },
+  {
+   "id": "b1-fc-11",
+   "topic": "Used to e Hábitos no Passado",
+   "front": "<b>Used to</b> + verbo.",
+   "back": "Hábito ou estado do passado que não é mais verdade. Negativa: didn't use to. Pergunta: Did you use to...?",
+   "en": "I used to play guitar when I was a kid.",
+   "syl": "ai iúzd tu plêi gui-TÁR uén ai uóz â kid"
+  },
+  {
+   "id": "b1-fc-12",
+   "topic": "Used to e Hábitos no Passado",
+   "front": "<b>Used to</b> × <b>be used to</b> × <b>get used to</b>.",
+   "back": "used to + verbo = costumava. <b>be used to + -ing</b> = estar acostumado. <b>get used to + -ing</b> = acostumar-se.",
+   "en": "I'm used to waking up early. I'm getting used to it.",
+   "syl": "aim iúzd tu UÊI-king âp ÉR-li · aim GÉ-ting iúzd tu it"
+  },
+  {
+   "id": "b1-fc-13",
+   "topic": "Opiniões e Conversas",
+   "front": "Como <b>dar uma opinião</b>?",
+   "back": "<b>I think...</b> · In my opinion... · I believe... · As far as I'm concerned... · To be honest...",
+   "en": "In my opinion, it's a great idea.",
+   "syl": "in mai â-PÍ-nien, its â greit ai-DÍ-â"
+  },
+  {
+   "id": "b1-fc-14",
+   "topic": "Opiniões e Conversas",
+   "front": "Como <b>concordar e discordar</b>?",
+   "back": "Concordar: I agree. / Exactly! / That's true. Discordar educado: <b>I see your point, but...</b> / I'm not so sure.",
+   "en": "I see your point, but I'm not sure I agree.",
+   "syl": "ai si iór póint, bât aim nót chur ai â-GRÍ"
+  },
+  {
+   "id": "b1-fc-15",
+   "topic": "Conectores e Escrita",
+   "front": "<b>Although</b>, <b>however</b>, <b>but</b>.",
+   "back": "<b>Although</b> + oração (início/meio). <b>However</b>, + frase nova. <b>but</b> liga duas ideias contrastantes.",
+   "en": "Although it was raining, we went out.",
+   "syl": "ól-DÔU it uóz RÉI-ning, uí uênt áut"
+  },
+  {
+   "id": "b1-fc-16",
+   "topic": "Conectores e Escrita",
+   "front": "<b>Because</b>, <b>so</b>, <b>therefore</b>.",
+   "back": "because = porque (causa) · so = então (consequência) · therefore = portanto (mais formal).",
+   "en": "I was tired, so I went to bed early.",
+   "syl": "ai uóz TÁI-erd, sôu ai uênt tu béd ÉR-li"
+  },
+  {
+   "id": "b1-fc-17",
+   "topic": "Conectores e Escrita",
+   "front": "<b>Because</b> × <b>because of</b>.",
+   "back": "because + oração · because of + substantivo/-ing.",
+   "en": "We stayed home because of the rain.",
+   "syl": "uí stêid rôum bi-KÓZ óv dâ réin"
+  }
+ ],
+ "questions": [
+  {
+   "id": "b1-q-1",
+   "topic": "Present Perfect",
+   "difficulty": "medio",
+   "question": "I ___ never ___ sushi.",
+   "options": [
+    "have / eat",
+    "have / eaten",
+    "did / eat",
+    "am / eating"
+   ],
+   "answer": 1,
+   "explanation": "have + <b>eaten</b> (particípio de eat).",
+   "en": "I have never eaten sushi."
+  },
+  {
+   "id": "b1-q-2",
+   "topic": "Present Perfect",
+   "difficulty": "medio",
+   "question": "She has worked here ___ 2018.",
+   "options": [
+    "for",
+    "since",
+    "during",
+    "from"
+   ],
+   "answer": 1,
+   "explanation": "since + ponto no tempo (2018)."
+  },
+  {
+   "id": "b1-q-3",
+   "topic": "Present Perfect",
+   "difficulty": "medio",
+   "question": "I haven't finished the report ___.",
+   "options": [
+    "already",
+    "yet",
+    "ever",
+    "just"
+   ],
+   "answer": 1,
+   "explanation": "<b>yet</b> em negativas/perguntas, no fim."
+  },
+  {
+   "id": "b1-q-4",
+   "topic": "Present Perfect",
+   "difficulty": "medio",
+   "question": "Which is correct?",
+   "options": [
+    "I have seen him yesterday.",
+    "I saw him yesterday.",
+    "I have saw him yesterday.",
+    "I seen him yesterday."
+   ],
+   "answer": 1,
+   "explanation": "Com tempo definido (yesterday) use <b>past simple</b>."
+  },
+  {
+   "id": "b1-q-5",
+   "topic": "Present Perfect",
+   "difficulty": "medio",
+   "question": "He's not here. He ___ to the bank.",
+   "options": [
+    "has been",
+    "has gone",
+    "went",
+    "is gone to"
+   ],
+   "answer": 1,
+   "explanation": "<b>has gone</b> = foi e ainda não voltou."
+  },
+  {
+   "id": "b1-q-6",
+   "topic": "Condicionais 0 e 1",
+   "difficulty": "medio",
+   "question": "If you mix red and blue, you ___ purple.",
+   "options": [
+    "will get",
+    "get",
+    "would get",
+    "got"
+   ],
+   "answer": 1,
+   "explanation": "Zero conditional (fato): if + presente, <b>presente</b>."
+  },
+  {
+   "id": "b1-q-7",
+   "topic": "Condicionais 0 e 1",
+   "difficulty": "medio",
+   "question": "If I ___ time, I'll call you.",
+   "options": [
+    "will have",
+    "have",
+    "had",
+    "would have"
+   ],
+   "answer": 1,
+   "explanation": "No if-clause da 1ª condicional usa-se <b>presente simples</b>."
+  },
+  {
+   "id": "b1-q-8",
+   "topic": "Condicionais 0 e 1",
+   "difficulty": "medio",
+   "question": "___ you hurry, you'll miss the train.",
+   "options": [
+    "If not",
+    "Unless",
+    "Without",
+    "Except"
+   ],
+   "answer": 1,
+   "explanation": "<b>Unless</b> = if ... not."
+  },
+  {
+   "id": "b1-q-9",
+   "topic": "Verbos Modais",
+   "difficulty": "medio",
+   "question": "You ___ smoke here. It's forbidden.",
+   "options": [
+    "don't have to",
+    "mustn't",
+    "shouldn't to",
+    "may to"
+   ],
+   "answer": 1,
+   "explanation": "<b>mustn't</b> = proibido. 'Don't have to' = não é necessário."
+  },
+  {
+   "id": "b1-q-10",
+   "topic": "Verbos Modais",
+   "difficulty": "medio",
+   "question": "You ___ come tomorrow. It's optional.",
+   "options": [
+    "mustn't",
+    "don't have to",
+    "can't",
+    "shouldn't to"
+   ],
+   "answer": 1,
+   "explanation": "<b>don't have to</b> = não precisa (opcional)."
+  },
+  {
+   "id": "b1-q-11",
+   "topic": "Verbos Modais",
+   "difficulty": "medio",
+   "question": "I'm not sure where she is. She ___ be at the gym.",
+   "options": [
+    "might",
+    "has to",
+    "must to",
+    "will to"
+   ],
+   "answer": 0,
+   "explanation": "<b>might</b> = possibilidade."
+  },
+  {
+   "id": "b1-q-12",
+   "topic": "Used to e Hábitos no Passado",
+   "difficulty": "medio",
+   "question": "I ___ play soccer every weekend, but now I don't.",
+   "options": [
+    "use to",
+    "used to",
+    "am used to",
+    "was used"
+   ],
+   "answer": 1,
+   "explanation": "<b>used to</b> + verbo = costumava (e não mais).",
+   "en": "I used to play soccer every weekend."
+  },
+  {
+   "id": "b1-q-13",
+   "topic": "Used to e Hábitos no Passado",
+   "difficulty": "dificil",
+   "question": "I'm used to ___ up early.",
+   "options": [
+    "wake",
+    "waking",
+    "woke",
+    "to wake"
+   ],
+   "answer": 1,
+   "explanation": "<b>be used to + -ing</b> = estar acostumado a."
+  },
+  {
+   "id": "b1-q-14",
+   "topic": "Opiniões e Conversas",
+   "difficulty": "medio",
+   "question": "How do you politely disagree?",
+   "options": [
+    "You're wrong.",
+    "I see your point, but I'm not sure I agree.",
+    "No way.",
+    "That's stupid."
+   ],
+   "answer": 1,
+   "explanation": "Reconhecer o ponto do outro suaviza a discordância."
+  },
+  {
+   "id": "b1-q-15",
+   "topic": "Opiniões e Conversas",
+   "difficulty": "medio",
+   "question": "Which phrase introduces your opinion?",
+   "options": [
+    "In my opinion,",
+    "By the way,",
+    "On the other hand,",
+    "As a result,"
+   ],
+   "answer": 0,
+   "explanation": "<b>In my opinion</b> = na minha opinião."
+  },
+  {
+   "id": "b1-q-16",
+   "topic": "Conectores e Escrita",
+   "difficulty": "medio",
+   "question": "___ it was raining, we went to the park.",
+   "options": [
+    "Because",
+    "Although",
+    "So",
+    "However"
+   ],
+   "answer": 1,
+   "explanation": "<b>Although</b> + oração = embora.",
+   "en": "Although it was raining, we went to the park."
+  },
+  {
+   "id": "b1-q-17",
+   "topic": "Conectores e Escrita",
+   "difficulty": "medio",
+   "question": "He was tired. ___, he kept working.",
+   "options": [
+    "Because",
+    "However",
+    "Although",
+    "Unless"
+   ],
+   "answer": 1,
+   "explanation": "<b>However,</b> começa uma nova frase com ideia contrastante."
+  },
+  {
+   "id": "b1-q-18",
+   "topic": "Conectores e Escrita",
+   "difficulty": "medio",
+   "question": "We cancelled the picnic ___ the weather.",
+   "options": [
+    "because",
+    "because of",
+    "so",
+    "although"
+   ],
+   "answer": 1,
+   "explanation": "because <b>of</b> + substantivo (the weather)."
+  },
+  {
+   "id": "b1-q-19",
+   "topic": "Present Perfect",
+   "difficulty": "dificil",
+   "question": "How long ___ you ___ English?",
+   "options": [
+    "do / study",
+    "have / studied",
+    "did / studied",
+    "are / studying"
+   ],
+   "answer": 1,
+   "explanation": "'How long' + ação que continua: have you studied.",
+   "en": "How long have you studied English?"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+  "level": "B2",
+  "sections": [
+    {
+      "title": "Condicionais 2 e 3",
+      "blocks": [
+        { "list": ["<b>2ª</b>: if + past, <b>would</b> + verbo (irreal no presente). <b>3ª</b>: if + past perfect, <b>would have</b> + particípio (passado irreal). <b>Mista</b>: passado → presente."] },
+        { "say": ["If I were you, I'd apply. | Se eu fosse você, me candidataria.", "If I had known, I would have helped. | Se eu soubesse, teria ajudado."] }
+      ]
+    },
+    {
+      "title": "Voz Passiva",
+      "blocks": [
+        { "list": ["<b>be + particípio</b>. Foco em quem recebe a ação. 'by' só se o agente importa."] },
+        { "say": ["English is spoken worldwide. | O inglês é falado no mundo todo.", "The email was sent yesterday. | O e-mail foi enviado ontem."] }
+      ]
+    },
+    {
+      "title": "Discurso Indireto",
+      "blocks": [
+        { "list": ["Backshift: <b>is → was · will → would · can → could</b>. <b>say</b> × <b>tell</b> (pessoa)."] },
+        { "say": ["She said she was busy. | Ela disse que estava ocupada.", "He asked me where I lived. | Ele me perguntou onde eu morava."] }
+      ]
+    },
+    {
+      "title": "Orações Relativas",
+      "blocks": [
+        { "list": ["who (pessoas) · which (coisas) · that · whose (de quem) · where. Não restritiva: entre vírgulas, sem that."] }
+      ]
+    },
+    {
+      "title": "Inglês no Trabalho",
+      "blocks": [
+        { "say": ["Let's get started. | Vamos começar.", "Could you get back to me by Friday? | Pode me responder até sexta?", "Just following up on my last email. | Só retomando meu último e-mail.", "I'll circle back on that. | Eu retorno a esse assunto."] }
+      ]
+    },
+    {
+      "title": "Wish, Would Rather e Preferências",
+      "blocks": [
+        { "list": ["wish + past simple (presente) · wish + past perfect (arrependimento) · wish + would (irritação).", "I'd rather + base · I'd rather you + past."] }
+      ]
+    }
+  ]
+}

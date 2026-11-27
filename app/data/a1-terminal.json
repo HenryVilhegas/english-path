@@ -1,0 +1,357 @@
+[
+ {
+  "id": "a1-t-1",
+  "topic": "Apresentações",
+  "q": "Diga em inglês: \"Meu nome é Carlos.\"",
+  "a": [
+   "^(my name is|i am called|i'm called) carlos$"
+  ],
+  "ex": "My name is Carlos.",
+  "out": "Também: I'm Carlos.",
+  "why": "My name is + nome. No dia a dia: 'I'm Carlos.'",
+  "hint": "My name ..."
+ },
+ {
+  "id": "a1-t-2",
+  "topic": "Apresentações",
+  "q": "Diga em inglês: \"Eu sou do Brasil.\"",
+  "a": [
+   "^(i am|i'm) from brazil$"
+  ],
+  "ex": "I'm from Brazil.",
+  "out": "",
+  "why": "be + from + país.",
+  "hint": "I am from ..."
+ },
+ {
+  "id": "a1-t-3",
+  "topic": "Apresentações",
+  "q": "Diga em inglês: \"Eu tenho 30 anos.\" (use o verbo certo!)",
+  "a": [
+   "^(i am|i'm) (30|thirty)( years old)?$"
+  ],
+  "ex": "I'm 30 years old.",
+  "out": "",
+  "why": "Idade usa to be, nunca have.",
+  "hint": "I am ..."
+ },
+ {
+  "id": "a1-t-4",
+  "topic": "Apresentações",
+  "q": "Diga em inglês: \"Como você está?\"",
+  "a": [
+   "^how are you( doing| today)?$"
+  ],
+  "ex": "How are you?",
+  "out": "Resposta comum: I'm good, thanks. And you?",
+  "why": "Pergunta clássica de cumprimento.",
+  "hint": "How ..."
+ },
+ {
+  "id": "a1-t-5",
+  "topic": "Apresentações",
+  "q": "Diga em inglês: \"Prazer em conhecer você.\"",
+  "a": [
+   "^(it's |it is )?(nice|good|great|a pleasure) to meet you$",
+   "^pleased to meet you$"
+  ],
+  "ex": "Nice to meet you.",
+  "out": "",
+  "why": "Frase usada na primeira vez que encontra alguém.",
+  "hint": "Nice to ..."
+ },
+ {
+  "id": "a1-t-6",
+  "topic": "Sobrevivência",
+  "q": "Diga em inglês: \"Eu não entendo.\"",
+  "a": [
+   "^i (do not|don't) understand$"
+  ],
+  "ex": "I don't understand.",
+  "out": "",
+  "why": "Frase de sobrevivência nº 1.",
+  "hint": "I don't ..."
+ },
+ {
+  "id": "a1-t-7",
+  "topic": "Sobrevivência",
+  "q": "Diga em inglês: \"Você pode repetir, por favor?\"",
+  "a": [
+   "^(can|could) you (please )?(repeat|say) (that|it)( again)?,? ?(please)?$",
+   "^(can|could) you repeat that,? please$"
+  ],
+  "ex": "Can you repeat that, please?",
+  "out": "Também: Pardon? / Sorry, what was that?",
+  "why": "'Could' é um pouco mais educado que 'can'.",
+  "hint": "Can you ... that, please?"
+ },
+ {
+  "id": "a1-t-8",
+  "topic": "Sobrevivência",
+  "q": "Diga em inglês: \"Obrigado.\"",
+  "a": [
+   "^thank you( so much| very much)?$",
+   "^thanks( a lot| so much)?$"
+  ],
+  "ex": "Thank you.",
+  "out": "Informal: Thanks!",
+  "why": "Simples e universal.",
+  "hint": "Thank ..."
+ },
+ {
+  "id": "a1-t-9",
+  "topic": "Sobrevivência",
+  "q": "Diga em inglês: \"De nada.\" (forma educada)",
+  "a": [
+   "^(you are|you're) welcome$"
+  ],
+  "ex": "You're welcome.",
+  "out": "Informal: No problem. / No worries.",
+  "why": "Resposta a 'thank you'.",
+  "hint": "You're ..."
+ },
+ {
+  "id": "a1-t-10",
+  "topic": "Sobrevivência",
+  "q": "Diga em inglês: \"Com licença, onde fica o banheiro?\"",
+  "a": [
+   "^excuse me,? where('s| is) the (bathroom|restroom|toilet)$",
+   "^where('s| is) the (bathroom|restroom|toilet)$"
+  ],
+  "ex": "Excuse me, where is the bathroom?",
+  "out": "Nos EUA: restroom ou bathroom.",
+  "why": "Excuse me chama a atenção da pessoa.",
+  "hint": "Excuse me, where ..."
+ },
+ {
+  "id": "a1-t-11",
+  "topic": "Números e horas",
+  "q": "Diga em inglês: \"Que horas são?\"",
+  "a": [
+   "^what time is it( now)?$",
+   "^what's the time$"
+  ],
+  "ex": "What time is it?",
+  "out": "",
+  "why": "Pergunta padrão. Resposta: It's 3 o'clock.",
+  "hint": "What time ..."
+ },
+ {
+  "id": "a1-t-12",
+  "topic": "Números e horas",
+  "q": "Diga em inglês: \"Quanto custa isto?\"",
+  "a": [
+   "^how much (is|does) (this|it)( cost)?$"
+  ],
+  "ex": "How much is this?",
+  "out": "Plural: How much are these?",
+  "why": "Para preço use How much.",
+  "hint": "How much ..."
+ },
+ {
+  "id": "a1-t-13",
+  "topic": "Família e casa",
+  "q": "Diga em inglês: \"Ela é minha irmã.\"",
+  "a": [
+   "^(she is|she's) my sister$"
+  ],
+  "ex": "She's my sister.",
+  "out": "",
+  "why": "she + is + my + sister.",
+  "hint": "She is ..."
+ },
+ {
+  "id": "a1-t-14",
+  "topic": "Família e casa",
+  "q": "Diga em inglês: \"Eu moro em São Paulo.\"",
+  "a": [
+   "^i live in (são|sao) paulo$"
+  ],
+  "ex": "I live in São Paulo.",
+  "out": "",
+  "why": "live in + cidade.",
+  "hint": "I live ..."
+ },
+ {
+  "id": "a1-t-15",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Eu bebo café todas as manhãs.\"",
+  "a": [
+   "^i drink coffee every morning$",
+   "^every morning,? i drink coffee$"
+  ],
+  "ex": "I drink coffee every morning.",
+  "out": "",
+  "why": "Present simple para hábitos.",
+  "hint": "I drink ..."
+ },
+ {
+  "id": "a1-t-16",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Ele não gosta de pizza.\"",
+  "a": [
+   "^he (doesn't|does not) like pizza$"
+  ],
+  "ex": "He doesn't like pizza.",
+  "out": "",
+  "why": "he/she/it → doesn't + verbo base (sem -s).",
+  "hint": "He doesn't ..."
+ },
+ {
+  "id": "a1-t-17",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Eu estou com fome.\"",
+  "a": [
+   "^(i am|i'm) hungry$"
+  ],
+  "ex": "I'm hungry.",
+  "out": "",
+  "why": "Sensações usam to be (hungry, thirsty, cold, tired).",
+  "hint": "I am ..."
+ },
+ {
+  "id": "a1-t-18",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Meu pai trabalha em um banco.\"",
+  "a": [
+   "^my (father|dad) works (in|at) a bank$"
+  ],
+  "ex": "My dad works at a bank.",
+  "out": "",
+  "why": "he/she → works (com -s).",
+  "hint": "My dad ..."
+ },
+ {
+  "id": "a1-t-19",
+  "topic": "Verbo To Be",
+  "q": "Diga em inglês: \"Eu sou professor.\"",
+  "a": [
+   "^i am (a )?teacher$"
+  ],
+  "ex": "I'm a teacher.",
+  "out": "",
+  "why": "I + am. Profissão leva a/an.",
+  "hint": "I'm a ..."
+ },
+ {
+  "id": "a1-t-20",
+  "topic": "Família",
+  "q": "Diga em inglês: \"Ela tem dois irmãos.\"",
+  "a": [
+   "^she has (two|2) (brothers|siblings)$"
+  ],
+  "ex": "She has two brothers.",
+  "out": "",
+  "why": "She + has (3ª pessoa de have).",
+  "hint": "She has ..."
+ },
+ {
+  "id": "a1-t-21",
+  "topic": "Família",
+  "q": "Diga em inglês: \"Eu moro com meus pais.\"",
+  "a": [
+   "^i live with my (parents|mom and dad|mother and father)$"
+  ],
+  "ex": "I live with my parents.",
+  "out": "",
+  "why": "live with = morar com.",
+  "hint": "I live with ..."
+ },
+ {
+  "id": "a1-t-22",
+  "topic": "Perguntas",
+  "q": "Diga em inglês: \"Que dia é hoje?\"",
+  "a": [
+   "^what day is (it|today)( today)?$"
+  ],
+  "ex": "What day is it today?",
+  "out": "",
+  "why": "What day is it?",
+  "hint": "What day ..."
+ },
+ {
+  "id": "a1-t-23",
+  "topic": "Perguntas",
+  "q": "Diga em inglês: \"Onde você mora?\"",
+  "a": [
+   "^where do you live$"
+  ],
+  "ex": "Where do you live?",
+  "out": "",
+  "why": "Where + do + you + verbo.",
+  "hint": "Where do ..."
+ },
+ {
+  "id": "a1-t-24",
+  "topic": "Present Simple",
+  "q": "Diga em inglês: \"Eu não tenho carro.\"",
+  "a": [
+   "^i do not have a car$"
+  ],
+  "ex": "I don't have a car.",
+  "out": "",
+  "why": "Negativa: do not + verbo.",
+  "hint": "I don't ..."
+ },
+ {
+  "id": "a1-t-25",
+  "topic": "Present Simple",
+  "q": "Diga em inglês: \"Eu gosto de música.\"",
+  "a": [
+   "^i like music$",
+   "^i love music$"
+  ],
+  "ex": "I like music.",
+  "out": "",
+  "why": "like + substantivo.",
+  "hint": "I like ..."
+ },
+ {
+  "id": "a1-t-26",
+  "topic": "Objetos",
+  "q": "Diga em inglês: \"Meu telefone é novo.\"",
+  "a": [
+   "^my (phone|cell phone|cellphone) is new$"
+  ],
+  "ex": "My phone is new.",
+  "out": "",
+  "why": "Possessivo + substantivo + is.",
+  "hint": "My phone ..."
+ },
+ {
+  "id": "a1-t-27",
+  "topic": "Perguntas",
+  "q": "Diga em inglês: \"Quantos anos você tem?\"",
+  "a": [
+   "^how old are you$"
+  ],
+  "ex": "How old are you?",
+  "out": "",
+  "why": "Idade usa o verbo to be.",
+  "hint": "How old ..."
+ },
+ {
+  "id": "a1-t-28",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Eu acordo às sete.\"",
+  "a": [
+   "^i (wake up|get up) at (seven|7)( o'clock)?$"
+  ],
+  "ex": "I wake up at seven.",
+  "out": "",
+  "why": "at + hora.",
+  "hint": "I wake up ..."
+ },
+ {
+  "id": "a1-t-29",
+  "topic": "Rotina",
+  "q": "Diga em inglês: \"Eu tenho uma reunião hoje.\"",
+  "a": [
+   "^i have a meeting today$"
+  ],
+  "ex": "I have a meeting today.",
+  "out": "",
+  "why": "have a meeting.",
+  "hint": "I have ..."
+ }
+]

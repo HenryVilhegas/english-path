@@ -1,0 +1,230 @@
+{
+ "level": "Dicas",
+ "sections": [
+  {
+   "title": "Pares Mínimos (Minimal Pairs)",
+   "blocks": [
+    {
+     "h": "Por que isso trava a comunicação",
+     "p": "Em português, você quase nunca troca o sentido de uma palavra mudando só a vogal ou um som de consoante. Em inglês, isso é comum: dizer <b>'ship'</b> no lugar de <b>'sheep'</b> muda completamente a frase, e o ouvinte nativo não 'adivinha' pelo contexto tão fácil quanto você imagina."
+    },
+    {
+     "h": "Grupo 1: i curto (ship) x í longo (sheep)",
+     "list": [
+      "O som de 'ship' é mais curto e relaxado, parecido com um 'i' rápido. O de 'sheep' é mais longo e tenso, como um 'í' esticado.",
+      "Mais exemplos: <b>sit</b> (sentar) x <b>seat</b> (assento) · <b>bit</b> (pedacinho) x <b>beat</b> (bater, ritmo) · <b>fill</b> (encher) x <b>feel</b> (sentir)."
+     ]
+    },
+    {
+     "say": [
+      "I need a ship. | Eu preciso de um navio. | ai nid â chip",
+      "I need a sheep. | Eu preciso de uma ovelha. | ai nid â chíp",
+      "Please sit down. | Por favor, sente-se. | plíz sit dáun",
+      "Take a seat. | Sente-se (assento). | têik â sít"
+     ]
+    },
+    {
+     "h": "Grupo 2: TH (three) x T/F",
+     "list": [
+      "O som de <b>'th'</b> em 'three' não existe em português. A língua fica entre os dentes, soltando o ar (parecido com um 's' ou 'f' muito suave, nunca um 't' puro).",
+      "Troque 'tree' (árvore) por 'three' (três) e a frase muda de sentido. Outro exemplo: <b>think</b> (pensar) x <b>sink</b> (pia) ou <b>tink</b> (não existe, mas é o erro comum)."
+     ]
+    },
+    {
+     "say": [
+      "There are three trees. | Há três árvores. | dér ar thrí tríz",
+      "I think about it. | Eu penso sobre isso. | ai think â-báut it"
+     ]
+    },
+    {
+     "h": "Grupo 3: vogal de 'cat' x 'cut' x 'hot'",
+     "list": [
+      "<b>cat</b> (gato): vogal aberta, tipo 'é' bem aberto. <b>cut</b> (cortar): vogal central, parecido com 'â' neutro. <b>hot</b> (quente): vogal mais arredondada, tipo 'ó'.",
+      "Confundir essas três vogais é um dos erros mais comuns de brasileiro e pode trocar o sentido da frase inteira."
+     ]
+    },
+    {
+     "say": [
+      "The cat is black. | O gato é preto. | dâ két iz blék",
+      "Cut the paper. | Corte o papel. | kât dâ PÊI-per",
+      "It's really hot today. | Está muito calor hoje. | its RÍ-li rót tu-DÊI"
+     ]
+    },
+    {
+     "h": "Grupo 4: L x R (light x right)",
+     "list": [
+      "O 'r' do inglês americano não é vibrado como o 'r' do português. É mais parecido com um som que quase não toca a boca, enquanto o 'l' toca a ponta da língua no céu da boca.",
+      "<b>light</b> (luz/leve) x <b>right</b> (direita/certo) é o par clássico que mais confunde."
+     ]
+    },
+    {
+     "say": [
+      "Turn on the light. | Ligue a luz. | térn on dâ láit",
+      "Turn right here. | Vire à direita aqui. | térn ráit rír"
+     ]
+    },
+    {
+     "tip": "Treine ouvindo e repetindo os pares em voz alta (técnica de <b>shadowing</b>). Não adianta só ler: o ouvido precisa se acostumar com a diferença antes da boca conseguir reproduzir."
+    },
+    {
+     "warn": "Não existe 'jeito fácil' para o TH e o R americano. São sons que exigem prática de repetição. Não desanime se não saírem perfeitos de primeira."
+    }
+   ]
+  },
+  {
+   "title": "Números e Datas Falados",
+   "blocks": [
+    {
+     "h": "Números grandes: 'fifteen hundred', não 'one thousand five hundred'",
+     "p": "Para números de 4 dígitos entre 1100 e 9999, o americano geralmente fala em <b>centenas</b>, e não na forma 'completa' que o brasileiro aprende primeiro. <b>1500</b> é quase sempre <b>'fifteen hundred'</b>, raramente 'one thousand five hundred' (que existe, mas soa mais formal/menos natural)."
+    },
+    {
+     "list": [
+      "1200 → <b>twelve hundred</b> · 1800 → <b>eighteen hundred</b> · 2500 → <b>twenty-five hundred</b>.",
+      "Só no caso de números 'redondos' de milhar (2000, 5000, 10000) é que se usa a forma 'thousand': <b>two thousand</b>, <b>five thousand</b>.",
+      "Números com zero no meio (2050) voltam a usar 'thousand': <b>two thousand fifty</b>."
+     ]
+    },
+    {
+     "h": "Anos: sempre em dois blocos de dois dígitos",
+     "list": [
+      "<b>1999</b> = nineteen (19) + ninety-nine (99) → <b>nineteen ninety-nine</b>.",
+      "<b>2016</b> = twenty (20) + sixteen (16) → <b>twenty sixteen</b>.",
+      "<b>2000</b> é exceção: fala-se <b>two thousand</b>. De 2001 a 2009, pode ser 'two thousand and one' ou, mais informal, 'twenty-oh-one'.",
+      "<b>2024</b> = twenty twenty-four."
+     ]
+    },
+    {
+     "say": [
+      "I graduated in twenty nineteen. | Eu me formei em 2019. | ai GRÉ-diu-êi-tid in TUÉN-ti náin-TÍN",
+      "The year two thousand was a big deal. | O ano 2000 foi importante. | dâ iér tu THÁU-zend uóz â big díu"
+     ]
+    },
+    {
+     "h": "Datas: dia como ordinal, mês antes do dia (nos EUA)",
+     "list": [
+      "Nos EUA, a ordem escrita é mês/dia/ano: <b>July 4th, 2024</b> (month/day/year).",
+      "Fala-se o dia como <b>número ordinal</b>: 4th = 'the fourth', não 'four'. <b>July 4th</b> = 'July fourth' ou 'the fourth of July'.",
+      "21st = 'twenty-first' · 3rd = 'third' · 30th = 'thirtieth'."
+     ]
+    },
+    {
+     "say": [
+      "My birthday is on May 3rd. | Meu aniversário é 3 de maio. | mai BÉRTH-dei iz on mêi thérd",
+      "The meeting is on June 21st. | A reunião é dia 21 de junho. | dâ MÍ-ting iz on djun TUÉN-ti-férst"
+     ]
+    },
+    {
+     "h": "Horas: 'three fifteen' ou 'quarter past three'",
+     "list": [
+      "Forma direta (mais comum hoje): diz-se a hora e os minutos como dois números. <b>3:15</b> = 'three fifteen'. <b>3:45</b> = 'three forty-five'.",
+      "Forma clássica (ainda usada, mais em contexto formal/educado): <b>3:15</b> = 'a quarter past three'. <b>3:30</b> = 'half past three'. <b>3:45</b> = 'a quarter to four' (conta pra frente a partir da próxima hora).",
+      "AM/PM sempre se aplicam: <b>7 AM</b> = 'seven ay-em', <b>7 PM</b> = 'seven pee-em'."
+     ]
+    },
+    {
+     "say": [
+      "Let's meet at a quarter to five. | Vamos nos encontrar às 16h45. | léts mít ét â KUÓR-ter tu fáiv",
+      "The store opens at nine AM. | A loja abre às 9h. | dâ stór ÓU-penz ét náin ÊI-ém"
+     ]
+    },
+    {
+     "h": "Preços: igual aos números, dois blocos",
+     "list": [
+      "<b>$19.99</b> = 'nineteen ninety-nine' (quase nunca 'nineteen dollars and ninety-nine cents' no dia a dia falado).",
+      "<b>$5.00</b> = 'five dollars' ou simplesmente 'five bucks' (informal)."
+     ]
+    },
+    {
+     "h": "Telefone: dígito por dígito, 'oh' para zero",
+     "list": [
+      "Número de telefone se fala <b>um dígito por vez</b>, nunca como número grande.",
+      "O zero (0) costuma ser pronunciado como a letra <b>'oh'</b>, não 'zero', no meio de uma sequência de dígitos: <b>205</b> no telefone = 'two oh five'."
+     ]
+    },
+    {
+     "say": [
+      "My number is two one five, oh one three, four four five six. | Meu número é 215-013-4456. | mai NÂM-ber iz tu uân fáiv, ôu uân thrí, fór fór fáiv síks"
+     ]
+    },
+    {
+     "tip": "Se alguém falar um número grande rápido demais, peça: <b>'Could you say that again, number by number?'</b> (Pode repetir número por número?)."
+    },
+    {
+     "warn": "Não traduza anos palavra por palavra do português ('two thousand and twenty-four' em vez de 'twenty twenty-four'). Funciona, mas soa menos natural do que o padrão em blocos de dois dígitos."
+    }
+   ]
+  },
+  {
+   "title": "Entonação: Pergunta vs Afirmação",
+   "blocks": [
+    {
+     "h": "A regra básica",
+     "p": "Perguntas de <b>sim/não</b> (que começam com verbo auxiliar: Are, Do, Can, Is, Did...) sobem a voz no final. Perguntas com <b>palavra wh-</b> (What, Where, When, Who, Why, How) e <b>afirmações</b> geralmente descem a voz no final, como no português."
+    },
+    {
+     "svg": "<svg viewBox='0 0 640 130' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='Entonação sobe ou desce'><rect x='10' y='10' width='300' height='100' rx='8' fill='#2e9e6b'/><text x='160' y='34' font-weight='bold'>SOBE ↗</text><text x='160' y='60'>Are you coming?</text><text x='160' y='84' font-size='11' fill='#d8f5e6'>pergunta sim/não</text><rect x='330' y='10' width='300' height='100' rx='8' fill='#5b7fbf'/><text x='480' y='34' font-weight='bold'>DESCE ↘</text><text x='480' y='60'>Where are you going?</text><text x='480' y='84' font-size='11' fill='#d8e4ff'>pergunta com wh- / afirmação</text></svg>"
+    },
+    {
+     "h": "Perguntas sim/não (sobem ↗)",
+     "list": [
+      "Começam com auxiliar: <b>Are, Is, Do, Does, Did, Can, Could, Will, Would, Have</b>.",
+      "A resposta esperada é 'yes' ou 'no'. A voz sobe no final da última palavra."
+     ]
+    },
+    {
+     "say": [
+      "Is this seat taken? ↗ | Esse lugar está ocupado? | iz dis sít TÊI-ken",
+      "Do you speak English? ↗ | Você fala inglês? | du iú spík ÍNG-lich",
+      "Can you help me? ↗ | Você pode me ajudar? | kén iú rélp mi",
+      "Did you see that? ↗ | Você viu isso? | did iú si dét"
+     ]
+    },
+    {
+     "h": "Perguntas com wh- (descem ↘)",
+     "list": [
+      "Começam com <b>What, Where, When, Who, Why, How, Which</b>.",
+      "A pergunta pede uma informação específica, não 'sim/não'. A voz desce no final, como numa afirmação comum."
+     ]
+    },
+    {
+     "say": [
+      "What's your name? ↘ | Qual é o seu nome? | uóts iór nêim",
+      "Why are you upset? ↘ | Por que você está chateado? | uái ar iú âp-SÉT",
+      "How did you get here? ↘ | Como você chegou aqui? | rau did iú guét rír"
+     ]
+    },
+    {
+     "h": "Afirmações (descem ↘), igual ao português",
+     "list": [
+      "Frases afirmativas simples descem a voz no final, como no português. O erro comum de quem aprende é manter o tom 'subindo' demais em frases comuns, o que soa como insegurança ou como se tudo fosse pergunta."
+     ]
+    },
+    {
+     "say": [
+      "I live in São Paulo. ↘ | Eu moro em São Paulo. | ai liv in sáu páu-lô",
+      "This is my favorite song. ↘ | Essa é minha música favorita. | dis iz mai FÊI-ve-rit song"
+     ]
+    },
+    {
+     "h": "Pergunta com entonação de confirmação (tag questions)",
+     "list": [
+      "Em frases como <b>'You're coming, right?'</b> ou <b>'It's cold, isn't it?'</b>, a parte final ('right?', 'isn't it?') normalmente sobe ↗ quando é uma pergunta de verdade (você não sabe a resposta), e desce ↘ quando é apenas uma confirmação (você já espera que sim)."
+     ]
+    },
+    {
+     "say": [
+      "You're coming, right? ↗ | Você vem, né? (pergunta de verdade) | iór KÂ-ming, ráit",
+      "It's cold, isn't it? ↘ | Está frio, não é? (só confirmando) | its kôuld, Í-zent it"
+     ]
+    },
+    {
+     "tip": "Grave sua própria voz lendo os exemplos acima e compare com o áudio do app (botão 🔊). No começo, exagere a subida e a queda: é mais fácil suavizar depois do que começar sem nenhuma curva."
+    },
+    {
+     "warn": "Falar tudo em tom 'de pergunta' (subindo sempre no final) é um padrão conhecido como 'uptalk'. Em inglês americano, isso é percebido como hesitação ou insegurança, mesmo quando a frase é uma afirmação comum."
+    }
+   ]
+  }
+ ]
+}

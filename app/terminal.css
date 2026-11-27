@@ -1,0 +1,30 @@
+
+/* ===== Terminal de prática ===== */
+.term-toolbar { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin: 8px 0 12px; font-size: 14px; color: #cdd7e2; }
+.term-toolbar label { display: flex; gap: 6px; align-items: center; cursor: pointer; }
+.term {
+  background: #0b1220; border: 1px solid var(--panel-2); border-radius: 10px; overflow: hidden;
+  font-family: Consolas, "Courier New", monospace; font-size: 14px;
+}
+.term-bar { display: flex; align-items: center; gap: 6px; padding: 8px 12px; background: #131c2e; border-bottom: 1px solid var(--panel-2); }
+.term-bar .dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+.term-bar .dot.r { background: #ff5f56; } .term-bar .dot.y { background: #ffbd2e; } .term-bar .dot.g { background: #27c93f; }
+.term-title { margin-left: 8px; color: #9aa7b8; font-size: 12px; }
+.term-body { height: 360px; overflow-y: auto; padding: 12px 14px; line-height: 1.55; }
+.term-line { white-space: pre-wrap; word-break: break-word; min-height: 1.2em; }
+.term-line.cmd { color: #9fe8b5; }
+.term-line.out { color: #cdd7e2; }
+.term-line.ok { color: #6ee787; }
+.term-line.err { color: #ff8f8f; }
+.term-line.hint { color: #ffd9b0; }
+.term-line.ans { color: #7cc4ff; font-weight: bold; }
+.term-line.task { color: #7cc4ff; }
+.term-line.dim { color: #7d8aa0; }
+.term-input { display: flex; align-items: center; gap: 8px; padding: 10px 14px; border-top: 1px solid var(--panel-2); background: #0e1626; }
+.term-prompt { color: #6ee787; }
+.term-input input {
+  flex: 1; background: transparent; border: none; outline: none; color: #e6edf3;
+  font-family: inherit; font-size: 14px; caret-color: #6ee787;
+}
+.term-actions { display: flex; gap: 8px; margin-top: 12px; flex-wrap: wrap; }
+@media (max-width: 600px) { .term-body { height: 300px; } }

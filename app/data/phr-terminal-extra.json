@@ -1,0 +1,146 @@
+[
+ {
+  "id": "phrx-t-1",
+  "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+  "q": "Diga em inglês: \"Vou te buscar às seis.\" (pick up)",
+  "a": [
+   "^i'?ll pick you up at six$"
+  ],
+  "ex": "I'll pick you up at six.",
+  "out": "",
+  "why": "pick up = buscar alguém.",
+  "hint": "I'll pick ..."
+ },
+ {
+  "id": "phrx-t-2",
+  "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+  "q": "Diga em inglês: \"Ela teve uma ideia ótima.\" (come up with)",
+  "a": [
+   "^she came up with a great idea$"
+  ],
+  "ex": "She came up with a great idea.",
+  "out": "",
+  "why": "come up with = criar/ter uma ideia.",
+  "hint": "She came up ..."
+ },
+ {
+  "id": "phrx-t-3",
+  "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+  "q": "Diga em inglês: \"Acabamos ficando em casa.\" (end up)",
+  "a": [
+   "^we ended up staying (at )?home$"
+  ],
+  "ex": "We ended up staying home.",
+  "out": "",
+  "why": "end up = resultado não planejado.",
+  "hint": "We ended up ..."
+ },
+ {
+  "id": "phrx-t-4",
+  "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+  "q": "Diga em inglês: \"Ficamos sem leite.\" (run out of)",
+  "a": [
+   "^we ran out of milk$"
+  ],
+  "ex": "We ran out of milk.",
+  "out": "",
+  "why": "run out of = ficar sem algo.",
+  "hint": "We ran out ..."
+ },
+ {
+  "id": "phrx-t-5",
+  "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+  "q": "Diga em inglês: \"Consegue resolver esse problema?\" (figure out)",
+  "a": [
+   "^can you figure out this problem$"
+  ],
+  "ex": "Can you figure out this problem?",
+  "out": "",
+  "why": "figure out = descobrir como resolver.",
+  "hint": "Can you figure ..."
+ },
+ {
+  "id": "phrx-t-6",
+  "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+  "q": "Diga em inglês: \"Vamos resolver isso.\" (sort out)",
+  "a": [
+   "^let'?s sort this out$"
+  ],
+  "ex": "Let's sort this out.",
+  "out": "",
+  "why": "sort out = resolver, organizar.",
+  "hint": "Let's sort ..."
+ },
+ {
+  "id": "phrx-t-7",
+  "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+  "q": "Diga em inglês: \"Espera um segundo.\" (hold on)",
+  "a": [
+   "^hold on a second$"
+  ],
+  "ex": "Hold on a second.",
+  "out": "",
+  "why": "hold on = esperar.",
+  "hint": "Hold on ..."
+ },
+ {
+  "id": "phrx-t-8",
+  "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+  "q": "Diga em inglês: \"Pode me deixar aqui?\" (drop off)",
+  "a": [
+   "^can you drop me off here$"
+  ],
+  "ex": "Can you drop me off here?",
+  "out": "",
+  "why": "drop off = deixar alguém num lugar.",
+  "hint": "Can you drop ..."
+ },
+ {
+  "id": "phrx-t-9",
+  "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+  "q": "Diga em inglês: \"Onde eu desço?\" (get off)",
+  "a": [
+   "^where do i get off$"
+  ],
+  "ex": "Where do I get off?",
+  "out": "",
+  "why": "get off = descer de transporte.",
+  "hint": "Where do I ..."
+ },
+ {
+  "id": "phrx-t-10",
+  "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+  "q": "Diga em inglês: \"Desligue isso.\" (com pronome, separável)",
+  "a": [
+   "^turn it off$"
+  ],
+  "ex": "Turn it off.",
+  "out": "",
+  "why": "Com pronome, separável SEMPRE separa.",
+  "hint": "Turn it ..."
+ },
+ {
+  "id": "phrx-t-11",
+  "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+  "q": "Diga em inglês: \"Cuide dele.\" (look after, inseparável)",
+  "a": [
+   "^look after him$"
+  ],
+  "ex": "Look after him.",
+  "out": "",
+  "why": "look after nunca separa.",
+  "hint": "Look after ..."
+ },
+ {
+  "id": "phrx-t-12",
+  "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+  "q": "Diga em inglês: \"Encontrei ela por acaso.\" (run into)",
+  "a": [
+   "^i ran into her$"
+  ],
+  "ex": "I ran into her.",
+  "out": "",
+  "why": "run into = encontrar por acaso, inseparável.",
+  "hint": "I ran ..."
+ }
+]

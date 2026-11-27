@@ -1,0 +1,56 @@
+{
+  "level": "Teste de Nível",
+  "sections": [
+    {
+      "title": "Como funciona o Teste",
+      "blocks": [
+        { "h": "A escala dos níveis", "p": "O <b>CEFR</b> (Quadro Europeu Comum de Referência) divide o aprendizado em seis níveis. É a mesma escala usada por Cambridge, IELTS, TOEFL e Duolingo (com pequenas diferenças)." },
+        { "svg": "<svg viewBox='0 0 640 210' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Escada de níveis do CEFR'><g font-weight='bold'><rect x='10' y='150' width='95' height='50' rx='6' fill='#3fa56b'/><text x='57' y='172'>A1</text><text x='57' y='190' font-size='10' font-weight='normal'>Iniciante</text><rect x='115' y='125' width='95' height='75' rx='6' fill='#3fa56b'/><text x='162' y='150'>A2</text><text x='162' y='168' font-size='10' font-weight='normal'>Básico</text><rect x='220' y='100' width='95' height='100' rx='6' fill='#5b7fbf'/><text x='267' y='130'>B1</text><text x='267' y='148' font-size='10' font-weight='normal'>Intermediário</text><rect x='325' y='75' width='95' height='125' rx='6' fill='#5b7fbf'/><text x='372' y='110'>B2</text><text x='372' y='128' font-size='10' font-weight='normal'>Int. superior</text><rect x='430' y='50' width='95' height='150' rx='6' fill='#8a5fbf'/><text x='477' y='90'>C1</text><text x='477' y='108' font-size='10' font-weight='normal'>Avançado</text><rect x='535' y='25' width='95' height='175' rx='6' fill='#c9803a'/><text x='582' y='70'>C2</text><text x='582' y='88' font-size='10' font-weight='normal'>Proficiente</text></g><text x='320' y='16' fill='#9aa7b8'>Usuário básico (A) · independente (B) · proficiente (C)</text></svg>" },
+        { "h": "Como usar este teste", "list": ["Vá em <b>Quiz</b> de cada seção (Nível A1, A2, B1, B2, C1), ou use o botão <b>Testar esta seção</b>.", "<b>Não consulte</b> nada. O erro é a informação mais valiosa.", "Anote a % de cada nível. O <b>maior nível com 75% ou mais</b> é o seu ponto de partida.", "Estude o módulo desse nível (e revise o anterior). Repita o teste em 2 a 4 semanas."] },
+        { "h": "Interpretando o resultado", "list": ["<b>A1 abaixo de 75%</b>: comece pelo módulo A1, do começo.", "<b>A1 ok, A2 abaixo</b>: seu nível é A1. Estude A2.", "<b>B1 ok, B2 abaixo</b>: você é B1 — o ponto onde muita gente estaciona. Foque em B2 e no inglês de rua.", "<b>C1 ok</b>: parabéns! Foque em precisão, registro e naturalidade (módulos de rua e phrasal verbs)."] },
+        { "h": "💡 Dica", "p": "Este teste é de <b>gramática e vocabulário</b>. Listening e speaking exigem prática à parte: use o botão 🔊 e o modo 'Escrever em inglês' do app. Provas oficiais (Cambridge, TOEFL, IELTS) avaliam as 4 habilidades." },
+        { "h": "⚠️ Pegadinhas", "list": ["Chutar infla o resultado e atrapalha o plano de estudo.", "Um nível alto em gramática com baixa prática oral é comum: use o modo de escrita e shadowing.", "Provas oficiais podem exigir mais que este teste mostra."] }
+      ]
+    },
+    {
+      "title": "Nível A1",
+      "blocks": [
+        { "h": "O que se espera de A1", "list": ["Apresentar-se e perguntar dados pessoais simples.", "Usar <b>to be</b>, artigos a/an/the, plural, present simple, números, dias, cores.", "Entender frases muito simples, ditas devagar.", "Pedir e agradecer."] },
+        { "say": ["Nice to meet you. | Prazer em conhecer.", "I'm a student. | Sou estudante.", "Where are you from? | De onde você é?", "I live in São Paulo. | Moro em São Paulo.", "What time is it? | Que horas são?"] },
+        { "h": "⚠️ Pegadinhas de A1", "list": ["'I have 25 years' ✗ → <b>I am 25</b> ✓.", "Plurais irregulares: child → children, man → men.", "Present simple com he/she/it: <b>-s</b> (drinks) e negativa com <b>doesn't</b> + verbo base."] }
+      ]
+    },
+    {
+      "title": "Nível A2",
+      "blocks": [
+        { "h": "O que se espera de A2", "list": ["Contar o que fez ontem (past simple), falar de planos (going to).", "Comparar coisas, falar de comida, compras, direções, transporte.", "Contáveis × incontáveis (some/any, much/many).", "Fazer pedidos educados com can/could."] },
+        { "say": ["I went to the beach last weekend. | Fui à praia no fim de semana passado.", "She's taller than her brother. | Ela é mais alta que o irmão.", "I'm going to study tonight. | Vou estudar hoje à noite.", "Can I have some water, please? | Posso tomar um pouco de água, por favor?"] },
+        { "h": "⚠️ Pegadinhas de A2", "list": ["Irregulares: go/went, see/saw, eat/ate, buy/bought.", "'interested <b>in</b>', 'good <b>at</b>', 'afraid <b>of</b>': preposições fixas.", "Past continuous + past simple para interrupção: 'I <b>was</b> watching TV when the phone <b>rang</b>.'"] }
+      ]
+    },
+    {
+      "title": "Nível B1",
+      "blocks": [
+        { "h": "O que se espera de B1", "list": ["Contar experiências e dar opiniões simples.", "<b>Present perfect</b> (have lived, have been), <b>since × for</b>.", "Condicionais 0 e 1, modais (should, must, might), <b>used to</b>.", "Conectores: although, however, because of."] },
+        { "say": ["I've been to New York twice. | Já fui a Nova York duas vezes.", "You should see a doctor. | Você deveria ir ao médico.", "I used to play soccer every day. | Eu jogava futebol todo dia.", "I'm looking forward to seeing you. | Mal posso esperar para te ver."] },
+        { "h": "⚠️ Pegadinhas de B1", "list": ["<b>Since</b> (ponto no tempo) × <b>for</b> (duração).", "Modais não levam 'to' e não têm -s: 'He <b>can</b> swim' (não 'cans').", "<b>Because</b> + oração × <b>because of</b> + substantivo."] }
+      ]
+    },
+    {
+      "title": "Nível B2",
+      "blocks": [
+        { "h": "O que se espera de B2", "list": ["Conversar com espontaneidade e discutir temas abstratos.", "Condicionais 2 e 3, <b>passive voice</b>, discurso indireto, orações relativas.", "<b>Wish</b> e would rather, future perfect, gerúndio × infinitivo.", "Escrever textos claros: e-mails, relatórios, opiniões."] },
+        { "say": ["If I were you, I would apply. | Se eu fosse você, me candidataria.", "The report was written by the team. | O relatório foi escrito pela equipe.", "She said she would call me later. | Ela disse que me ligaria depois.", "I wish I had more free time. | Queria ter mais tempo livre."] },
+        { "h": "⚠️ Pegadinhas de B2", "list": ["'If I <b>were</b>' (não 'was') em registro cuidadoso.", "Terceira condicional: <b>if + had + particípio, would have + particípio</b>.", "'suggest/enjoy/avoid + <b>-ing</b>'; 'decide/hope/want + <b>to</b>'."] }
+      ]
+    },
+    {
+      "title": "Nível C1",
+      "blocks": [
+        { "h": "O que se espera de C1", "list": ["Usar o idioma com flexibilidade e precisão, em contexto profissional e acadêmico.", "<b>Inversão</b> (Hardly had..., Rarely have...), <b>cleft sentences</b> (It was... that...).", "<b>Collocations</b> naturais (make a decision, reach a conclusion), registro formal × informal.", "<b>Hedging</b> (it seems that, might suggest) para soar diplomático."] },
+        { "say": ["Hardly had I sat down when the phone rang. | Mal me sentei e o telefone tocou.", "It was not until later that I realized my mistake. | Só mais tarde percebi meu erro.", "The proposal was met with skepticism. | A proposta foi recebida com ceticismo.", "I might be mistaken, but I think there's an error. | Posso estar enganado, mas acho que há um erro."] },
+        { "h": "⚠️ Pegadinhas de C1", "list": ["Inversão exige auxiliar antes do sujeito: 'Rarely <b>have I</b> seen...'.", "Collocations não se traduzem palavra por palavra ('do a decision' ✗).", "Formalidade: contrações e phrasal verbs são informais; prefira verbos formais em textos acadêmicos."] }
+      ]
+    }
+  ]
+}

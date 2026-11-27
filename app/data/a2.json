@@ -1,0 +1,416 @@
+{
+ "level": "A2",
+ "name": "A2 · Básico",
+ "description": "Passado simples, planos e futuro, comparar coisas, comida e compras, direções, pedidos educados com can/could.",
+ "flashcards": [
+  {
+   "id": "a2-fc-1",
+   "topic": "Past Simple",
+   "front": "Past simple <b>regular</b>.",
+   "back": "Verbo + <b>-ed</b>: work → worked, play → played. Termina em -e: +d (live → lived). Consoante + y → -ied (study → studied).",
+   "en": "I worked yesterday and I played soccer.",
+   "syl": "ai UÉRKT IÉS-ter-dêi end ai pléid SÓ-ker"
+  },
+  {
+   "id": "a2-fc-2",
+   "topic": "Past Simple",
+   "front": "Passados <b>irregulares</b> mais comuns.",
+   "back": "go → went · see → saw · eat → ate · have → had · buy → bought · come → came · do → did · get → got · make → made · take → took.",
+   "en": "I went, I saw, I ate, I had, I bought.",
+   "syl": "ai uênt, ai só, ai ét, ai réd, ai BÓT"
+  },
+  {
+   "id": "a2-fc-3",
+   "topic": "Past Simple",
+   "front": "Negativa e pergunta no passado.",
+   "back": "<b>didn't</b> + verbo base / <b>Did</b> + sujeito + verbo base? O verbo principal <b>volta ao infinitivo</b>.",
+   "en": "Did you go to the party? No, I didn't go.",
+   "syl": "did iú gôu tu dâ PÁR-ti · nôu, ai DÍ-dent gôu"
+  },
+  {
+   "id": "a2-fc-4",
+   "topic": "Past Simple",
+   "front": "Marcadores de tempo do passado.",
+   "back": "yesterday · last night/week/year · two days <b>ago</b> · in 2020 · when I was a kid.",
+   "en": "I saw him two days ago.",
+   "syl": "ai só rim tu dêiz â-GÔU"
+  },
+  {
+   "id": "a2-fc-5",
+   "topic": "Futuro: going to e will",
+   "front": "<b>Going to</b> × <b>will</b>.",
+   "back": "<b>going to</b> = plano/intenção já decidida ou evidência no presente. <b>will</b> = decisão na hora, previsão, promessa, oferta.",
+   "en": "I'm going to study tonight. I'll help you!",
+   "syl": "aim GÔU-ing tu STÂ-di tu-NÁIT · áiu rélp iú"
+  },
+  {
+   "id": "a2-fc-6",
+   "topic": "Futuro: going to e will",
+   "front": "Como fazer a pergunta com <b>going to</b>?",
+   "back": "<b>Are you going to...?</b> / <b>Is she going to...?</b>. Negativa: I'm not going to... / He isn't going to...",
+   "en": "Are you going to travel this year?",
+   "syl": "ar iú GÔU-ing tu TRÉ-vou dis IÉR"
+  },
+  {
+   "id": "a2-fc-7",
+   "topic": "Comparativos e Superlativos",
+   "front": "Comparativo de adjetivos <b>curtos</b>.",
+   "back": "Adjetivo + <b>-er</b> + <b>than</b>: tall → taller than, big → bigger (dobra a consoante), happy → happier.",
+   "en": "My brother is taller than me.",
+   "syl": "mai BRÂ-der iz TÓ-ler dén mi"
+  },
+  {
+   "id": "a2-fc-8",
+   "topic": "Comparativos e Superlativos",
+   "front": "Comparativo de adjetivos <b>longos</b>.",
+   "back": "<b>more</b> + adjetivo + than: more expensive than, more interesting than.",
+   "en": "This phone is more expensive than that one.",
+   "syl": "dis fôun iz mór ex-PÉN-siv dén dét uân"
+  },
+  {
+   "id": "a2-fc-9",
+   "topic": "Comparativos e Superlativos",
+   "front": "Superlativo.",
+   "back": "<b>the</b> + adj+<b>est</b> / <b>the most</b> + adj: the tallest, the most beautiful. Irregulares: good → better → <b>the best</b>; bad → worse → <b>the worst</b>.",
+   "en": "She is the best student in the class.",
+   "syl": "chi iz dâ BÉST STIÚ-dent in dâ klés"
+  },
+  {
+   "id": "a2-fc-10",
+   "topic": "Comida, Compras e Restaurante",
+   "front": "<b>Countable</b> × <b>uncountable</b>.",
+   "back": "Contáveis têm plural (apple/apples): many, a few. Incontáveis não (milk, water, rice, money): much, a little.",
+   "en": "How much water do you drink? How many apples?",
+   "syl": "rau mâtch UÓ-ter du iú DRINK · rau MÉ-ni É-pouz"
+  },
+  {
+   "id": "a2-fc-11",
+   "topic": "Comida, Compras e Restaurante",
+   "front": "Como <b>pedir</b> num restaurante?",
+   "back": "<b>I'd like...</b> / <b>Can I have...?</b> / (EUA) <b>Can I get...?</b>. Evite 'I want' (seco).",
+   "en": "I'd like a burger and a coke, please.",
+   "syl": "aid laik â BÉR-guer end â kôuk, plíz"
+  },
+  {
+   "id": "a2-fc-12",
+   "topic": "Comida, Compras e Restaurante",
+   "front": "Como pedir a <b>conta</b>?",
+   "back": "EUA: <b>Can I get the check, please?</b> · Reino Unido: the bill.",
+   "en": "Can I get the check, please?",
+   "syl": "kén ai guét dâ tchék plíz"
+  },
+  {
+   "id": "a2-fc-13",
+   "topic": "Direções e Transporte",
+   "front": "Como <b>perguntar o caminho</b>?",
+   "back": "<b>Excuse me, how do I get to the station?</b> / Where is the nearest bank?",
+   "en": "Excuse me, how do I get to the station?",
+   "syl": "ex-KIÚZ mi, rau du ai guét tu dâ STÊI-chen"
+  },
+  {
+   "id": "a2-fc-14",
+   "topic": "Direções e Transporte",
+   "front": "Direções básicas.",
+   "back": "turn <b>left/right</b> · go <b>straight</b> (ahead) · at the <b>corner</b> · <b>next to</b> · <b>across from</b> · <b>between</b> · <b>on the left</b>.",
+   "en": "Go straight and turn left at the corner.",
+   "syl": "gôu stréit end térn léft ét dâ KÓR-ner"
+  },
+  {
+   "id": "a2-fc-15",
+   "topic": "Can, Could e Pedidos Educados",
+   "front": "<b>Can</b> × <b>could</b> para pedidos.",
+   "back": "<b>Can I...?</b> informal. <b>Could I...?</b> mais educado. Para pedir algo a alguém: <b>Could you...?</b>",
+   "en": "Could you help me, please?",
+   "syl": "kúd iú rélp mi plíz"
+  },
+  {
+   "id": "a2-fc-16",
+   "topic": "Can, Could e Pedidos Educados",
+   "front": "<b>Can</b> para habilidade.",
+   "back": "I <b>can</b> swim. / I <b>can't</b> drive. / Can you cook? Passado: <b>could</b> (When I was young, I could run fast).",
+   "en": "I can swim, but I can't drive.",
+   "syl": "ai kén suím, bât ai ként dráiv"
+  },
+  {
+   "id": "a2-fc-17",
+   "topic": "Can, Could e Pedidos Educados",
+   "front": "<b>Would you like...?</b> × <b>Do you want...?</b>",
+   "back": "<b>Would you like...?</b> é a oferta educada (Would you like some tea?). <b>Do you want</b> é mais direto/informal.",
+   "en": "Would you like some coffee?",
+   "syl": "uúd iú laik sâm KÓ-fi"
+  }
+ ],
+ "questions": [
+  {
+   "id": "a2-q-1",
+   "topic": "Past Simple",
+   "difficulty": "facil",
+   "question": "Last weekend I ___ a movie.",
+   "options": [
+    "see",
+    "seen",
+    "saw",
+    "seed"
+   ],
+   "answer": 2,
+   "explanation": "see → <b>saw</b> (irregular).",
+   "en": "Last weekend I saw a movie."
+  },
+  {
+   "id": "a2-q-2",
+   "topic": "Past Simple",
+   "difficulty": "facil",
+   "question": "She ___ to the party yesterday.",
+   "options": [
+    "didn't went",
+    "didn't go",
+    "don't go",
+    "not went"
+   ],
+   "answer": 1,
+   "explanation": "didn't + verbo base: didn't <b>go</b>."
+  },
+  {
+   "id": "a2-q-3",
+   "topic": "Past Simple",
+   "difficulty": "facil",
+   "question": "___ you watch the game last night?",
+   "options": [
+    "Do",
+    "Did",
+    "Does",
+    "Are"
+   ],
+   "answer": 1,
+   "explanation": "Pergunta no passado: <b>Did</b> + sujeito + verbo base.",
+   "en": "Did you watch the game last night?"
+  },
+  {
+   "id": "a2-q-4",
+   "topic": "Past Simple",
+   "difficulty": "medio",
+   "question": "I ___ my keys two days ago.",
+   "options": [
+    "lose",
+    "lost",
+    "losted",
+    "loss"
+   ],
+   "answer": 1,
+   "explanation": "lose → <b>lost</b>."
+  },
+  {
+   "id": "a2-q-5",
+   "topic": "Futuro: going to e will",
+   "difficulty": "facil",
+   "question": "Look at those clouds! It ___ rain.",
+   "options": [
+    "will",
+    "is going to",
+    "going to",
+    "does"
+   ],
+   "answer": 1,
+   "explanation": "Evidência no presente → <b>is going to</b>."
+  },
+  {
+   "id": "a2-q-6",
+   "topic": "Futuro: going to e will",
+   "difficulty": "medio",
+   "question": "— The phone is ringing. — I ___ get it!",
+   "options": [
+    "am going to",
+    "will",
+    "do",
+    "would going"
+   ],
+   "answer": 1,
+   "explanation": "Decisão na hora → <b>will</b> (I'll get it).",
+   "en": "I'll get it!"
+  },
+  {
+   "id": "a2-q-7",
+   "topic": "Futuro: going to e will",
+   "difficulty": "facil",
+   "question": "We ___ going to visit my parents next month.",
+   "options": [
+    "is",
+    "are",
+    "will",
+    "do"
+   ],
+   "answer": 1,
+   "explanation": "be going to: we <b>are</b> going to."
+  },
+  {
+   "id": "a2-q-8",
+   "topic": "Comparativos e Superlativos",
+   "difficulty": "facil",
+   "question": "This bag is ___ than that one.",
+   "options": [
+    "cheap",
+    "cheaper",
+    "more cheap",
+    "cheapest"
+   ],
+   "answer": 1,
+   "explanation": "Adjetivo curto: cheap + <b>-er</b>."
+  },
+  {
+   "id": "a2-q-9",
+   "topic": "Comparativos e Superlativos",
+   "difficulty": "facil",
+   "question": "She is the ___ student in the class.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "most good"
+   ],
+   "answer": 2,
+   "explanation": "good → better → <b>the best</b>."
+  },
+  {
+   "id": "a2-q-10",
+   "topic": "Comparativos e Superlativos",
+   "difficulty": "medio",
+   "question": "This film is ___ than the book.",
+   "options": [
+    "interesting",
+    "more interesting",
+    "interestinger",
+    "most interesting"
+   ],
+   "answer": 1,
+   "explanation": "Adjetivo longo: <b>more</b> + adj + than."
+  },
+  {
+   "id": "a2-q-11",
+   "topic": "Comida, Compras e Restaurante",
+   "difficulty": "facil",
+   "question": "How ___ sugar do you want?",
+   "options": [
+    "many",
+    "much",
+    "few",
+    "a"
+   ],
+   "answer": 1,
+   "explanation": "sugar é incontável → <b>much</b>."
+  },
+  {
+   "id": "a2-q-12",
+   "topic": "Comida, Compras e Restaurante",
+   "difficulty": "facil",
+   "question": "Which is the most natural way to order in a US café?",
+   "options": [
+    "I want a coffee.",
+    "Can I get a coffee, please?",
+    "Give me coffee.",
+    "Coffee, now."
+   ],
+   "answer": 1,
+   "explanation": "<b>Can I get...?</b> é o jeito natural nos EUA.",
+   "en": "Can I get a coffee, please?"
+  },
+  {
+   "id": "a2-q-13",
+   "topic": "Comida, Compras e Restaurante",
+   "difficulty": "facil",
+   "question": "There are ___ apples in the bag.",
+   "options": [
+    "a little",
+    "much",
+    "a few",
+    "any (afirmativa)"
+   ],
+   "answer": 2,
+   "explanation": "apples é contável → <b>a few</b>."
+  },
+  {
+   "id": "a2-q-14",
+   "topic": "Direções e Transporte",
+   "difficulty": "facil",
+   "question": "Go ___ and turn right at the corner.",
+   "options": [
+    "straight",
+    "straights",
+    "strait",
+    "streight"
+   ],
+   "answer": 0,
+   "explanation": "<b>go straight</b> = siga em frente."
+  },
+  {
+   "id": "a2-q-15",
+   "topic": "Direções e Transporte",
+   "difficulty": "facil",
+   "question": "The bank is ___ the supermarket and the pharmacy.",
+   "options": [
+    "between",
+    "among",
+    "behind of",
+    "in front"
+   ],
+   "answer": 0,
+   "explanation": "<b>between</b> entre duas coisas."
+  },
+  {
+   "id": "a2-q-16",
+   "topic": "Direções e Transporte",
+   "difficulty": "medio",
+   "question": "How do I ___ to the airport?",
+   "options": [
+    "get",
+    "go",
+    "arrive",
+    "come"
+   ],
+   "answer": 0,
+   "explanation": "'How do I <b>get to</b>...?' é a pergunta padrão de direções.",
+   "en": "How do I get to the airport?"
+  },
+  {
+   "id": "a2-q-17",
+   "topic": "Can, Could e Pedidos Educados",
+   "difficulty": "facil",
+   "question": "Which request is the most polite?",
+   "options": [
+    "Open the window.",
+    "Can you open the window?",
+    "Could you open the window, please?",
+    "You open the window."
+   ],
+   "answer": 2,
+   "explanation": "<b>Could you... please?</b> é o mais educado dos quatro."
+  },
+  {
+   "id": "a2-q-18",
+   "topic": "Can, Could e Pedidos Educados",
+   "difficulty": "facil",
+   "question": "I ___ speak Spanish, but I can speak English.",
+   "options": [
+    "can",
+    "can't",
+    "don't can",
+    "couldn't to"
+   ],
+   "answer": 1,
+   "explanation": "Negativa de can: <b>can't</b> (cannot)."
+  },
+  {
+   "id": "a2-q-19",
+   "topic": "Can, Could e Pedidos Educados",
+   "difficulty": "facil",
+   "question": "Would you like some water? Escolha a resposta educada.",
+   "options": [
+    "Yes, please.",
+    "Yes, I want.",
+    "Give me.",
+    "I do."
+   ],
+   "answer": 0,
+   "explanation": "Aceitar uma oferta: <b>Yes, please.</b> Recusar: <b>No, thanks.</b>"
+  }
+ ]
+}

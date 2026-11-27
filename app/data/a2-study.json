@@ -1,0 +1,43 @@
+{
+  "level": "A2",
+  "sections": [
+    {
+      "title": "Past Simple",
+      "blocks": [
+        { "list": ["Regular: <b>-ed</b>. Irregular: go/went, see/saw, eat/ate, buy/bought, have/had.", "Negativa: <b>didn't</b> + base. Pergunta: <b>Did</b> + sujeito + base?"] },
+        { "say": ["I visited my grandma last Sunday. | Visitei minha avó no domingo.", "She didn't call me. | Ela não me ligou."] }
+      ]
+    },
+    {
+      "title": "Futuro: going to e will",
+      "blocks": [
+        { "list": ["<b>be going to</b> = plano/evidência. <b>will</b> = decisão na hora, promessa, previsão."] },
+        { "say": ["I'm going to start a new job. | Vou começar um novo emprego.", "I'll call you later. | Te ligo mais tarde."] }
+      ]
+    },
+    {
+      "title": "Comparativos e Superlativos",
+      "blocks": [
+        { "list": ["curto: <b>-er than</b> / <b>the -est</b>. longo: <b>more ... than</b> / <b>the most ...</b>", "good → better → best · bad → worse → worst."] }
+      ]
+    },
+    {
+      "title": "Comida, Compras e Restaurante",
+      "blocks": [
+        { "say": ["Can I get a coffee, please? | Posso pedir um café?", "I'd like the chicken salad. | Quero a salada de frango.", "How much is it? | Quanto custa?", "Can I get the check? | Pode trazer a conta?"] }
+      ]
+    },
+    {
+      "title": "Direções e Transporte",
+      "blocks": [
+        { "say": ["How do I get to the museum? | Como chego ao museu?", "Turn left at the corner. | Vire à esquerda na esquina.", "It's next to the bank. | Fica ao lado do banco."] }
+      ]
+    },
+    {
+      "title": "Can, Could e Pedidos Educados",
+      "blocks": [
+        { "list": ["<b>Could you...?</b> pedido educado · <b>Can I...?</b> pedir permissão (informal) · <b>Would you like...?</b> oferta educada."] }
+      ]
+    }
+  ]
+}

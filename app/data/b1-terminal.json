@@ -1,0 +1,307 @@
+[
+ {
+  "id": "b1-t-1",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Eu moro aqui há cinco anos.\"",
+  "a": [
+   "^i('ve| have) (lived|been living) here for (5|five) years$"
+  ],
+  "ex": "I've lived here for five years.",
+  "out": "",
+  "why": "Ação que começou no passado e continua: present perfect + for.",
+  "hint": "I've lived ..."
+ },
+ {
+  "id": "b1-t-2",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Eu nunca comi sushi.\"",
+  "a": [
+   "^i('ve| have) never (eaten|had|tried) sushi$"
+  ],
+  "ex": "I've never eaten sushi.",
+  "out": "",
+  "why": "never + present perfect para experiências.",
+  "hint": "I've never ..."
+ },
+ {
+  "id": "b1-t-3",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Você já esteve no Canadá?\"",
+  "a": [
+   "^have you ever (been|gone) to canada$",
+   "^have you ever been in canada$"
+  ],
+  "ex": "Have you ever been to Canada?",
+  "out": "",
+  "why": "Have you ever + particípio?",
+  "hint": "Have you ever been ..."
+ },
+ {
+  "id": "b1-t-4",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Eu ainda não terminei o relatório.\"",
+  "a": [
+   "^i (haven't|have not) finished (the|my) report yet$",
+   "^i (haven't|have not) yet finished (the|my) report$"
+  ],
+  "ex": "I haven't finished the report yet.",
+  "out": "",
+  "why": "yet no fim das negativas.",
+  "hint": "I haven't finished ... yet"
+ },
+ {
+  "id": "b1-t-5",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se chover amanhã, ficaremos em casa.\"",
+  "a": [
+   "^if it rains tomorrow,? we('ll| will) stay (at )?home$",
+   "^we('ll| will) stay (at )?home if it rains tomorrow$"
+  ],
+  "ex": "If it rains tomorrow, we'll stay home.",
+  "out": "",
+  "why": "1ª condicional: if + presente, will + verbo.",
+  "hint": "If it rains ..."
+ },
+ {
+  "id": "b1-t-6",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"A menos que você se apresse, vai perder o ônibus.\"",
+  "a": [
+   "^unless you hurry( up)?,? you('ll| will) miss the bus$"
+  ],
+  "ex": "Unless you hurry, you'll miss the bus.",
+  "out": "",
+  "why": "unless = if ... not.",
+  "hint": "Unless you ..."
+ },
+ {
+  "id": "b1-t-7",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Você deveria descansar.\"",
+  "a": [
+   "^you should (rest|take a rest|get some rest)$"
+  ],
+  "ex": "You should rest.",
+  "out": "",
+  "why": "should = conselho.",
+  "hint": "You should ..."
+ },
+ {
+  "id": "b1-t-8",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Você não precisa vir amanhã.\"",
+  "a": [
+   "^you (don't|do not) have to come tomorrow$"
+  ],
+  "ex": "You don't have to come tomorrow.",
+  "out": "",
+  "why": "don't have to = não precisa. (mustn't = proibido)",
+  "hint": "You don't have to ..."
+ },
+ {
+  "id": "b1-t-9",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Ele deve estar cansado.\" (dedução)",
+  "a": [
+   "^he must be tired$"
+  ],
+  "ex": "He must be tired.",
+  "out": "",
+  "why": "must = alta certeza de que algo é verdade.",
+  "hint": "He must ..."
+ },
+ {
+  "id": "b1-t-10",
+  "topic": "Hábitos",
+  "q": "Diga em inglês: \"Eu costumava jogar futebol quando criança.\"",
+  "a": [
+   "^i used to play (soccer|football) when i was a (kid|child)$"
+  ],
+  "ex": "I used to play soccer when I was a kid.",
+  "out": "",
+  "why": "used to + verbo base.",
+  "hint": "I used to ..."
+ },
+ {
+  "id": "b1-t-11",
+  "topic": "Hábitos",
+  "q": "Diga em inglês: \"Estou acostumado a acordar cedo.\"",
+  "a": [
+   "^(i am|i'm) used to (waking up|getting up) early$"
+  ],
+  "ex": "I'm used to waking up early.",
+  "out": "",
+  "why": "be used to + -ing.",
+  "hint": "I'm used to ... -ing"
+ },
+ {
+  "id": "b1-t-12",
+  "topic": "Opiniões",
+  "q": "Diga em inglês: \"Entendo seu ponto, mas não tenho certeza se concordo.\"",
+  "a": [
+   "^i see your point,? but i'm not (so )?sure (i agree|if i agree)$"
+  ],
+  "ex": "I see your point, but I'm not sure I agree.",
+  "out": "",
+  "why": "Discordância educada.",
+  "hint": "I see your point, but ..."
+ },
+ {
+  "id": "b1-t-13",
+  "topic": "Conectores",
+  "q": "Diga em inglês: \"Embora estivesse chovendo, nós fomos ao parque.\"",
+  "a": [
+   "^although it was raining,? we went to the park$",
+   "^we went to the park although it was raining$"
+  ],
+  "ex": "Although it was raining, we went to the park.",
+  "out": "",
+  "why": "although + oração.",
+  "hint": "Although ..."
+ },
+ {
+  "id": "b1-t-14",
+  "topic": "Conectores",
+  "q": "Diga em inglês: \"Cancelamos o piquenique por causa do clima.\"",
+  "a": [
+   "^we cancelled the picnic because of the (weather|rain)$",
+   "^we canceled the picnic because of the (weather|rain)$"
+  ],
+  "ex": "We cancelled the picnic because of the weather.",
+  "out": "",
+  "why": "because of + substantivo.",
+  "hint": "... because of ..."
+ },
+ {
+  "id": "b1-t-15",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Eu moro aqui desde 2020.\"",
+  "a": [
+   "^i have lived here since 2020$"
+  ],
+  "ex": "I've lived here since 2020.",
+  "out": "",
+  "why": "since + ponto no tempo.",
+  "hint": "I've lived ..."
+ },
+ {
+  "id": "b1-t-16",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Você já experimentou comida brasileira?\"",
+  "a": [
+   "^have you ever (tried|had|eaten) brazilian food$"
+  ],
+  "ex": "Have you ever tried Brazilian food?",
+  "out": "",
+  "why": "Have you ever + particípio?",
+  "hint": "Have you ever ..."
+ },
+ {
+  "id": "b1-t-17",
+  "topic": "Present Perfect",
+  "q": "Diga em inglês: \"Ela ainda não chegou.\"",
+  "a": [
+   "^she has not (arrived|come|gotten here|got here) yet$"
+  ],
+  "ex": "She hasn't arrived yet.",
+  "out": "",
+  "why": "yet no fim das negativas.",
+  "hint": "She hasn't ..."
+ },
+ {
+  "id": "b1-t-18",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se eu tiver tempo, eu te ligo.\"",
+  "a": [
+   "^if i have time,? i will (call|phone) you$"
+  ],
+  "ex": "If I have time, I'll call you.",
+  "out": "",
+  "why": "1ª condicional.",
+  "hint": "If I have time, ..."
+ },
+ {
+  "id": "b1-t-19",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Você deveria falar com o gerente.\"",
+  "a": [
+   "^you should (talk|speak) (to|with) the manager$"
+  ],
+  "ex": "You should talk to the manager.",
+  "out": "",
+  "why": "should = conselho.",
+  "hint": "You should ..."
+ },
+ {
+  "id": "b1-t-20",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Eu tinha que acordar cedo.\"",
+  "a": [
+   "^i had to (wake up|get up) early$"
+  ],
+  "ex": "I had to wake up early.",
+  "out": "",
+  "why": "had to = passado de have to.",
+  "hint": "I had to ..."
+ },
+ {
+  "id": "b1-t-21",
+  "topic": "Used to",
+  "q": "Diga em inglês: \"Ele costumava fumar.\"",
+  "a": [
+   "^he used to smoke$"
+  ],
+  "ex": "He used to smoke.",
+  "out": "",
+  "why": "used to + verbo.",
+  "hint": "He used ..."
+ },
+ {
+  "id": "b1-t-22",
+  "topic": "Used to",
+  "q": "Diga em inglês: \"Eu me acostumei a trabalhar de casa.\"",
+  "a": [
+   "^i (am|got|have gotten|have got) used to working from home$"
+  ],
+  "ex": "I got used to working from home.",
+  "out": "",
+  "why": "get used to + verbo-ing.",
+  "hint": "I got used ..."
+ },
+ {
+  "id": "b1-t-23",
+  "topic": "Conectores",
+  "q": "Diga em inglês: \"Cheguei atrasado porque havia trânsito.\"",
+  "a": [
+   "^i (arrived|was|got there|got here) late because (of (the )?traffic|there was (a lot of )?traffic)$"
+  ],
+  "ex": "I arrived late because there was traffic.",
+  "out": "",
+  "why": "because + oração.",
+  "hint": "I arrived late ..."
+ },
+ {
+  "id": "b1-t-24",
+  "topic": "Opiniões",
+  "q": "Diga em inglês: \"Na minha opinião, isso é uma boa ideia.\"",
+  "a": [
+   "^in my opinion,? (this|that|it) is a good idea$"
+  ],
+  "ex": "In my opinion, that's a good idea.",
+  "out": "",
+  "why": "In my opinion,...",
+  "hint": "In my opinion, ..."
+ },
+ {
+  "id": "b1-t-25",
+  "topic": "Modais",
+  "q": "Diga em inglês: \"Ele pode estar ocupado.\" (possibilidade)",
+  "a": [
+   "^he (might|may|could) be busy$"
+  ],
+  "ex": "He might be busy.",
+  "out": "",
+  "why": "might/may = possibilidade.",
+  "hint": "He might ..."
+ }
+]

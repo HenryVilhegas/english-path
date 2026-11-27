@@ -1,0 +1,73 @@
+/* ===== Trilha, estatísticas e navegação mobile ===== */
+
+.path-stats { display: flex; gap: 10px; font-size: .9rem; font-weight: 600; white-space: nowrap; }
+.path-stats-row { display: flex; gap: 14px; margin: 10px 0; font-size: 1rem; font-weight: 600; }
+
+.path-map { display: flex; flex-direction: column; gap: 22px; margin-top: 10px; padding-bottom: 90px; }
+.path-group-title { margin: 0 0 10px; font-size: .95rem; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.path-nodes { display: flex; flex-direction: column; gap: 10px; }
+
+.path-node {
+  display: flex; align-items: center; gap: 12px; text-align: left;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+  padding: 14px 16px; color: inherit; font-size: .98rem; cursor: pointer;
+}
+.path-node-icon { font-size: 1.2rem; width: 28px; text-align: center; flex-shrink: 0; }
+.path-node-label { flex: 1; }
+.path-node-pct { font-size: .8rem; opacity: .75; }
+.path-node.done { border-color: #2ea043; background: rgba(46,160,67,.12); }
+.path-node.current { border-color: var(--red); box-shadow: 0 0 0 2px rgba(238,49,36,.25); }
+.path-node.locked { opacity: .45; cursor: not-allowed; }
+.path-node.locked .path-node-label { color: var(--muted); }
+
+.lesson-body { margin: 14px 0 20px; }
+.lesson-body h3 { margin-top: 18px; }
+
+/* ===== Navegação inferior fixa ===== */
+.bottom-nav {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
+  display: flex; background: var(--panel); border-top: 1px solid var(--border);
+  padding-bottom: env(safe-area-inset-bottom, 0);
+}
+.bottom-nav-btn {
+  flex: 1; display: flex; flex-direction: column; align-items: center; gap: 2px;
+  background: none; border: none; color: var(--muted); font-size: .72rem; padding: 10px 4px 8px;
+  cursor: pointer;
+}
+.bottom-nav-btn span { font-size: 1.3rem; line-height: 1; }
+.bottom-nav-btn.active { color: var(--red); }
+
+/* Espaço para o conteúdo não ficar escondido atrás da bottom nav */
+main { padding-bottom: 76px; }
+
+/* ===== "Mais": painel deslizante de módulos extras ===== */
+.more-sheet {
+  position: fixed; inset: 0; background: rgba(0,0,0,.55); z-index: 50;
+  display: flex; align-items: flex-end; justify-content: center;
+  opacity: 0; pointer-events: none; transition: opacity .15s;
+}
+.more-sheet.open { opacity: 1; pointer-events: auto; }
+.more-sheet-inner {
+  width: 100%; max-width: 640px; background: var(--panel); border-radius: 16px 16px 0 0;
+  padding: 20px; padding-bottom: calc(20px + env(safe-area-inset-bottom, 0));
+  transform: translateY(100%); transition: transform .18s;
+}
+.more-sheet.open .more-sheet-inner { transform: translateY(0); }
+.more-list { display: flex; flex-direction: column; gap: 8px; margin: 14px 0; }
+.more-item {
+  text-align: left; background: var(--dark); border: 1px solid var(--border); border-radius: 10px;
+  padding: 12px 14px; color: inherit; font-size: .95rem; cursor: pointer;
+}
+.more-item:hover { border-color: var(--red); }
+
+/* No topo, em telas estreitas, simplifica para caber */
+@media (max-width: 560px) {
+  .topbar { flex-wrap: wrap; row-gap: 8px; }
+  .brand-text .subtitle { display: none; }
+  .path-stats { order: 1; width: 100%; justify-content: flex-start; }
+  .levels { display: none; } /* a navegação por módulo agora é via bottom nav + "Mais" */
+}
+@media (min-width: 561px) {
+  .bottom-nav, .more-sheet { display: none; } /* desktop mantém a navegação por abas no topo */
+  main { padding-bottom: 0; }
+}

@@ -1,0 +1,334 @@
+[
+ {
+  "id": "a2-t-1",
+  "topic": "Passado",
+  "q": "Diga em inglês: \"Ontem eu fui ao mercado.\"",
+  "a": [
+   "^(yesterday,? )?i went to the (market|supermarket|store)( yesterday)?$"
+  ],
+  "ex": "Yesterday I went to the market.",
+  "out": "",
+  "why": "go → went (irregular).",
+  "hint": "Yesterday I went ..."
+ },
+ {
+  "id": "a2-t-2",
+  "topic": "Passado",
+  "q": "Diga em inglês: \"Eu não vi o filme.\"",
+  "a": [
+   "^i (didn't|did not) see (the|that) (movie|film)$"
+  ],
+  "ex": "I didn't see the movie.",
+  "out": "",
+  "why": "didn't + verbo na forma base (see, não saw).",
+  "hint": "I didn't ..."
+ },
+ {
+  "id": "a2-t-3",
+  "topic": "Passado",
+  "q": "Diga em inglês: \"Você comeu o almoço?\" (pergunta no passado)",
+  "a": [
+   "^did you (eat|have) (the |your )?lunch$"
+  ],
+  "ex": "Did you eat lunch?",
+  "out": "",
+  "why": "Did + sujeito + verbo base.",
+  "hint": "Did you ..."
+ },
+ {
+  "id": "a2-t-4",
+  "topic": "Passado",
+  "q": "Diga em inglês: \"Nós moramos em Londres em 2020.\"",
+  "a": [
+   "^(in 2020,? )?we lived in london( in 2020)?$"
+  ],
+  "ex": "We lived in London in 2020.",
+  "out": "",
+  "why": "live → lived (regular).",
+  "hint": "We lived ..."
+ },
+ {
+  "id": "a2-t-5",
+  "topic": "Futuro",
+  "q": "Diga em inglês: \"Eu vou estudar hoje à noite.\" (plano)",
+  "a": [
+   "^(i am|i'm) going to study (tonight|this evening)$"
+  ],
+  "ex": "I'm going to study tonight.",
+  "out": "",
+  "why": "going to = plano já decidido.",
+  "hint": "I'm going to ..."
+ },
+ {
+  "id": "a2-t-6",
+  "topic": "Futuro",
+  "q": "Diga em inglês: \"Eu te ajudo!\" (decisão na hora)",
+  "a": [
+   "^i('ll| will) help you$"
+  ],
+  "ex": "I'll help you!",
+  "out": "",
+  "why": "will = decisão espontânea/oferta.",
+  "hint": "I'll ..."
+ },
+ {
+  "id": "a2-t-7",
+  "topic": "Futuro",
+  "q": "Diga em inglês: \"Você vai viajar este ano?\"",
+  "a": [
+   "^are you going to (travel|go (abroad|somewhere)) this year$"
+  ],
+  "ex": "Are you going to travel this year?",
+  "out": "",
+  "why": "Are you going to + verbo?",
+  "hint": "Are you going to ..."
+ },
+ {
+  "id": "a2-t-8",
+  "topic": "Comparar",
+  "q": "Diga em inglês: \"Meu irmão é mais alto que eu.\"",
+  "a": [
+   "^my brother is taller than (me|i am|i'm)$"
+  ],
+  "ex": "My brother is taller than me.",
+  "out": "",
+  "why": "tall → taller than.",
+  "hint": "My brother is ..."
+ },
+ {
+  "id": "a2-t-9",
+  "topic": "Comparar",
+  "q": "Diga em inglês: \"Este celular é mais caro que aquele.\"",
+  "a": [
+   "^this (phone|cell phone|cellphone) is more expensive than that one$"
+  ],
+  "ex": "This phone is more expensive than that one.",
+  "out": "",
+  "why": "Adjetivo longo: more + adj + than.",
+  "hint": "This phone is more ..."
+ },
+ {
+  "id": "a2-t-10",
+  "topic": "Comparar",
+  "q": "Diga em inglês: \"Ela é a melhor aluna da turma.\"",
+  "a": [
+   "^she is the best student in the (class|group)$",
+   "^she's the best student in the (class|group)$"
+  ],
+  "ex": "She's the best student in the class.",
+  "out": "",
+  "why": "good → better → the best.",
+  "hint": "She's the best ..."
+ },
+ {
+  "id": "a2-t-11",
+  "topic": "Restaurante",
+  "q": "Diga em inglês (jeito natural nos EUA): \"Posso pedir um café, por favor?\"",
+  "a": [
+   "^can i (get|have) (a|an) (coffee|cup of coffee),? please$",
+   "^could i (get|have) (a|an) (coffee|cup of coffee),? please$"
+  ],
+  "ex": "Can I get a coffee, please?",
+  "out": "Também: I'd like a coffee, please.",
+  "why": "Can I get...? é o pedido mais natural nos EUA.",
+  "hint": "Can I get ..."
+ },
+ {
+  "id": "a2-t-12",
+  "topic": "Restaurante",
+  "q": "Diga em inglês: \"Eu gostaria de um hambúrguer e uma Coca, por favor.\"",
+  "a": [
+   "^i'd like (a|one) (burger|hamburger) and (a|one) (coke|cola),? please$",
+   "^i would like (a|one) (burger|hamburger) and (a|one) (coke|cola),? please$"
+  ],
+  "ex": "I'd like a burger and a coke, please.",
+  "out": "",
+  "why": "I'd like = I would like (pedido educado).",
+  "hint": "I'd like ..."
+ },
+ {
+  "id": "a2-t-13",
+  "topic": "Restaurante",
+  "q": "Diga em inglês: \"Pode trazer a conta, por favor?\" (EUA)",
+  "a": [
+   "^(can|could) (i get|you bring (me|us)) the (check|bill),? please$",
+   "^(can|could) we (get|have) the (check|bill),? please$"
+  ],
+  "ex": "Can I get the check, please?",
+  "out": "No Reino Unido: the bill.",
+  "why": "Nos EUA: the check.",
+  "hint": "Can I get the ..."
+ },
+ {
+  "id": "a2-t-14",
+  "topic": "Direções",
+  "q": "Diga em inglês: \"Com licença, como eu chego à estação?\"",
+  "a": [
+   "^excuse me,? how (do|can) i get to the (train |bus |subway )?station$"
+  ],
+  "ex": "Excuse me, how do I get to the station?",
+  "out": "",
+  "why": "How do I get to...? pergunta de direção.",
+  "hint": "Excuse me, how do I get ..."
+ },
+ {
+  "id": "a2-t-15",
+  "topic": "Direções",
+  "q": "Diga em inglês: \"Siga em frente e vire à esquerda na esquina.\"",
+  "a": [
+   "^go straight( ahead)? and turn left at the corner$"
+  ],
+  "ex": "Go straight and turn left at the corner.",
+  "out": "",
+  "why": "straight = reto; corner = esquina.",
+  "hint": "Go straight and ..."
+ },
+ {
+  "id": "a2-t-16",
+  "topic": "Pedidos",
+  "q": "Diga em inglês: \"Você poderia me ajudar, por favor?\"",
+  "a": [
+   "^could you (please )?help me,? ?(please)?$"
+  ],
+  "ex": "Could you help me, please?",
+  "out": "",
+  "why": "Could = pedido educado.",
+  "hint": "Could you ..."
+ },
+ {
+  "id": "a2-t-17",
+  "topic": "Pedidos",
+  "q": "Diga em inglês: \"Eu sei nadar, mas não sei dirigir.\"",
+  "a": [
+   "^i can swim,? but i can't drive$",
+   "^i can swim,? but i cannot drive$",
+   "^i can swim,? but i can not drive$"
+  ],
+  "ex": "I can swim, but I can't drive.",
+  "out": "",
+  "why": "can = habilidade.",
+  "hint": "I can ..., but I can't ..."
+ },
+ {
+  "id": "a2-t-18",
+  "topic": "Past Simple",
+  "q": "Diga em inglês: \"Eu comprei um carro novo ontem.\"",
+  "a": [
+   "^i bought a new car yesterday$",
+   "^yesterday,? i bought a new car$"
+  ],
+  "ex": "I bought a new car yesterday.",
+  "out": "",
+  "why": "buy → bought (irregular).",
+  "hint": "I bought ..."
+ },
+ {
+  "id": "a2-t-19",
+  "topic": "Past Simple",
+  "q": "Diga em inglês: \"Ela não foi trabalhar.\"",
+  "a": [
+   "^she did not go to work$"
+  ],
+  "ex": "She didn't go to work.",
+  "out": "",
+  "why": "didn't + verbo base.",
+  "hint": "She didn't ..."
+ },
+ {
+  "id": "a2-t-20",
+  "topic": "Past Simple",
+  "q": "Diga em inglês: \"O que você fez no fim de semana passado?\"",
+  "a": [
+   "^what did you do (last weekend|on the weekend|at the weekend|over the weekend)$"
+  ],
+  "ex": "What did you do last weekend?",
+  "out": "",
+  "why": "What + did + you + do.",
+  "hint": "What did you ..."
+ },
+ {
+  "id": "a2-t-21",
+  "topic": "Futuro",
+  "q": "Diga em inglês: \"Vai chover amanhã.\"",
+  "a": [
+   "^it (is going to|will) rain tomorrow$",
+   "^tomorrow it (is going to|will) rain$"
+  ],
+  "ex": "It's going to rain tomorrow.",
+  "out": "",
+  "why": "Previsão: going to ou will.",
+  "hint": "It's going to ..."
+ },
+ {
+  "id": "a2-t-22",
+  "topic": "Comparativos",
+  "q": "Diga em inglês: \"Este carro é mais barato que aquele.\"",
+  "a": [
+   "^this car is (cheaper|less expensive) than that one$"
+  ],
+  "ex": "This car is cheaper than that one.",
+  "out": "",
+  "why": "Curto + -er + than.",
+  "hint": "This car is ..."
+ },
+ {
+  "id": "a2-t-23",
+  "topic": "Superlativos",
+  "q": "Diga em inglês: \"Ele é o mais alto da turma.\"",
+  "a": [
+   "^he is the tallest (one )?(in|of) the (class|group)$"
+  ],
+  "ex": "He's the tallest in the class.",
+  "out": "",
+  "why": "the + -est + in.",
+  "hint": "He's the ..."
+ },
+ {
+  "id": "a2-t-24",
+  "topic": "Compras",
+  "q": "Diga em inglês: \"Posso pagar com cartão?\"",
+  "a": [
+   "^can i pay (by|with) (credit |debit )?card$"
+  ],
+  "ex": "Can I pay by card?",
+  "out": "",
+  "why": "pay by card.",
+  "hint": "Can I pay ..."
+ },
+ {
+  "id": "a2-t-25",
+  "topic": "Direções",
+  "q": "Diga em inglês: \"Onde fica o banco?\"",
+  "a": [
+   "^where is the bank$"
+  ],
+  "ex": "Where is the bank?",
+  "out": "",
+  "why": "Where is + lugar.",
+  "hint": "Where is ..."
+ },
+ {
+  "id": "a2-t-26",
+  "topic": "Direções",
+  "q": "Diga em inglês: \"Vire à direita no semáforo.\"",
+  "a": [
+   "^turn right at the (traffic light|light|stoplight)$"
+  ],
+  "ex": "Turn right at the traffic light.",
+  "out": "",
+  "why": "turn right/left at...",
+  "hint": "Turn right ..."
+ },
+ {
+  "id": "a2-t-27",
+  "topic": "Pedidos",
+  "q": "Diga em inglês: \"Você poderia falar mais devagar?\"",
+  "a": [
+   "^could you (please )?speak (a little )?(more )?slowly(,? please)?$"
+  ],
+  "ex": "Could you speak more slowly, please?",
+  "out": "",
+  "why": "Could you...? é educado.",
+  "hint": "Could you speak ..."
+ }
+]

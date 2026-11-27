@@ -1,0 +1,73 @@
+{
+  "level": "A2",
+  "sections": [
+    {
+      "title": "Past Simple",
+      "blocks": [
+        { "h": "Falando do que já aconteceu", "p": "O <b>past simple</b> conta ações terminadas em um momento passado: <i>yesterday, last week, in 2020, two days ago</i>." },
+        { "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Linha do tempo do past simple'><line x1='20' y1='60' x2='620' y2='60' stroke='#9aa7b8' stroke-width='3'/><circle cx='120' cy='60' r='9' fill='#c9803a'/><circle cx='260' cy='60' r='9' fill='#c9803a'/><circle cx='430' cy='60' r='12' fill='#3fa56b'/><text x='120' y='40'>last year</text><text x='260' y='40'>yesterday</text><text x='430' y='38' font-weight='bold'>NOW</text><text x='190' y='95' fill='#ffe08a'>PAST SIMPLE (ação terminada)</text><text x='540' y='95' fill='#9aa7b8'>futuro</text></svg>" },
+        { "say": ["I worked from home yesterday. | Trabalhei de casa ontem.", "We watched a movie last night. | Vimos um filme ontem à noite.", "She studied for the test. | Ela estudou para a prova.", "He lived in Boston in 2019. | Ele morou em Boston em 2019."] },
+        { "h": "Regular: -ed", "list": ["work → worked · play → played · live → <b>lived</b> (só +d).", "study → <b>studied</b> (y → ied) · stop → <b>stopped</b> (dobra a consoante).", "Pronúncia do -ed: /t/ (worked), /d/ (played), /ɪd/ (wanted, needed)."] },
+        { "h": "Irregulares que você precisa saber", "say": ["go – went | ir", "see – saw | ver", "eat – ate | comer", "have – had | ter", "buy – bought | comprar", "come – came | vir", "do – did | fazer", "get – got | conseguir/ficar", "make – made | fazer", "take – took | pegar", "say – said | dizer", "think – thought | pensar", "give – gave | dar", "find – found | achar", "tell – told | contar"] },
+        { "h": "Negativa e pergunta", "p": "O <b>did</b> carrega o passado, então o verbo principal volta ao <b>infinitivo</b>:", "list": ["I <b>didn't go</b> (não 'didn't went').", "<b>Did</b> you <b>see</b> it? (não 'Did you saw').", "Com <b>to be</b>: was/were (I was, you were), sem did: <b>Were</b> you at home?"] },
+        { "say": ["Did you go to the party? | Você foi à festa?", "No, I didn't go. | Não, não fui.", "Where were you last night? | Onde você estava ontem à noite?", "I was at home. | Eu estava em casa."] },
+        { "h": "💡 Dica de americano", "p": "No dia a dia americano, em vez de 'I went', é comum ouvir <b>'I headed out'</b>, <b>'I hit the gym'</b> (fui à academia), <b>'I grabbed lunch'</b> (comi algo rápido). Fica para o módulo de inglês de rua." },
+        { "h": "⚠️ Pegadinhas", "list": ["'I didn't <b>went</b>' ✗ → 'I didn't <b>go</b>' ✓.", "'<b>Did</b> you <b>saw</b>?' ✗ → 'Did you <b>see</b>?' ✓.", "<b>ago</b> vem depois do tempo: 'two days <b>ago</b>' (não 'ago two days')."] }
+      ]
+    },
+    {
+      "title": "Futuro: going to e will",
+      "blocks": [
+        { "h": "Duas formas, dois usos", "list": ["<b>be going to + verbo</b>: plano/intenção que já existe, ou algo que você 'vê vindo'.", "<b>will + verbo</b>: decisão tomada agora, promessa, oferta, previsão ou opinião."] },
+        { "say": ["I'm going to visit my parents next weekend. | Vou visitar meus pais no fim de semana (plano).", "Look at the sky! It's going to rain. | Olhe o céu! Vai chover (evidência).", "— I'm cold. — I'll close the window. | — Estou com frio. — Eu fecho a janela (decisão na hora).", "I promise I'll call you. | Prometo que ligo."] },
+        { "h": "Presente contínuo para planos combinados", "p": "Quando já tem data/hora marcada, também se usa o <b>present continuous</b>: <i>I'm meeting Sarah at 7.</i> (compromisso marcado)." },
+        { "say": ["I'm meeting my boss tomorrow at nine. | Vou me encontrar com meu chefe amanhã às nove.", "What are you doing this weekend? | O que você vai fazer no fim de semana?"] },
+        { "h": "💡 Dica de americano", "p": "Americanos falam <b>'gonna'</b> o tempo todo: <i>I'm gonna grab a coffee.</i> (= I'm going to). Entenda e use no informal; no e-mail e na escrita, escreva 'going to'." },
+        { "say": ["I'm gonna take a nap. | Vou tirar um cochilo.", "We're gonna be late. | Vamos nos atrasar."] },
+        { "h": "⚠️ Pegadinhas", "list": ["Não use will em orações de tempo/condição: 'If it <b>rains</b>' (não 'will rain').", "<b>I will</b> não é só 'eu vou': carrega ideia de decisão/promessa.", "Pergunta com going to: <b>Are</b> you going to...? (não 'Do you going to')."] }
+      ]
+    },
+    {
+      "title": "Comparativos e Superlativos",
+      "blocks": [
+        { "h": "Comparando duas ou mais coisas", "svg": "<svg viewBox='0 0 640 130' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Comparativo e superlativo'><rect x='10' y='10' width='300' height='110' rx='8' fill='#5b7fbf'/><text x='160' y='32' font-weight='bold'>COMPARATIVO (duas coisas)</text><text x='160' y='58'>curto: tall → tall<tspan fill='#ffe08a'>er than</tspan></text><text x='160' y='80'>longo: <tspan fill='#ffe08a'>more</tspan> expensive <tspan fill='#ffe08a'>than</tspan></text><text x='160' y='102' font-size='11' fill='#d8e4ff'>good → better · bad → worse</text><rect x='330' y='10' width='300' height='110' rx='8' fill='#8a5fbf'/><text x='480' y='32' font-weight='bold'>SUPERLATIVO (o máximo)</text><text x='480' y='58'>curto: <tspan fill='#ffe08a'>the</tspan> tall<tspan fill='#ffe08a'>est</tspan></text><text x='480' y='80'>longo: <tspan fill='#ffe08a'>the most</tspan> expensive</text><text x='480' y='102' font-size='11' fill='#e6dcf5'>good → the best · bad → the worst</text></svg>" },
+        { "say": ["My sister is older than me. | Minha irmã é mais velha que eu.", "This book is more interesting than that one. | Este livro é mais interessante que aquele.", "He is the tallest in the team. | Ele é o mais alto do time.", "It's the most beautiful city I've ever seen. | É a cidade mais bonita que já vi.", "I feel better today. | Estou me sentindo melhor hoje."] },
+        { "h": "Regras de ortografia", "list": ["big → <b>bigger</b> / biggest (dobra a consoante em CVC).", "happy → <b>happier</b> / happiest (y → i).", "Adjetivos de 2 sílabas terminados em -y/-er/-le/-ow usam -er; os demais usam more."] },
+        { "h": "Igualdade", "list": ["<b>as ... as</b>: She is <b>as tall as</b> me.", "<b>not as ... as</b>: This isn't <b>as expensive as</b> that."] },
+        { "h": "⚠️ Pegadinhas", "list": ["'more <b>taller</b>' ✗ → 'taller' ✓ (não duplique).", "'<b>that</b> than' ✗ → 'than' (não 'that').", "<b>the</b> é obrigatório no superlativo: 'the best', 'the most'."] }
+      ]
+    },
+    {
+      "title": "Comida, Compras e Restaurante",
+      "blocks": [
+        { "h": "No restaurante (EUA)", "say": ["Hi, can I get a table for two? | Oi, pode ser uma mesa para dois?", "Can I see the menu? | Posso ver o cardápio?", "I'll have the steak, medium rare. | Vou querer o bife, ao ponto para mal passado.", "Can I get a side of fries? | Pode ser uma porção de batata frita de acompanhamento?", "Could we get some more water? | Pode trazer mais água?", "Can we get the check, please? | Pode trazer a conta, por favor?"] },
+        { "h": "Palavras que confundem (EUA × UK)", "list": ["<b>appetizer</b> (EUA) = starter (UK): entrada.", "<b>entrée</b> (EUA) = prato principal (no UK, entrada!).", "<b>check</b> (EUA) = bill (UK). <b>to go</b> (EUA) = takeaway (UK).", "<b>tip</b>: gorjeta. Nos EUA é esperada: 15–20% do valor."] },
+        { "h": "Contáveis e incontáveis", "list": ["Contáveis (têm plural): apple(s), egg(s), bottle(s) → <b>many, a few, how many</b>.", "Incontáveis: water, milk, rice, money, information → <b>much, a little, how much</b>.", "<b>some</b> (afirmativa/oferta), <b>any</b> (negativa/pergunta): I have some milk. / Do you have any milk?"] },
+        { "h": "Compras", "say": ["How much is this? | Quanto custa isto?", "Do you have this in a larger size? | Tem isto em um tamanho maior?", "Can I try it on? | Posso provar?", "I'll take it. | Vou levar.", "Do you take credit cards? | Aceitam cartão de crédito?"] },
+        { "h": "💡 Dica de americano", "p": "Perguntas comuns no balcão: <b>'For here or to go?'</b> (aqui ou para viagem?), <b>'Anything else?'</b> (mais alguma coisa?), <b>'Is that all?'</b>. Respostas: 'To go, please.' / 'That's it, thanks.'" },
+        { "h": "⚠️ Pegadinhas", "list": ["'I want a coffee' é correto, mas soa seco: prefira <b>'I'd like...'</b> ou <b>'Can I get...?'</b>.", "'<b>Many</b> water' ✗ → <b>much</b> water ✓.", "<b>Pretend</b> = fingir, <b>pretender</b> = intend (falso cognato)."] }
+      ]
+    },
+    {
+      "title": "Direções e Transporte",
+      "blocks": [
+        { "h": "Pedindo e dando direções", "say": ["Excuse me, how do I get to the train station? | Com licença, como chego à estação?", "Is there a pharmacy near here? | Há uma farmácia por aqui?", "Go straight for two blocks. | Siga em frente por dois quarteirões.", "Turn left at the traffic light. | Vire à esquerda no semáforo.", "It's on your right, across from the bank. | Fica à sua direita, em frente ao banco.", "You can't miss it. | Não tem como errar."] },
+        { "h": "Preposições de lugar", "list": ["<b>next to</b> (ao lado) · <b>between</b> (entre) · <b>across from</b> (em frente, do outro lado) · <b>in front of</b> · <b>behind</b> · <b>on the corner</b>.", "<b>at</b> a bus stop · <b>on</b> a street · <b>in</b> a city."] },
+        { "h": "Transporte", "list": ["<b>by</b> bus/car/train/plane/subway, mas <b>on foot</b>.", "Nos EUA: subway (metrô), <b>ride</b> (carona/corrida), <b>Uber/Lyft</b>. 'Can you give me a ride?' = pode me dar uma carona?"] },
+        { "say": ["I go to work by subway. | Vou ao trabalho de metrô.", "How long does it take? | Quanto tempo leva?", "It takes about twenty minutes. | Leva uns vinte minutos."] },
+        { "h": "⚠️ Pegadinhas", "list": ["'in <b>foot</b>' ✗ → '<b>on</b> foot' ✓.", "<b>block</b> = quarteirão (EUA).", "'Where is <b>the</b> bank?' (artigo the): você já sabe qual."] }
+      ]
+    },
+    {
+      "title": "Can, Could e Pedidos Educados",
+      "blocks": [
+        { "h": "Pedidos: do informal ao educado", "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Escada de educação nos pedidos'><rect x='10' y='70' width='150' height='40' rx='6' fill='#c9803a'/><text x='85' y='95'>Open the door.</text><rect x='170' y='55' width='150' height='55' rx='6' fill='#5b7fbf'/><text x='245' y='88'>Can you open it?</text><rect x='330' y='40' width='150' height='70' rx='6' fill='#3fa56b'/><text x='405' y='80'>Could you open it?</text><rect x='490' y='20' width='140' height='90' rx='6' fill='#8a5fbf'/><text x='560' y='60'>Would you mind</text><text x='560' y='78'>opening it?</text><text x='320' y='15' fill='#9aa7b8'>direto → educado → muito educado</text></svg>" },
+        { "say": ["Can you help me? | Pode me ajudar?", "Could you help me, please? | Poderia me ajudar, por favor?", "Would you mind closing the window? | Você se importaria de fechar a janela?", "Can I use your phone? | Posso usar seu telefone?", "Could I borrow your pen? | Poderia pegar sua caneta emprestada?", "Do you mind if I sit here? | Você se importa se eu sentar aqui?"] },
+        { "h": "Can para habilidade", "say": ["I can swim. | Eu sei nadar.", "She can't drive. | Ela não sabe dirigir.", "Can you speak English? | Você fala inglês?", "When I was young, I could run fast. | Quando era jovem, eu corria rápido."] },
+        { "h": "Ofertas e convites", "list": ["<b>Would you like...?</b> = Você gostaria de...? (educado)", "<b>Do you want to...?</b> = Você quer...? (informal)", "<b>Let's...</b> / <b>How about...?</b> = vamos... / que tal...?"] },
+        { "say": ["Would you like some coffee? | Você gostaria de café?", "Yes, please. / No, thanks. | Sim, por favor. / Não, obrigado.", "Do you want to grab lunch? | Quer almoçar juntos?", "How about Friday? | Que tal sexta?"] },
+        { "h": "⚠️ Pegadinhas", "list": ["Depois de can/could: verbo <b>sem to</b> ('Can you <b>help</b>' ✓).", "<b>Do you mind if...?</b>: a resposta educada 'No, go ahead' = tudo bem (o 'No' é 'não me importo').", "can't = não consigo/não posso; <b>cannot</b> é a forma escrita completa (nunca 'can not')."] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+[
+ {
+  "id": "phr-t-1",
+  "topic": "Phrasal Verbs Essenciais",
+  "q": "Diga em inglês: \"Desligue isso.\" (turn ... off)",
+  "a": [
+   "^turn it off$",
+   "^please turn it off$"
+  ],
+  "ex": "Turn it off.",
+  "out": "",
+  "why": "Com pronome, separe o phrasal verb.",
+  "hint": "Turn it ..."
+ },
+ {
+  "id": "phr-t-2",
+  "topic": "Phrasal Verbs Essenciais",
+  "q": "Diga em inglês: \"Nunca desista.\"",
+  "a": [
+   "^never give up$",
+   "^don'?t ever give up$"
+  ],
+  "ex": "Never give up.",
+  "out": "",
+  "why": "give up = desistir.",
+  "hint": "Never ..."
+ },
+ {
+  "id": "phr-t-3",
+  "topic": "Phrasal Verbs de Trabalho e Viagem",
+  "q": "Diga em inglês: \"Vou dar retorno amanhã.\" (follow up)",
+  "a": [
+   "^i'?ll follow up tomorrow$",
+   "^i will follow up tomorrow$"
+  ],
+  "ex": "I'll follow up tomorrow.",
+  "out": "",
+  "why": "follow up = dar retorno.",
+  "hint": "I'll follow ..."
+ },
+ {
+  "id": "phr-t-4",
+  "topic": "Phrasal Verbs de Trabalho e Viagem",
+  "q": "Diga em inglês: \"Preencha este formulário.\"",
+  "a": [
+   "^(please )?fill out this form$",
+   "^(please )?fill this form out$"
+  ],
+  "ex": "Please fill out this form.",
+  "out": "",
+  "why": "fill out = preencher.",
+  "hint": "Please fill ..."
+ },
+ {
+  "id": "phr-t-5",
+  "topic": "Idioms Comuns",
+  "q": "Diga em inglês: \"É moleza.\" (idiom)",
+  "a": [
+   "^it'?s a piece of cake$",
+   "^it is a piece of cake$"
+  ],
+  "ex": "It's a piece of cake.",
+  "out": "",
+  "why": "Idiom para algo muito fácil.",
+  "hint": "It's a piece of ..."
+ },
+ {
+  "id": "phr-t-6",
+  "topic": "Idioms Comuns",
+  "q": "Diga em inglês: \"Vamos encerrar por hoje.\" (idiom)",
+  "a": [
+   "^let'?s call it a day$"
+  ],
+  "ex": "Let's call it a day.",
+  "out": "",
+  "why": "Encerrar o trabalho do dia.",
+  "hint": "Let's call it ..."
+ },
+ {
+  "id": "phr-t-7",
+  "topic": "Expressões com Get, Take, Make, Do",
+  "q": "Diga em inglês: \"Cometi um erro.\" (make)",
+  "a": [
+   "^i made a mistake$"
+  ],
+  "ex": "I made a mistake.",
+  "out": "",
+  "why": "make a mistake (não do).",
+  "hint": "I made ..."
+ },
+ {
+  "id": "phr-t-8",
+  "topic": "Expressões com Get, Take, Make, Do",
+  "q": "Diga em inglês: \"Vamos fazer uma pausa.\" (take)",
+  "a": [
+   "^let'?s take a break$"
+  ],
+  "ex": "Let's take a break.",
+  "out": "",
+  "why": "take a break.",
+  "hint": "Let's take ..."
+ },
+ {
+  "id": "phr-t-9",
+  "topic": "Preposições e Collocations",
+  "q": "Diga em inglês: \"Sou bom em matemática.\"",
+  "a": [
+   "^i'?m good at (math|maths|mathematics)$",
+   "^i am good at (math|maths|mathematics)$"
+  ],
+  "ex": "I'm good at math.",
+  "out": "",
+  "why": "good at.",
+  "hint": "I'm good ..."
+ },
+ {
+  "id": "phr-t-10",
+  "topic": "Preposições e Collocations",
+  "q": "Diga em inglês: \"Estou te esperando.\" (wait)",
+  "a": [
+   "^i'?m waiting for you$",
+   "^i am waiting for you$"
+  ],
+  "ex": "I'm waiting for you.",
+  "out": "",
+  "why": "wait for.",
+  "hint": "I'm waiting ..."
+ },
+ {
+  "id": "phr-t-11",
+  "topic": "Phrasal Verbs",
+  "q": "Diga em inglês: \"Estou procurando meu celular.\"",
+  "a": [
+   "^i am looking for my (phone|cell phone|cellphone)$"
+  ],
+  "ex": "I'm looking for my phone.",
+  "out": "",
+  "why": "look for = procurar.",
+  "hint": "I'm looking ..."
+ },
+ {
+  "id": "phr-t-12",
+  "topic": "Phrasal Verbs",
+  "q": "Diga em inglês: \"Eu acordei tarde.\"",
+  "a": [
+   "^i woke up late$"
+  ],
+  "ex": "I woke up late.",
+  "out": "",
+  "why": "wake up → woke up.",
+  "hint": "I woke ..."
+ },
+ {
+  "id": "phr-t-13",
+  "topic": "Phrasal Verbs",
+  "q": "Diga em inglês: \"Cuide da sua saúde.\"",
+  "a": [
+   "^take care of your health$",
+   "^look after your health$"
+  ],
+  "ex": "Take care of your health.",
+  "out": "",
+  "why": "take care of.",
+  "hint": "Take care ..."
+ },
+ {
+  "id": "phr-t-14",
+  "topic": "Phrasal Verbs",
+  "q": "Diga em inglês: \"Eu descobri a verdade.\"",
+  "a": [
+   "^i found out (the truth|about it)$"
+  ],
+  "ex": "I found out the truth.",
+  "out": "",
+  "why": "find out → found out.",
+  "hint": "I found ..."
+ },
+ {
+  "id": "phr-t-15",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Eles cancelaram a reunião.\"",
+  "a": [
+   "^they (called off|cancelled|canceled) the meeting$"
+  ],
+  "ex": "They called off the meeting.",
+  "out": "",
+  "why": "call off = cancelar.",
+  "hint": "They called ..."
+ },
+ {
+  "id": "phr-t-16",
+  "topic": "Viagem",
+  "q": "Diga em inglês: \"Ficamos sem café.\"",
+  "a": [
+   "^we ran out of coffee$"
+  ],
+  "ex": "We ran out of coffee.",
+  "out": "",
+  "why": "run out of = ficar sem.",
+  "hint": "We ran ..."
+ },
+ {
+  "id": "phr-t-17",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Vou entrar em contato com o cliente.\"",
+  "a": [
+   "^i will (reach out to|get in touch with|contact) the (client|customer)$"
+  ],
+  "ex": "I'll reach out to the client.",
+  "out": "",
+  "why": "reach out to.",
+  "hint": "I'll reach ..."
+ },
+ {
+  "id": "phr-t-18",
+  "topic": "Idioms",
+  "q": "Diga em inglês: \"Preciso estudar.\" (idiom: hit the books)",
+  "a": [
+   "^i need to (hit the books|study)$"
+  ],
+  "ex": "I need to hit the books.",
+  "out": "",
+  "why": "hit the books = estudar.",
+  "hint": "I need to hit ..."
+ },
+ {
+  "id": "phr-t-19",
+  "topic": "Idioms",
+  "q": "Diga em inglês: \"Estou meio mal hoje.\" (idiom)",
+  "a": [
+   "^i am (a little |a bit |feeling )?under the weather( today)?$"
+  ],
+  "ex": "I'm under the weather today.",
+  "out": "",
+  "why": "under the weather = indisposto.",
+  "hint": "I'm under ..."
+ },
+ {
+  "id": "phr-t-20",
+  "topic": "Idioms",
+  "q": "Diga em inglês: \"A decisão é sua.\" (idiom: ball)",
+  "a": [
+   "^the ball is in your court$"
+  ],
+  "ex": "The ball is in your court.",
+  "out": "",
+  "why": "Idiom: a vez é sua.",
+  "hint": "The ball ..."
+ },
+ {
+  "id": "phr-t-21",
+  "topic": "Get/Take/Make/Do",
+  "q": "Diga em inglês: \"Eu não entendi.\" (get)",
+  "a": [
+   "^i (do not|did not) get it$"
+  ],
+  "ex": "I don't get it.",
+  "out": "",
+  "why": "get = entender.",
+  "hint": "I don't ..."
+ },
+ {
+  "id": "phr-t-22",
+  "topic": "Get/Take/Make/Do",
+  "q": "Diga em inglês: \"Eu fiz o meu melhor.\"",
+  "a": [
+   "^i did my best$"
+  ],
+  "ex": "I did my best.",
+  "out": "",
+  "why": "do your best.",
+  "hint": "I did ..."
+ },
+ {
+  "id": "phr-t-23",
+  "topic": "Preposições",
+  "q": "Diga em inglês: \"Tenho medo de aranhas.\"",
+  "a": [
+   "^i am afraid of spiders$"
+  ],
+  "ex": "I'm afraid of spiders.",
+  "out": "",
+  "why": "afraid of.",
+  "hint": "I'm afraid ..."
+ },
+ {
+  "id": "phr-t-24",
+  "topic": "Preposições",
+  "q": "Diga em inglês: \"Concordo com você.\"",
+  "a": [
+   "^i agree with you$"
+  ],
+  "ex": "I agree with you.",
+  "out": "",
+  "why": "agree with + pessoa.",
+  "hint": "I agree ..."
+ }
+]

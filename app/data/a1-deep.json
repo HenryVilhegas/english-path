@@ -1,0 +1,72 @@
+{
+  "level": "A1",
+  "sections": [
+    {
+      "title": "Verbo To Be e Apresentações",
+      "blocks": [
+        { "h": "O verbo mais importante", "p": "O <b>to be</b> (ser/estar) aparece em quase toda frase básica. Em português temos 'ser' e 'estar'; em inglês é um verbo só: <b>I am tired</b> (estou cansado) e <b>I am a teacher</b> (sou professor)." },
+        { "svg": "<svg viewBox='0 0 640 150' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='Conjugação do verbo to be'><g font-weight='bold'><rect x='10' y='10' width='200' height='130' rx='8' fill='#3fa56b'/><text x='110' y='34'>AFIRMATIVA</text><text x='110' y='62' font-weight='normal'>I <tspan fill='#ffe08a'>am</tspan> / I'm</text><text x='110' y='84' font-weight='normal'>you / we / they <tspan fill='#ffe08a'>are</tspan></text><text x='110' y='106' font-weight='normal'>he / she / it <tspan fill='#ffe08a'>is</tspan></text><rect x='220' y='10' width='200' height='130' rx='8' fill='#c94a4a'/><text x='320' y='34'>NEGATIVA</text><text x='320' y='62' font-weight='normal'>I am <tspan fill='#ffe08a'>not</tspan> / I'm not</text><text x='320' y='84' font-weight='normal'>you <tspan fill='#ffe08a'>aren't</tspan></text><text x='320' y='106' font-weight='normal'>he <tspan fill='#ffe08a'>isn't</tspan></text><rect x='430' y='10' width='200' height='130' rx='8' fill='#5b7fbf'/><text x='530' y='34'>PERGUNTA</text><text x='530' y='62' font-weight='normal'><tspan fill='#ffe08a'>Am</tspan> I late?</text><text x='530' y='84' font-weight='normal'><tspan fill='#ffe08a'>Are</tspan> you ready?</text><text x='530' y='106' font-weight='normal'><tspan fill='#ffe08a'>Is</tspan> she here?</text></g></svg>" },
+        { "say": ["I am a student. | Eu sou estudante.", "You are late. | Você está atrasado.", "She is from Brazil. | Ela é do Brasil.", "We are friends. | Nós somos amigos.", "They aren't at home. | Eles não estão em casa.", "Are you ready? | Você está pronto?"] },
+        { "h": "Se apresentando (script pronto)", "list": ["<b>Hi, I'm Ana.</b> Nice to meet you.", "<b>I'm from Brazil.</b> I live in São Paulo.", "<b>I'm 28.</b> I'm a nurse.", "<b>How about you?</b>"] },
+        { "say": ["Hi, I'm Ana. Nice to meet you. | Oi, sou a Ana. Prazer.", "I'm from Brazil, but I live in Florida. | Sou do Brasil, mas moro na Flórida.", "What do you do? | O que você faz (trabalho)?"] },
+        { "h": "💡 Dica de americano", "p": "Americanos quase sempre usam <b>contrações</b> ao falar: <i>I'm, you're, she's, we're, they're, isn't, aren't</i>. Falar 'I am' completo soa enfático ou muito formal." },
+        { "h": "⚠️ Pegadinhas", "list": ["'I <b>have</b> 25 years' ✗ → <b>I am 25</b> ✓.", "'I am <b>agree</b>' ✗ → <b>I agree</b> ✓ (agree é verbo, não adjetivo).", "'<b>Is</b> hot' ✗ → <b>It is hot</b>: em inglês o sujeito é obrigatório (it, there)."] }
+      ]
+    },
+    {
+      "title": "Cumprimentos e Frases de Sobrevivência",
+      "blocks": [
+        { "h": "Formal × informal", "p": "Os cumprimentos mudam conforme a hora e a intimidade. Ouça e repita:" },
+        { "say": ["Good morning. | Bom dia (até meio-dia).", "Good afternoon. | Boa tarde.", "Good evening. | Boa noite (ao chegar).", "Good night. | Boa noite (ao se despedir/dormir).", "Hi! / Hey! / Hello! | Oi!", "See you later! | Até mais!", "Take care! | Se cuida!"] },
+        { "h": "Frases de sobrevivência (decore!)", "say": ["Sorry, can you repeat that, please? | Desculpe, pode repetir?", "Can you speak more slowly? | Pode falar mais devagar?", "I don't understand. | Eu não entendo.", "I'm learning English. | Estou aprendendo inglês.", "How do you say 'saudade' in English? | Como se diz 'saudade' em inglês?", "What does 'borrow' mean? | O que significa 'borrow'?", "Excuse me, can you help me? | Com licença, pode me ajudar?"] },
+        { "h": "Educação (please, thank you, sorry)", "list": ["<b>Please</b>: por favor — ao pedir.", "<b>Thank you / Thanks</b>: obrigado. Resposta: <b>You're welcome / No problem / No worries</b>.", "<b>Excuse me</b>: com licença / para chamar atenção. <b>Sorry</b>: desculpe (quando errou)."] },
+        { "h": "💡 Dica de americano", "p": "À pergunta <b>'How are you?'</b> ninguém responde sobre a saúde: é só um cumprimento. Resposta padrão: <b>'Good, thanks. And you?'</b> ou 'Not bad.'" },
+        { "h": "⚠️ Pegadinhas", "list": ["'Good night' <b>não</b> é 'boa noite' ao chegar (use 'good evening').", "'I'm fine, thank you, and you?' é correto, mas soa 'de livro': prefira 'I'm good, thanks. You?'.", "Não responda 'How are you?' com 'thank you'."] }
+      ]
+    },
+    {
+      "title": "Números, Dias e Horas",
+      "blocks": [
+        { "h": "Números", "list": ["1–10: one, two, three, four, five, six, seven, eight, nine, ten.", "11–19: eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen.", "Dezenas: twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety. Ex: <b>twenty-five</b> (25).", "100 = one hundred · 1,000 = one thousand."] },
+        { "say": ["Thirteen and thirty. | 13 e 30 (cuidado: o acento muda!).", "My phone number is five-five-five, one-two-three-four. | Meu telefone é 555-1234.", "It costs twenty dollars. | Custa vinte dólares."] },
+        { "h": "Dias e meses", "say": ["Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. | Dias da semana.", "January, February, March, April, May, June. | Meses.", "My birthday is on March tenth. | Meu aniversário é 10 de março."] },
+        { "h": "Horas", "list": ["<b>What time is it?</b> → It's <b>3 o'clock</b> / 3:30 (three-thirty) / half past three / a quarter to four.", "Use <b>at</b> para horas (at 7), <b>on</b> para dias (on Monday), <b>in</b> para meses/anos (in May, in 2026)."] },
+        { "say": ["What time is it? | Que horas são?", "It's seven thirty. | São sete e meia.", "The class starts at nine. | A aula começa às nove.", "I work on Mondays. | Trabalho às segundas."] },
+        { "h": "⚠️ Pegadinhas", "list": ["Dias e meses sempre com <b>maiúscula</b>.", "<b>-teen</b> (13–19) × <b>-ty</b> (30–90): thirtEEN (tônica no fim) × THIRty (tônica no começo).", "Nos EUA, a data é <b>mês/dia/ano</b> (03/10/2026 = 10 de março)."] }
+      ]
+    },
+    {
+      "title": "Família, Casa e Objetos",
+      "blocks": [
+        { "h": "Família", "say": ["mother (mom), father (dad) | mãe, pai", "sister, brother | irmã, irmão", "grandmother (grandma), grandfather (grandpa) | avó, avô", "aunt, uncle, cousin | tia, tio, primo(a)", "husband, wife, son, daughter | marido, esposa, filho, filha"] },
+        { "h": "Casa", "say": ["This is my house. | Esta é minha casa.", "There is a sofa in the living room. | Há um sofá na sala.", "The kitchen is next to the bedroom. | A cozinha fica ao lado do quarto.", "My bathroom is small. | Meu banheiro é pequeno."] },
+        { "h": "This / That / These / Those", "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='This that these those'><rect x='10' y='15' width='300' height='90' rx='8' fill='#3fa56b'/><text x='160' y='40' font-weight='bold'>PERTO (here)</text><text x='160' y='66'>this = singular</text><text x='160' y='88'>these = plural</text><rect x='330' y='15' width='300' height='90' rx='8' fill='#c9803a'/><text x='480' y='40' font-weight='bold'>LONGE (there)</text><text x='480' y='66'>that = singular</text><text x='480' y='88'>those = plural</text></svg>" },
+        { "say": ["This is my phone. | Este é meu celular.", "That is my car. | Aquele é meu carro.", "These are my shoes. | Estes são meus sapatos.", "Those are my neighbors. | Aqueles são meus vizinhos."] },
+        { "h": "Artigos e plurais", "list": ["<b>a</b> + som de consoante (a book); <b>an</b> + som de vogal (an apple, an hour).", "Plural regular: -s (books); -es (boxes, watches). Irregulares: child → <b>children</b>, man → <b>men</b>, woman → <b>women</b>, person → <b>people</b>."] },
+        { "h": "⚠️ Pegadinhas", "list": ["<b>an hour</b> (o h é mudo) mas <b>a university</b> (som de 'yu').", "'<b>Peoples</b>' ✗ → <b>people</b> ✓ (já é plural).", "My <b>mother's</b> house: 's indica posse."] }
+      ]
+    },
+    {
+      "title": "Present Simple e Rotina",
+      "blocks": [
+        { "h": "Para quê serve", "p": "O <b>present simple</b> fala de <b>rotina, hábitos e fatos</b>: I work every day. The sun rises in the east." },
+        { "svg": "<svg viewBox='0 0 640 140' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='Present simple: afirmativa, negativa e pergunta'><rect x='10' y='10' width='200' height='120' rx='8' fill='#3fa56b'/><text x='110' y='32' font-weight='bold'>AFIRMATIVA</text><text x='110' y='60'>I work</text><text x='110' y='82'>he work<tspan fill='#ffe08a'>s</tspan></text><text x='110' y='104' font-size='11' fill='#d4f5e1'>he/she/it → + s</text><rect x='220' y='10' width='200' height='120' rx='8' fill='#c94a4a'/><text x='320' y='32' font-weight='bold'>NEGATIVA</text><text x='320' y='60'>I <tspan fill='#ffe08a'>don't</tspan> work</text><text x='320' y='82'>he <tspan fill='#ffe08a'>doesn't</tspan> work</text><text x='320' y='104' font-size='11' fill='#ffd9d9'>verbo SEM -s</text><rect x='430' y='10' width='200' height='120' rx='8' fill='#5b7fbf'/><text x='530' y='32' font-weight='bold'>PERGUNTA</text><text x='530' y='60'><tspan fill='#ffe08a'>Do</tspan> you work?</text><text x='530' y='82'><tspan fill='#ffe08a'>Does</tspan> he work?</text><text x='530' y='104' font-size='11' fill='#d8e4ff'>verbo SEM -s</text></svg>" },
+        { "say": ["I wake up at seven. | Acordo às sete.", "She works in a hospital. | Ela trabalha num hospital.", "They don't eat meat. | Eles não comem carne.", "Does he speak English? | Ele fala inglês?", "I usually take the bus. | Costumo pegar o ônibus.", "We never watch TV at night. | Nunca vemos TV à noite."] },
+        { "h": "Regras do -s (he/she/it)", "list": ["Normal: work → works, play → plays.", "-s, -sh, -ch, -x, -o → <b>-es</b>: watch → watches, go → goes, do → does.", "Consoante + y → <b>-ies</b>: study → studies. (vogal + y só -s: plays)."] },
+        { "h": "Advérbios de frequência", "p": "Ordem: <b>always</b> (100%) → <b>usually</b> → <b>often</b> → <b>sometimes</b> → <b>rarely</b> → <b>never</b> (0%). Ficam <b>antes do verbo</b> e <b>depois do to be</b>: I <b>always</b> drink coffee. / She <b>is</b> never late." },
+        { "h": "💡 Dica de americano", "p": "Para rotina, americanos adoram <b>'I usually...'</b> e <b>'I tend to...'</b>. E em vez de 'I have breakfast', dizem muito <b>'I grab breakfast'</b> quando é algo rápido." },
+        { "h": "⚠️ Pegadinhas", "list": ["'She <b>don't</b> like' ✗ → 'She <b>doesn't</b> like' ✓.", "'Does she <b>likes</b>?' ✗ → 'Does she <b>like</b>?' ✓ (o -s fica no does).", "'I <b>am</b> go to school' ✗ → 'I <b>go</b> to school' ✓ (não misture to be com outro verbo)."] }
+      ]
+    },
+    {
+      "title": "Perguntas Básicas (Wh-)",
+      "blocks": [
+        { "h": "As palavras de pergunta", "list": ["<b>What</b> = o quê / qual · <b>Where</b> = onde · <b>When</b> = quando · <b>Who</b> = quem", "<b>Why</b> = por quê · <b>How</b> = como · <b>Which</b> = qual (entre opções) · <b>Whose</b> = de quem"] },
+        { "p": "Estrutura: <b>Wh-word + do/does (ou to be) + sujeito + verbo</b>." },
+        { "say": ["What is your name? | Qual é seu nome?", "Where do you work? | Onde você trabalha?", "When does the class start? | Quando começa a aula?", "Who is that? | Quem é aquele?", "Why are you late? | Por que você está atrasado?", "How do you go to work? | Como você vai ao trabalho?", "How much is this? | Quanto custa isto?", "How old are you? | Quantos anos você tem?"] },
+        { "h": "How + adjetivo", "list": ["<b>How old</b> are you? (idade) · <b>How tall</b> is he? (altura) · <b>How far</b> is it? (distância).", "<b>How much</b> (incontável/preço) × <b>How many</b> (contável): How many brothers do you have?"] },
+        { "h": "⚠️ Pegadinhas", "list": ["'Where <b>you</b> live?' ✗ → 'Where <b>do you</b> live?' ✓.", "Com <b>to be</b> não usa do: 'Where <b>is</b> the bank?'.", "'What <b>hour</b> is it?' ✗ → 'What <b>time</b> is it?' ✓."] }
+      ]
+    }
+  ]
+}

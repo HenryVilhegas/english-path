@@ -1,0 +1,72 @@
+{
+  "level": "B1",
+  "sections": [
+    {
+      "title": "Present Perfect",
+      "blocks": [
+        { "h": "O tempo que liga o passado ao presente", "p": "O <b>present perfect</b> (have/has + particípio) não diz <i>quando</i> algo aconteceu: importa o <b>efeito agora</b> ou a <b>experiência</b>. Em português usamos vários tempos para isso; em inglês, é ele." },
+        { "svg": "<svg viewBox='0 0 640 140' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Present perfect liga passado e presente'><line x1='20' y1='70' x2='620' y2='70' stroke='#9aa7b8' stroke-width='3'/><rect x='130' y='55' width='300' height='30' rx='6' fill='#5b7fbf'/><text x='280' y='75' font-weight='bold'>I have lived here since 2020</text><circle cx='130' cy='70' r='7' fill='#c9803a'/><circle cx='430' cy='70' r='10' fill='#3fa56b'/><text x='130' y='108'>2020 (início)</text><text x='430' y='108' font-weight='bold'>AGORA</text><text x='280' y='35' fill='#ffe08a'>começou no passado e continua até hoje</text></svg>" },
+        { "say": ["I've lived here for five years. | Moro aqui há cinco anos.", "She has worked at the bank since 2018. | Ela trabalha no banco desde 2018.", "Have you ever been to Canada? | Você já esteve no Canadá?", "I've never tried sushi. | Nunca provei sushi.", "They've just arrived. | Eles acabaram de chegar.", "I haven't finished yet. | Ainda não terminei."] },
+        { "h": "Os 3 usos principais", "list": ["<b>Experiência</b>: I've been to Japan twice.", "<b>Resultado no presente</b>: I've lost my keys (e ainda não achei).", "<b>Ação que continua</b>: I've studied English for three years (e continuo)."] },
+        { "h": "For × since", "list": ["<b>for</b> + duração: for two weeks, for ages.", "<b>since</b> + início: since Monday, since I was a child, since 2019."] },
+        { "h": "Palavras-chave", "list": ["<b>ever</b> (alguma vez, em perguntas) · <b>never</b> · <b>already</b> (já) · <b>yet</b> (ainda, negativa/pergunta) · <b>just</b> (acabou de) · <b>recently</b> · <b>so far</b> (até agora)."] },
+        { "h": "Present perfect × past simple", "p": "Se houver <b>um momento terminado</b> (yesterday, last week, in 2019, ago), use <b>past simple</b>. Sem marcador de tempo, ou com tempo ainda 'aberto' (today, this week, so far), use <b>present perfect</b>." },
+        { "say": ["I saw him yesterday. | Eu o vi ontem. (past simple)", "I've seen him today. | Eu o vi hoje. (hoje ainda não acabou)"] },
+        { "h": "💡 Dica de americano", "p": "Americanos usam o <b>past simple</b> com <i>already, yet, just</i> com mais frequência que os britânicos: <i>'Did you eat yet?'</i> é comum nos EUA. Em provas e textos formais, prefira o present perfect." },
+        { "h": "⚠️ Pegadinhas", "list": ["'I have seen him <b>yesterday</b>' ✗ → 'I <b>saw</b> him yesterday' ✓.", "'I <b>am</b> living here <b>since</b> 2020' ✗ → 'I <b>have lived</b> here since 2020' ✓.", "<b>been</b> (foi e voltou) × <b>gone</b> (foi e ainda está lá)."] }
+      ]
+    },
+    {
+      "title": "Condicionais 0 e 1",
+      "blocks": [
+        { "h": "Se... então", "p": "As condicionais descrevem o que acontece <b>se</b> algo ocorrer. Cada tipo tem uma estrutura." },
+        { "svg": "<svg viewBox='0 0 640 130' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Condicionais zero e primeira'><rect x='10' y='10' width='300' height='110' rx='8' fill='#3fa56b'/><text x='160' y='32' font-weight='bold'>ZERO (fatos, sempre verdade)</text><text x='160' y='60'>If + <tspan fill='#ffe08a'>presente</tspan>, <tspan fill='#ffe08a'>presente</tspan></text><text x='160' y='88' font-size='11'>If you heat ice, it melts.</text><rect x='330' y='10' width='300' height='110' rx='8' fill='#5b7fbf'/><text x='480' y='32' font-weight='bold'>PRIMEIRA (futuro possível)</text><text x='480' y='60'>If + <tspan fill='#ffe08a'>presente</tspan>, <tspan fill='#ffe08a'>will</tspan> + verbo</text><text x='480' y='88' font-size='11'>If it rains, we'll stay home.</text></svg>" },
+        { "say": ["If you press this button, the door opens. | Se você apertar este botão, a porta abre.", "If I have time, I'll call you. | Se eu tiver tempo, eu te ligo.", "If she studies, she'll pass the exam. | Se ela estudar, passará na prova.", "Unless you hurry, you'll be late. | A menos que se apresse, vai se atrasar."] },
+        { "h": "Pontos importantes", "list": ["No <b>if</b> usa-se presente, <b>nunca</b> will: 'If it <b>rains</b>' (não 'will rain').", "A ordem pode inverter, sem vírgula: <i>We'll stay home if it rains.</i>", "<b>unless</b> = if ... not. <b>as long as</b> = contanto que. <b>in case</b> = por precaução.", "Na oração principal, podem aparecer outros modais: <i>If you're tired, you should rest.</i>"] },
+        { "h": "⚠️ Pegadinhas", "list": ["'If I will have time' ✗ → 'If I <b>have</b> time' ✓.", "<b>Unless</b> já é negativo: 'Unless you don't hurry' ✗.", "Zero = fatos/regras; primeira = situação futura real."] }
+      ]
+    },
+    {
+      "title": "Verbos Modais",
+      "blocks": [
+        { "h": "Modais: os verbos auxiliares com 'poderes'", "p": "Modais (can, could, may, might, must, should, will, would) <b>não levam -s</b>, <b>não levam 'to'</b> antes do verbo e não usam do/does em perguntas." },
+        { "say": ["You should see a doctor. | Você deveria ir ao médico.", "You must wear a helmet. | Você tem que usar capacete (regra forte).", "I have to work tomorrow. | Tenho que trabalhar amanhã (obrigação externa).", "You mustn't touch that. | Você não deve tocar nisso (proibido).", "You don't have to come. | Você não precisa vir (opcional).", "It might rain later. | Pode ser que chova mais tarde.", "She must be at work. | Ela deve estar no trabalho (dedução)."] },
+        { "h": "Obrigação × proibição × opção", "list": ["<b>must</b> / <b>have to</b>: obrigação.", "<b>mustn't</b>: <b>proibido</b>.", "<b>don't have to</b>: <b>não é necessário</b> (cuidado: não é proibição!)."] },
+        { "h": "Grau de certeza", "list": ["<b>must</b> (90%): He must be tired.", "<b>should</b> (70%): It should arrive today.", "<b>may / might / could</b> (30–50%): She might come.", "<b>can't</b> (0%, dedução negativa): That can't be true!"] },
+        { "h": "💡 Dica de americano", "p": "Para dizer que é preciso, americanos usam muito <b>gotta</b> (got to): <i>I gotta go.</i> (= I have to go). E para 'devia', <b>should've</b> (should have): <i>I should've called.</i> = Eu devia ter ligado." },
+        { "h": "⚠️ Pegadinhas", "list": ["'She <b>cans</b> swim' ✗ → 'She <b>can</b> swim' ✓.", "'You <b>should to</b> go' ✗ → 'You <b>should</b> go' ✓.", "'You <b>mustn't</b> come' ≠ 'You <b>don't have to</b> come'."] }
+      ]
+    },
+    {
+      "title": "Used to e Hábitos no Passado",
+      "blocks": [
+        { "h": "Coisas que você fazia e não faz mais", "say": ["I used to play the guitar. | Eu tocava violão (agora não).", "We used to live in Chicago. | Morávamos em Chicago.", "Did you use to smoke? | Você fumava?", "She didn't use to like coffee. | Ela não gostava de café antes."] },
+        { "p": "Para estados e hábitos passados. Em frases negativas e perguntas, o <b>did</b> assume o tempo: <i>did you use to</i> (sem -d)." },
+        { "h": "Used to × be used to × get used to", "list": ["<b>used to + verbo</b> = costumava (passado).", "<b>be used to + -ing/substantivo</b> = estar acostumado: I'm used to the cold.", "<b>get used to + -ing</b> = acostumar-se: I'm getting used to living here."] },
+        { "say": ["I'm used to waking up early. | Estou acostumado a acordar cedo.", "It took me a while to get used to the food. | Demorei para me acostumar com a comida."] },
+        { "h": "Would para hábitos", "p": "<b>would</b> também descreve hábitos do passado (só ações, não estados): <i>Every summer we would visit my grandparents.</i>" },
+        { "h": "⚠️ Pegadinhas", "list": ["'I'm used to <b>wake</b> up' ✗ → 'I'm used to <b>waking</b> up' ✓ (to é preposição).", "'Did you <b>used to</b>?' ✗ → 'Did you <b>use to</b>?' ✓.", "'I would live there' (estado) ✗ → 'I <b>used to</b> live there' ✓."] }
+      ]
+    },
+    {
+      "title": "Opiniões e Conversas",
+      "blocks": [
+        { "h": "Dar sua opinião", "say": ["I think it's a great idea. | Acho que é uma ótima ideia.", "In my opinion, we need more time. | Na minha opinião, precisamos de mais tempo.", "As far as I'm concerned, it's too expensive. | No que me diz respeito, é caro demais.", "To be honest, I'm not a big fan. | Para ser honesto, não sou muito fã."] },
+        { "h": "Concordar e discordar", "say": ["I totally agree. | Concordo totalmente.", "That's a good point. | Boa observação.", "I see your point, but I'm not sure. | Entendo, mas não tenho certeza.", "I'm afraid I disagree. | Receio discordar.", "Fair enough. | Justo."] },
+        { "h": "Pedir opinião e esclarecer", "say": ["What do you think? | O que você acha?", "What do you mean? | O que você quer dizer?", "Could you explain that? | Poderia explicar isso?", "Let me think about it. | Deixa eu pensar sobre isso."] },
+        { "h": "💡 Dica de americano", "p": "Para soar natural, junte pequenas expressões: <b>'I mean...'</b>, <b>'you know?'</b>, <b>'honestly'</b>, <b>'kind of'</b>, <b>'sort of'</b>. Ex.: <i>I kind of like it, but, I mean, it's kinda pricey.</i>" },
+        { "h": "⚠️ Pegadinhas", "list": ["'I am agree' ✗ → 'I agree' ✓.", "'I'm <b>agree</b> with you' ✗ → 'I <b>agree</b> with you' ✓.", "<b>Actually</b> = na verdade (não 'atualmente')."] }
+      ]
+    },
+    {
+      "title": "Conectores e Escrita",
+      "blocks": [
+        { "h": "Palavras que ligam ideias", "list": ["<b>Adição</b>: and, also, in addition, moreover.", "<b>Contraste</b>: but, however, although, even though, whereas.", "<b>Causa</b>: because, since, as, because of, due to.", "<b>Consequência</b>: so, therefore, as a result.", "<b>Sequência</b>: first, then, after that, finally."] },
+        { "say": ["Although it was late, we kept working. | Embora fosse tarde, continuamos trabalhando.", "It was late. However, we kept working. | Era tarde. Porém, continuamos.", "I was tired, so I went to bed. | Eu estava cansado, então fui dormir.", "We stayed home because of the rain. | Ficamos em casa por causa da chuva."] },
+        { "h": "Escrevendo um e-mail simples", "list": ["Abertura: <b>Hi John,</b> / Dear Ms. Smith,", "Motivo: <b>I'm writing to ask about...</b>", "Pedido: <b>Could you please send me...?</b>", "Fechamento: <b>Thanks, / Best regards, / Kind regards,</b>"] },
+        { "say": ["I'm writing to ask about the job. | Estou escrevendo para perguntar sobre a vaga.", "Could you please send me the details? | Poderia me enviar os detalhes?", "Thanks in advance. | Agradeço desde já."] },
+        { "h": "⚠️ Pegadinhas", "list": ["<b>However</b> não liga duas orações sozinho: use ponto/ponto e vírgula antes e vírgula depois.", "<b>Because</b> + oração × <b>because of</b> + substantivo.", "<b>Although</b> e <b>but</b> não vão juntos na mesma frase ('Although..., but' ✗)."] }
+      ]
+    }
+  ]
+}

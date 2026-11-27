@@ -1,0 +1,384 @@
+{
+ "level": "C1",
+ "name": "C1 · Avançado",
+ "description": "Inversão e ênfase, collocations e registro, hedging e diplomacia, cleft sentences e nuances de vocabulário.",
+ "flashcards": [
+  {
+   "id": "c1-fc-1",
+   "topic": "Inversão e Ênfase",
+   "front": "<b>Inversão</b> após advérbio negativo.",
+   "back": "Hardly/Rarely/Never/Seldom/Not only/No sooner + <b>auxiliar + sujeito</b>: <i>Never have I seen...</i>",
+   "en": "Never have I seen such a beautiful place.",
+   "syl": "NÉ-ver rév ai sín sâtch â BIÚ-ti-fou plêis"
+  },
+  {
+   "id": "c1-fc-2",
+   "topic": "Inversão e Ênfase",
+   "front": "<b>Hardly ... when</b> e <b>No sooner ... than</b>.",
+   "back": "Hardly <b>had</b> I sat down <b>when</b>... · No sooner <b>had</b> I sat down <b>than</b>... (mal... e já).",
+   "en": "No sooner had I arrived than it started to rain.",
+   "syl": "nôu SÚ-ner réd ai â-RÁIVD dén it STÁR-tid tu réin"
+  },
+  {
+   "id": "c1-fc-3",
+   "topic": "Inversão e Ênfase",
+   "front": "<b>Not only ... but also</b> com inversão.",
+   "back": "<b>Not only did</b> she win, <b>but</b> she <b>also</b> broke the record.",
+   "en": "Not only did she win, but she also broke the record.",
+   "syl": "nót ôun-li did chi uín, bât chi ól-sôu brôuk dâ RÉ-kord"
+  },
+  {
+   "id": "c1-fc-4",
+   "topic": "Inversão e Ênfase",
+   "front": "Inversão condicional.",
+   "back": "<b>Were</b> I you... = If I were you · <b>Had</b> I known... = If I had known · <b>Should</b> you need... = If you should need...",
+   "en": "Had I known, I would have helped.",
+   "syl": "réd ai nôun, ai uúd rév rélpt"
+  },
+  {
+   "id": "c1-fc-5",
+   "topic": "Collocations e Registro",
+   "front": "<b>Make</b> × <b>do</b>.",
+   "back": "make: decision, mistake, effort, progress, a suggestion. do: homework, the dishes, research, business, your best.",
+   "en": "I made a mistake, so I'll do my best to fix it.",
+   "syl": "ai mêid â mis-TÊIK, sôu áiu du mai BÉST tu fiks it"
+  },
+  {
+   "id": "c1-fc-6",
+   "topic": "Collocations e Registro",
+   "front": "Collocations com <b>take</b>, <b>have</b>, <b>get</b>.",
+   "back": "take a break/risk/notes/place · have a look/a chat/an argument · get tired/better/the point/a refund.",
+   "en": "Let's take a break and have a look at the plan.",
+   "syl": "léts têik â brêik end rév â luk ét dâ plén"
+  },
+  {
+   "id": "c1-fc-7",
+   "topic": "Collocations e Registro",
+   "front": "<b>Raise</b>, <b>rise</b>, <b>arise</b>.",
+   "back": "<b>raise</b> (levantar algo; regular) · <b>rise</b> (subir sozinho; rise/rose/risen) · <b>arise</b> (surgir).",
+   "en": "Prices rise when costs are raised.",
+   "syl": "PRÁI-siz ráiz uén kósts ar réizd"
+  },
+  {
+   "id": "c1-fc-8",
+   "topic": "Collocations e Registro",
+   "front": "Registro <b>formal × informal</b>.",
+   "back": "Formal: obtain, request, inform, in addition, regarding. Informal: get, ask for, tell, also, about. Evite contrações e phrasal verbs em textos formais.",
+   "en": "I would like to request further information.",
+   "syl": "ai uúd laik tu ri-KUÉST FÉR-der in-for-MÊI-chen"
+  },
+  {
+   "id": "c1-fc-9",
+   "topic": "Hedging e Diplomacia",
+   "front": "O que é <b>hedging</b>?",
+   "back": "Suavizar afirmações com <b>might, seems, tends to, arguably, to some extent</b>, para soar cuidadoso e diplomático.",
+   "en": "It seems that the results might suggest a problem.",
+   "syl": "it símz dét dâ ri-SÂLTS máit sâ-DJÉST â PRÓ-blem"
+  },
+  {
+   "id": "c1-fc-10",
+   "topic": "Hedging e Diplomacia",
+   "front": "Como <b>criticar</b> de forma diplomática?",
+   "back": "<b>I might be wrong, but...</b> / I wonder if we could... / Perhaps it would be better to...",
+   "en": "I wonder if we could try a different approach.",
+   "syl": "ai UÂN-der if uí kúd trai â DÍ-fe-rent â-PRÔUTCH"
+  },
+  {
+   "id": "c1-fc-11",
+   "topic": "Hedging e Diplomacia",
+   "front": "Como <b>recusar</b> sem ser rude?",
+   "back": "<b>I'm afraid I can't...</b> / Unfortunately, I won't be able to... / I'd love to, but...",
+   "en": "I'd love to, but I'm afraid I can't make it.",
+   "syl": "aid lâv tu, bât aim â-FRÉID ai ként mêik it"
+  },
+  {
+   "id": "c1-fc-12",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "front": "<b>It-cleft</b>.",
+   "back": "<b>It was ... that/who ...</b>: enfatiza uma parte. <i>It was John who called me.</i> / <i>It was not until later that I realized.</i>",
+   "en": "It was not until midnight that he finished.",
+   "syl": "it uóz nót ân-TÍU mid-NÁIT dét ri FÍ-nicht"
+  },
+  {
+   "id": "c1-fc-13",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "front": "<b>Wh-cleft</b> (pseudo-cleft).",
+   "back": "<b>What I need is...</b> / <b>What happened was...</b> Enfatiza o que vem depois do 'is/was'.",
+   "en": "What I need is a long vacation.",
+   "syl": "uót ai nid iz â lóng vê-KÊI-chen"
+  },
+  {
+   "id": "c1-fc-14",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "front": "<b>Subjuntivo</b> em inglês.",
+   "back": "Depois de demand, insist, suggest, recommend: <b>that + sujeito + verbo base</b>: <i>I suggest that he <b>go</b>.</i>",
+   "en": "I suggest that she be on time.",
+   "syl": "ai sâ-DJÉST dét chi bí on táim"
+  },
+  {
+   "id": "c1-fc-15",
+   "topic": "Vocabulário Avançado e Nuances",
+   "front": "<b>Affect</b> × <b>effect</b>.",
+   "back": "<b>affect</b> (verbo) = afetar. <b>effect</b> (substantivo) = efeito. (Raramente: effect como verbo = efetuar.)",
+   "en": "The weather affects my mood, and the effect is clear.",
+   "syl": "dâ UÉ-der â-FÉKTS mai mud, end dí i-FÉKT iz klír"
+  },
+  {
+   "id": "c1-fc-16",
+   "topic": "Vocabulário Avançado e Nuances",
+   "front": "<b>Economic</b> × <b>economical</b>, <b>historic</b> × <b>historical</b>.",
+   "back": "economic = da economia · economical = econômico (barato) · historic = importante na história · historical = relativo à história.",
+   "en": "It was a historic moment in economic history.",
+   "syl": "it uóz â ris-TÓ-rik MÔU-ment in E-kâ-NÓ-mik RÍS-tâ-ri"
+  },
+  {
+   "id": "c1-fc-17",
+   "topic": "Vocabulário Avançado e Nuances",
+   "front": "<b>Eventually</b>, <b>actually</b>, <b>currently</b>.",
+   "back": "eventually = por fim (não 'eventualmente') · actually = na verdade (não 'atualmente') · currently = atualmente.",
+   "en": "Eventually, I got the job. I'm currently working there.",
+   "syl": "i-VÉN-tchu-â-li, ai gót dâ djob · aim KÂ-rent-li UÉR-king dér"
+  }
+ ],
+ "questions": [
+  {
+   "id": "c1-q-1",
+   "topic": "Inversão e Ênfase",
+   "difficulty": "dificil",
+   "question": "Never ___ such a beautiful sunset.",
+   "options": [
+    "I have seen",
+    "have I seen",
+    "I saw",
+    "did I seen"
+   ],
+   "answer": 1,
+   "explanation": "Inversão com 'never': <b>have I seen</b>.",
+   "en": "Never have I seen such a beautiful sunset."
+  },
+  {
+   "id": "c1-q-2",
+   "topic": "Inversão e Ênfase",
+   "difficulty": "dificil",
+   "question": "No sooner ___ arrived than it started to rain.",
+   "options": [
+    "we had",
+    "had we",
+    "did we",
+    "we have"
+   ],
+   "answer": 1,
+   "explanation": "No sooner <b>had we</b> arrived <b>than</b>..."
+  },
+  {
+   "id": "c1-q-3",
+   "topic": "Inversão e Ênfase",
+   "difficulty": "dificil",
+   "question": "Not only ___ she win, but she also broke the record.",
+   "options": [
+    "did",
+    "does",
+    "had",
+    "was"
+   ],
+   "answer": 0,
+   "explanation": "Not only <b>did</b> she win (inversão no passado)."
+  },
+  {
+   "id": "c1-q-4",
+   "topic": "Inversão e Ênfase",
+   "difficulty": "dificil",
+   "question": "___ I known, I would have acted differently.",
+   "options": [
+    "If",
+    "Had",
+    "Should",
+    "Were"
+   ],
+   "answer": 1,
+   "explanation": "<b>Had I known</b> = If I had known."
+  },
+  {
+   "id": "c1-q-5",
+   "topic": "Collocations e Registro",
+   "difficulty": "dificil",
+   "question": "We must ___ a decision before Monday.",
+   "options": [
+    "do",
+    "make",
+    "take out",
+    "give"
+   ],
+   "answer": 1,
+   "explanation": "<b>make a decision</b>."
+  },
+  {
+   "id": "c1-q-6",
+   "topic": "Collocations e Registro",
+   "difficulty": "dificil",
+   "question": "He ___ his best to finish on time.",
+   "options": [
+    "made",
+    "did",
+    "took",
+    "had"
+   ],
+   "answer": 1,
+   "explanation": "<b>do one's best</b>."
+  },
+  {
+   "id": "c1-q-7",
+   "topic": "Collocations e Registro",
+   "difficulty": "dificil",
+   "question": "Which sentence is the most formal?",
+   "options": [
+    "Can you get me the report?",
+    "Could you send me the report?",
+    "I would be grateful if you could provide the report.",
+    "Give me the report."
+   ],
+   "answer": 2,
+   "explanation": "'I would be grateful if you could...' é o mais formal."
+  },
+  {
+   "id": "c1-q-8",
+   "topic": "Collocations e Registro",
+   "difficulty": "dificil",
+   "question": "The proposal was met ___ criticism.",
+   "options": [
+    "by",
+    "with",
+    "for",
+    "from"
+   ],
+   "answer": 1,
+   "explanation": "<b>be met with</b> criticism/skepticism."
+  },
+  {
+   "id": "c1-q-9",
+   "topic": "Hedging e Diplomacia",
+   "difficulty": "dificil",
+   "question": "Which is the most diplomatic way to point out an error?",
+   "options": [
+    "You made a mistake.",
+    "That is wrong.",
+    "I might be mistaken, but I think there may be an error here.",
+    "Fix it."
+   ],
+   "answer": 2,
+   "explanation": "Hedging: might, I think, may."
+  },
+  {
+   "id": "c1-q-10",
+   "topic": "Hedging e Diplomacia",
+   "difficulty": "dificil",
+   "question": "Which phrase is a polite refusal?",
+   "options": [
+    "No way.",
+    "I'm afraid I won't be able to make it.",
+    "I don't want to.",
+    "Maybe never."
+   ],
+   "answer": 1,
+   "explanation": "'I'm afraid I won't be able to...' recusa com delicadeza."
+  },
+  {
+   "id": "c1-q-11",
+   "topic": "Hedging e Diplomacia",
+   "difficulty": "dificil",
+   "question": "'The results suggest that...' é mais cauteloso que:",
+   "options": [
+    "The results prove that...",
+    "The results might suggest that possibly...",
+    "The results are certain that...",
+    "The results do show that..."
+   ],
+   "answer": 0,
+   "explanation": "'prove' é forte; 'suggest' é cauteloso (hedging)."
+  },
+  {
+   "id": "c1-q-12",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "difficulty": "dificil",
+   "question": "It was not until midnight ___ he finished.",
+   "options": [
+    "when",
+    "that",
+    "which",
+    "than"
+   ],
+   "answer": 1,
+   "explanation": "<b>It was not until ... that ...</b>"
+  },
+  {
+   "id": "c1-q-13",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "difficulty": "dificil",
+   "question": "___ I need is a long vacation.",
+   "options": [
+    "That",
+    "What",
+    "Which",
+    "Who"
+   ],
+   "answer": 1,
+   "explanation": "Wh-cleft: <b>What I need is</b>..."
+  },
+  {
+   "id": "c1-q-14",
+   "topic": "Cleft Sentences e Estruturas Avançadas",
+   "difficulty": "dificil",
+   "question": "I suggest that he ___ on time.",
+   "options": [
+    "is",
+    "be",
+    "will be",
+    "was"
+   ],
+   "answer": 1,
+   "explanation": "Subjuntivo após suggest: <b>that he be</b>."
+  },
+  {
+   "id": "c1-q-15",
+   "topic": "Vocabulário Avançado e Nuances",
+   "difficulty": "dificil",
+   "question": "The new policy will ___ everyone.",
+   "options": [
+    "effect",
+    "affect",
+    "infect",
+    "afflict"
+   ],
+   "answer": 1,
+   "explanation": "<b>affect</b> (verbo) = afetar."
+  },
+  {
+   "id": "c1-q-16",
+   "topic": "Vocabulário Avançado e Nuances",
+   "difficulty": "dificil",
+   "question": "'Eventually' means:",
+   "options": [
+    "by chance",
+    "in the end, after a long time",
+    "currently",
+    "from time to time"
+   ],
+   "answer": 1,
+   "explanation": "<b>eventually</b> = por fim (não 'eventualmente')."
+  },
+  {
+   "id": "c1-q-17",
+   "topic": "Vocabulário Avançado e Nuances",
+   "difficulty": "dificil",
+   "question": "'Actually' means:",
+   "options": [
+    "currently",
+    "in fact",
+    "at once",
+    "usually"
+   ],
+   "answer": 1,
+   "explanation": "<b>actually</b> = na verdade."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+  "level": "Teste de Nível",
+  "sections": [
+    {
+      "title": "Como funciona o Teste",
+      "blocks": [
+        { "list": ["Faça o <b>quiz de cada seção</b> (A1 → C1) clicando em 'Testar esta seção'. Sem consultar, sem tradutor.", "Seu nível = o <b>maior em que você acerta 75% ou mais</b>.", "Depois estude o módulo correspondente (A1, A2, B1...) e refaça o teste em 2 a 4 semanas."] }
+      ]
+    },
+    {
+      "title": "Nível A1",
+      "blocks": [
+        { "say": ["My name is Ana. | Meu nome é Ana.", "I'm from Brazil. | Sou do Brasil.", "How are you? | Como você está?"] },
+        { "list": ["Se apresentar, <b>to be</b>, números, dias, cores, família, present simple básico."] }
+      ]
+    },
+    {
+      "title": "Nível A2",
+      "blocks": [
+        { "say": ["Yesterday I went to the supermarket. | Ontem fui ao supermercado.", "She is taller than me. | Ela é mais alta que eu."] },
+        { "list": ["Passado simples, going to, comparativos, countable/uncountable, pedidos e direções."] }
+      ]
+    },
+    {
+      "title": "Nível B1",
+      "blocks": [
+        { "say": ["I've lived here since 2020. | Moro aqui desde 2020.", "If it rains, we'll stay home. | Se chover, ficamos em casa."] },
+        { "list": ["Present perfect, condicionais 0/1, modais, used to, conectores, opiniões."] }
+      ]
+    },
+    {
+      "title": "Nível B2",
+      "blocks": [
+        { "say": ["If I were rich, I would travel the world. | Se eu fosse rico, viajaria o mundo.", "The house was built in 1990. | A casa foi construída em 1990."] },
+        { "list": ["Condicionais 2/3, passiva, discurso indireto, orações relativas, wish, future perfect."] }
+      ]
+    },
+    {
+      "title": "Nível C1",
+      "blocks": [
+        { "say": ["Had I known, I would have acted differently. | Se eu soubesse, teria agido diferente.", "Rarely have I seen such talent. | Raramente vi tanto talento."] },
+        { "list": ["Inversão, cleft sentences, collocations, registro formal/informal, hedging."] }
+      ]
+    }
+  ]
+}

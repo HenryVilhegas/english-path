@@ -1,0 +1,43 @@
+{
+  "level": "A1",
+  "sections": [
+    {
+      "title": "Verbo To Be e Apresentações",
+      "blocks": [
+        { "say": ["I am Ana. | Eu sou Ana.", "You are my friend. | Você é meu amigo.", "She is from Brazil. | Ela é do Brasil.", "We are students. | Nós somos estudantes."] },
+        { "list": ["I <b>am</b> · you/we/they <b>are</b> · he/she/it <b>is</b>. Negativa: <b>isn't / aren't / am not</b>.", "Idade: <b>I am 25</b> (não 'have')."] }
+      ]
+    },
+    {
+      "title": "Cumprimentos e Frases de Sobrevivência",
+      "blocks": [
+        { "say": ["Good morning! | Bom dia!", "Nice to meet you. | Prazer em conhecer.", "Sorry, can you repeat that? | Desculpe, pode repetir?", "I don't understand. | Eu não entendo."] }
+      ]
+    },
+    {
+      "title": "Números, Dias e Horas",
+      "blocks": [
+        { "say": ["What time is it? | Que horas são?", "It's three o'clock. | São três horas.", "See you on Monday. | Até segunda."] }
+      ]
+    },
+    {
+      "title": "Família, Casa e Objetos",
+      "blocks": [
+        { "say": ["This is my mom. | Esta é minha mãe.", "That is my house. | Aquela é minha casa.", "These are my keys. | Estas são minhas chaves."] }
+      ]
+    },
+    {
+      "title": "Present Simple e Rotina",
+      "blocks": [
+        { "list": ["he/she/it + <b>-s</b>. Negativa: <b>don't / doesn't</b> + verbo base. Pergunta: <b>Do / Does</b> + sujeito + verbo?", "Frequência: always, usually, often, sometimes, never (antes do verbo)."] },
+        { "say": ["I wake up at seven. | Acordo às sete.", "She doesn't drink coffee. | Ela não bebe café."] }
+      ]
+    },
+    {
+      "title": "Perguntas Básicas (Wh-)",
+      "blocks": [
+        { "say": ["What is your name? | Qual é o seu nome?", "Where do you live? | Onde você mora?", "How much is it? | Quanto custa?"] }
+      ]
+    }
+  ]
+}

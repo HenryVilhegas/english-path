@@ -1,0 +1,305 @@
+[
+ {
+  "id": "b2-t-1",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se eu fosse rico, viajaria o mundo.\"",
+  "a": [
+   "^if i (were|was) (rich|wealthy),? i (would|'d) travel (the world|around the world)$"
+  ],
+  "ex": "If I were rich, I would travel the world.",
+  "out": "",
+  "why": "2ª condicional: if + past, would + verbo.",
+  "hint": "If I were ..."
+ },
+ {
+  "id": "b2-t-2",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se eu tivesse estudado, teria passado na prova.\"",
+  "a": [
+   "^if i (had|'d) studied,? i (would|'d) have passed (the|that) (exam|test)$"
+  ],
+  "ex": "If I had studied, I would have passed the exam.",
+  "out": "",
+  "why": "3ª condicional: if + past perfect, would have + particípio.",
+  "hint": "If I had studied, ..."
+ },
+ {
+  "id": "b2-t-3",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se eu fosse você, eu me candidataria.\"",
+  "a": [
+   "^if i were you,? i('d| would) apply$"
+  ],
+  "ex": "If I were you, I'd apply.",
+  "out": "",
+  "why": "If I were you = conselho clássico.",
+  "hint": "If I were you, ..."
+ },
+ {
+  "id": "b2-t-4",
+  "topic": "Passiva",
+  "q": "Diga em inglês: \"A casa foi construída em 1990.\"",
+  "a": [
+   "^the house was built in 1990$"
+  ],
+  "ex": "The house was built in 1990.",
+  "out": "",
+  "why": "was + particípio (built).",
+  "hint": "The house was ..."
+ },
+ {
+  "id": "b2-t-5",
+  "topic": "Passiva",
+  "q": "Diga em inglês: \"Meu celular foi roubado ontem à noite.\"",
+  "a": [
+   "^my (phone|cell phone|cellphone) was stolen last night$",
+   "^last night,? my (phone|cell phone|cellphone) was stolen$"
+  ],
+  "ex": "My phone was stolen last night.",
+  "out": "",
+  "why": "O agente do roubo é desconhecido: sem 'by'.",
+  "hint": "My phone was ..."
+ },
+ {
+  "id": "b2-t-6",
+  "topic": "Passiva",
+  "q": "Diga em inglês: \"O relatório será finalizado amanhã.\"",
+  "a": [
+   "^the report will be (finished|completed|done) tomorrow$"
+  ],
+  "ex": "The report will be finished tomorrow.",
+  "out": "",
+  "why": "Futuro passivo: will be + particípio.",
+  "hint": "will be ..."
+ },
+ {
+  "id": "b2-t-7",
+  "topic": "Discurso indireto",
+  "q": "Diga em inglês (discurso indireto): \"Ela disse que estava cansada.\"",
+  "a": [
+   "^she said (that )?she was tired$"
+  ],
+  "ex": "She said she was tired.",
+  "out": "",
+  "why": "Backshift: is → was.",
+  "hint": "She said ..."
+ },
+ {
+  "id": "b2-t-8",
+  "topic": "Discurso indireto",
+  "q": "Diga em inglês: \"Ele me mandou esperar do lado de fora.\"",
+  "a": [
+   "^he told me to wait outside$"
+  ],
+  "ex": "He told me to wait outside.",
+  "out": "",
+  "why": "tell + pessoa + to + verbo.",
+  "hint": "He told me to ..."
+ },
+ {
+  "id": "b2-t-9",
+  "topic": "Relativas",
+  "q": "Diga em inglês: \"O homem que mora ao lado é médico.\"",
+  "a": [
+   "^the man (who|that) lives next door is a doctor$"
+  ],
+  "ex": "The man who lives next door is a doctor.",
+  "out": "",
+  "why": "who/that para pessoas.",
+  "hint": "The man who ..."
+ },
+ {
+  "id": "b2-t-10",
+  "topic": "Relativas",
+  "q": "Diga em inglês: \"Meu irmão, que mora em Miami, é enfermeiro.\"",
+  "a": [
+   "^my brother,? who lives in miami,? is a nurse$"
+  ],
+  "ex": "My brother, who lives in Miami, is a nurse.",
+  "out": "",
+  "why": "Informação extra entre vírgulas: who (não that).",
+  "hint": "My brother, who ..."
+ },
+ {
+  "id": "b2-t-11",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Vamos começar a reunião.\"",
+  "a": [
+   "^let's (get started|start|begin)( the meeting)?$",
+   "^shall we (begin|start|get started)$"
+  ],
+  "ex": "Let's get started.",
+  "out": "",
+  "why": "Frase clássica para abrir reuniões.",
+  "hint": "Let's get ..."
+ },
+ {
+  "id": "b2-t-12",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Você poderia me responder até sexta-feira?\"",
+  "a": [
+   "^could you (please )?(get back to me|reply|respond|answer) by friday$"
+  ],
+  "ex": "Could you get back to me by Friday?",
+  "out": "",
+  "why": "get back to me = me responder depois.",
+  "hint": "Could you get back ..."
+ },
+ {
+  "id": "b2-t-13",
+  "topic": "Desejos",
+  "q": "Diga em inglês: \"Eu queria ter mais tempo.\"",
+  "a": [
+   "^i wish i had more (free )?time$"
+  ],
+  "ex": "I wish I had more time.",
+  "out": "",
+  "why": "wish + past simple = desejo no presente.",
+  "hint": "I wish I ..."
+ },
+ {
+  "id": "b2-t-14",
+  "topic": "Desejos",
+  "q": "Diga em inglês: \"Eu preferiria ficar em casa hoje à noite.\"",
+  "a": [
+   "^i('d| would) rather (stay|be) (at )?home tonight$",
+   "^i('d| would) rather stay in tonight$"
+  ],
+  "ex": "I'd rather stay home tonight.",
+  "out": "",
+  "why": "would rather + verbo base.",
+  "hint": "I'd rather ..."
+ },
+ {
+  "id": "b2-t-15",
+  "topic": "Condicionais",
+  "q": "Diga em inglês: \"Se eu tivesse mais tempo, estudaria mais.\"",
+  "a": [
+   "^if i had more time,? i would study more$"
+  ],
+  "ex": "If I had more time, I'd study more.",
+  "out": "",
+  "why": "2ª condicional.",
+  "hint": "If I had ..."
+ },
+ {
+  "id": "b2-t-16",
+  "topic": "Wish",
+  "q": "Diga em inglês: \"Eu queria ter ido à festa.\"",
+  "a": [
+   "^i wish i had gone to the party$"
+  ],
+  "ex": "I wish I had gone to the party.",
+  "out": "",
+  "why": "wish + past perfect = arrependimento.",
+  "hint": "I wish I had ..."
+ },
+ {
+  "id": "b2-t-17",
+  "topic": "Passiva",
+  "q": "Diga em inglês: \"O prédio está sendo construído.\"",
+  "a": [
+   "^the building is being built$"
+  ],
+  "ex": "The building is being built.",
+  "out": "",
+  "why": "is being + particípio.",
+  "hint": "The building is ..."
+ },
+ {
+  "id": "b2-t-18",
+  "topic": "Passiva",
+  "q": "Diga em inglês: \"O problema foi resolvido.\"",
+  "a": [
+   "^the problem (was|has been) (solved|fixed|resolved)$"
+  ],
+  "ex": "The problem has been solved.",
+  "out": "",
+  "why": "has been + particípio.",
+  "hint": "The problem has ..."
+ },
+ {
+  "id": "b2-t-19",
+  "topic": "Discurso indireto",
+  "q": "Diga em inglês: \"Ele disse que ligaria mais tarde.\"",
+  "a": [
+   "^he said (that )?he would (call|phone) (me )?(later|back)$"
+  ],
+  "ex": "He said he would call later.",
+  "out": "",
+  "why": "will vira would.",
+  "hint": "He said he would ..."
+ },
+ {
+  "id": "b2-t-20",
+  "topic": "Discurso indireto",
+  "q": "Diga em inglês: \"Ela perguntou onde eu morava.\"",
+  "a": [
+   "^she asked (me )?where i lived$"
+  ],
+  "ex": "She asked where I lived.",
+  "out": "",
+  "why": "Pergunta indireta: sem inversão.",
+  "hint": "She asked where ..."
+ },
+ {
+  "id": "b2-t-21",
+  "topic": "Relativas",
+  "q": "Diga em inglês: \"O livro que li era ótimo.\"",
+  "a": [
+   "^the book (that |which )?i (read|have read) (was|is) (great|excellent|amazing)$"
+  ],
+  "ex": "The book that I read was great.",
+  "out": "",
+  "why": "that/which para coisas.",
+  "hint": "The book that ..."
+ },
+ {
+  "id": "b2-t-22",
+  "topic": "Preferências",
+  "q": "Diga em inglês: \"Prefiro ficar em casa a sair.\"",
+  "a": [
+   "^i would rather stay (at )?home than go out$"
+  ],
+  "ex": "I'd rather stay home than go out.",
+  "out": "",
+  "why": "would rather + verbo.",
+  "hint": "I'd rather ..."
+ },
+ {
+  "id": "b2-t-23",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Estou ansioso para te ver.\"",
+  "a": [
+   "^i am looking forward to (seeing|meeting) you$"
+  ],
+  "ex": "I'm looking forward to seeing you.",
+  "out": "",
+  "why": "look forward to + verbo-ing.",
+  "hint": "I'm looking forward ..."
+ },
+ {
+  "id": "b2-t-24",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Vou ficar de olho nisso.\"",
+  "a": [
+   "^i will keep an eye on (it|that|this)$"
+  ],
+  "ex": "I'll keep an eye on it.",
+  "out": "",
+  "why": "keep an eye on = acompanhar.",
+  "hint": "I'll keep ..."
+ },
+ {
+  "id": "b2-t-25",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Podemos marcar uma reunião na quinta?\"",
+  "a": [
+   "^can we (schedule|set up|have|book) a meeting on thursday$"
+  ],
+  "ex": "Can we schedule a meeting on Thursday?",
+  "out": "",
+  "why": "schedule a meeting.",
+  "hint": "Can we schedule ..."
+ }
+]

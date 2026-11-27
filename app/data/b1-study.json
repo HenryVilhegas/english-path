@@ -1,0 +1,43 @@
+{
+  "level": "B1",
+  "sections": [
+    {
+      "title": "Present Perfect",
+      "blocks": [
+        { "list": ["<b>have/has + particípio</b>. Experiência (ever/never), resultado agora, ação que continua (for/since).", "Tempo definido (yesterday, in 2019) → <b>past simple</b>."] },
+        { "say": ["I've lived here since 2020. | Moro aqui desde 2020.", "Have you ever been to Canada? | Você já foi ao Canadá?"] }
+      ]
+    },
+    {
+      "title": "Condicionais 0 e 1",
+      "blocks": [
+        { "list": ["<b>0</b>: if + presente, presente (fatos). <b>1</b>: if + presente, <b>will</b> + verbo (futuro real).", "<b>unless</b> = if ... not."] },
+        { "say": ["If you heat ice, it melts. | Se aquecer o gelo, ele derrete.", "If it rains, we'll stay home. | Se chover, ficamos em casa."] }
+      ]
+    },
+    {
+      "title": "Verbos Modais",
+      "blocks": [
+        { "list": ["should (conselho) · must (obrigação forte) · have to (obrigação externa) · <b>mustn't</b> (proibido) × <b>don't have to</b> (não precisa).", "might/may/could (possibilidade) · must (dedução)."] }
+      ]
+    },
+    {
+      "title": "Used to e Hábitos no Passado",
+      "blocks": [
+        { "say": ["I used to play guitar. | Eu tocava violão (e não toco mais).", "I'm used to waking up early. | Estou acostumado a acordar cedo."] }
+      ]
+    },
+    {
+      "title": "Opiniões e Conversas",
+      "blocks": [
+        { "say": ["In my opinion, it's a good idea. | Na minha opinião, é uma boa ideia.", "I see your point, but I'm not sure. | Entendo seu ponto, mas não tenho certeza."] }
+      ]
+    },
+    {
+      "title": "Conectores e Escrita",
+      "blocks": [
+        { "list": ["<b>although</b> + oração · <b>however,</b> frase nova · <b>because</b> + oração × <b>because of</b> + substantivo · <b>so/therefore</b> (consequência)."] }
+      ]
+    }
+  ]
+}

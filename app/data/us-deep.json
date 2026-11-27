@@ -1,0 +1,420 @@
+{
+ "level": "US",
+ "sections": [
+  {
+   "title": "Fala de Americano (gonna, wanna)",
+   "blocks": [
+    {
+     "h": "Como o americano realmente fala",
+     "p": "Na fala rápida, palavras se juntam e perdem sons. Você <b>entende</b> melhor quando conhece essas formas. Use em conversa informal, evite em e-mail profissional."
+    },
+    {
+     "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='14' text-anchor='middle' fill='#fff' role='img' aria-label='Formas faladas'><rect x='10' y='10' width='300' height='100' rx='8' fill='#5b7fbf'/><text x='160' y='34' font-weight='bold'>ESCRITO</text><text x='160' y='62'>going to · want to · got to</text><text x='160' y='90' font-size='12' fill='#d8e4ff'>formal</text><rect x='330' y='10' width='300' height='100' rx='8' fill='#2e9e6b'/><text x='480' y='34' font-weight='bold'>FALADO</text><text x='480' y='62'>gonna · wanna · gotta</text><text x='480' y='90' font-size='12' fill='#d8f5e6'>informal</text></svg>"
+    },
+    {
+     "h": "Lista das contrações faladas",
+     "list": [
+      "<b>gonna</b> = going to · <b>wanna</b> = want to · <b>gotta</b> = got to / have to.",
+      "<b>kinda</b> = kind of · <b>sorta</b> = sort of · <b>lemme</b> = let me · <b>gimme</b> = give me.",
+      "<b>dunno</b> = don't know · <b>y'all</b> = you all (sul dos EUA) · <b>ya</b> = you."
+     ]
+    },
+    {
+     "h": "Exemplos",
+     "say": [
+      "I'm gonna grab a coffee. | Vou pegar um café.",
+      "Lemme check real quick. | Deixa eu ver rapidinho.",
+      "I dunno, maybe. | Sei lá, talvez.",
+      "It's kinda cold today. | Está meio frio hoje.",
+      "Gimme a sec. | Me dá um segundo."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Ouça séries sem legenda em PT e repare nesses sons. Você não precisa <b>falar</b> assim para ser entendido, mas precisa <b>reconhecer</b>."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "Não escreva 'gonna' em e-mail formal ou prova.",
+      "'Gotta' vem de <b>have got to</b>: 'I gotta go' (não 'I'm gotta')."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Gírias do Dia a Dia",
+   "blocks": [
+    {
+     "h": "Gírias que você ouve todo dia",
+     "p": "Gíria muda rápido e varia por região. Estas são <b>estáveis</b> e entendidas em todo os EUA."
+    },
+    {
+     "h": "Elogio e reação",
+     "list": [
+      "<b>Awesome / dope / sick</b> = incrível (informal).",
+      "<b>No way!</b> = Sem chance! / Não acredito!",
+      "<b>For real?</b> = Sério mesmo?",
+      "<b>My bad</b> = Foi mal.",
+      "<b>No worries</b> = Sem problemas."
+     ]
+    },
+    {
+     "h": "Em ação",
+     "say": [
+      "My bad, I forgot. | Foi mal, esqueci.",
+      "No way, you're kidding! | Não acredito, tá brincando!",
+      "That's lit. | Isso é muito legal (gíria jovem).",
+      "I'm so over it. | Cansei disso.",
+      "He's broke. | Ele está sem grana.",
+      "She nailed it. | Ela mandou muito bem."
+     ]
+    },
+    {
+     "h": "Dinheiro e cansaço",
+     "list": [
+      "<b>buck(s)</b> = dólar · <b>broke</b> = sem dinheiro · <b>pricey</b> = caro.",
+      "<b>beat / wiped out / exhausted</b> = exausto.",
+      "<b>chill</b> = relaxar · <b>hang out</b> = passar tempo com alguém."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Se não tem certeza do contexto, prefira <b>cool</b>, <b>great</b> e <b>no worries</b>. São seguras em quase qualquer situação."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>Dude</b> é informal e usado entre amigos. Evite com chefe ou cliente.",
+      "<b>Sick</b> pode significar 'doente' ou 'incrível'. O contexto decide."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Small Talk e Cumprimentos",
+   "blocks": [
+    {
+     "h": "Cumprimento é ritual",
+     "p": "'How are you?' nos EUA geralmente <b>não é pergunta de verdade</b>. A resposta esperada é curta e positiva. Dar um relato de saúde soa estranho."
+    },
+    {
+     "h": "Cumprimentar",
+     "say": [
+      "Hey, what's up? | Oi, e aí?",
+      "How's it going? | Como vai?",
+      "How have you been? | Como você tem estado?",
+      "Good to see you. | Bom te ver."
+     ]
+    },
+    {
+     "h": "Responder",
+     "say": [
+      "Good, thanks. You? | Bem, obrigado. E você?",
+      "Can't complain. | Não posso reclamar.",
+      "Pretty good. | Bem legal.",
+      "Same old, same old. | Na mesma de sempre."
+     ]
+    },
+    {
+     "h": "Despedir e puxar assunto",
+     "say": [
+      "Catch you later! | Até mais!",
+      "Let's grab lunch sometime. | Vamos almoçar qualquer dia.",
+      "What do you do? | Você trabalha com quê?",
+      "Where are you from? | De onde você é?"
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Small talk seguro: <b>clima, trabalho, fim de semana, esportes, comida</b>. Evite política, religião e salário."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "'Let's grab lunch sometime' costuma ser <b>educação</b>, não convite firme. Se quiser marcar, combine data.",
+      "'What's up?' responda 'Not much' ou devolva 'What's up?'. Não precisa explicar."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Pedindo Comida e Café",
+   "blocks": [
+    {
+     "h": "Cafeteria e restaurante",
+     "p": "Nos EUA o atendimento é rápido e informal. Frases curtas funcionam melhor que frases perfeitas."
+    },
+    {
+     "h": "No balcão",
+     "say": [
+      "Can I get a medium latte? | Posso pegar um latte médio?",
+      "Can I get that to go? | Pode ser pra levar?",
+      "Do you have any oat milk? | Vocês têm leite de aveia?",
+      "Name for the order? | Nome para o pedido?"
+     ]
+    },
+    {
+     "h": "Na mesa",
+     "say": [
+      "Can I see the menu? | Posso ver o cardápio?",
+      "I'll have the chicken, please. | Vou querer o frango, por favor.",
+      "Could we get some water? | Pode trazer água?",
+      "Can we get the check, please? | Pode trazer a conta?",
+      "Can I get a box? | Pode embalar o resto?"
+     ]
+    },
+    {
+     "h": "Gorjeta (tip)",
+     "list": [
+      "Gorjeta é <b>esperada</b>: em geral <b>15% a 20%</b> em restaurantes com garçom.",
+      "<b>Tax</b> (imposto) é somado depois do preço da etiqueta.",
+      "<b>Check</b> = conta (EUA) · <b>bill</b> também funciona, mas 'check' é mais comum."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Se não entender a pergunta, diga <b>'Sorry, could you say that again?'</b>. Ninguém estranha."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>Entree</b> nos EUA é o <b>prato principal</b>, não a entrada.",
+      "<b>Appetizer</b> é a entrada. <b>Soda</b> ou <b>pop</b> = refrigerante."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Texting e Redes",
+   "blocks": [
+    {
+     "h": "Inglês escrito de celular",
+     "p": "Em mensagens e redes, americanos usam <b>siglas</b> e frases curtas. Reconhecer ajuda a entender chats, comentários e legendas."
+    },
+    {
+     "h": "Siglas mais comuns",
+     "list": [
+      "<b>BTW</b> = by the way · <b>IMO</b> = in my opinion · <b>TBH</b> = to be honest.",
+      "<b>IDK</b> = I don't know · <b>NVM</b> = never mind · <b>BRB</b> = be right back.",
+      "<b>FYI</b> = for your information · <b>ASAP</b> = as soon as possible · <b>ETA</b> = estimated time of arrival.",
+      "<b>DM</b> = mensagem direta · <b>TL;DR</b> = resumo de texto longo."
+     ]
+    },
+    {
+     "h": "Em frases",
+     "say": [
+      "FYI, the meeting moved. | Para sua informação, a reunião mudou.",
+      "What's your ETA? | Qual a sua previsão de chegada?",
+      "Send me a DM. | Me manda uma mensagem direta.",
+      "NVM, I found it. | Deixa pra lá, achei.",
+      "TL;DR: it works. | Resumo: funciona."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "No trabalho, <b>FYI, ASAP, ETA</b> são aceitas. <b>LOL, IDK, TBH</b> ficam para amigos."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>LOL</b> hoje é mais um suavizador ('haha') do que riso alto.",
+      "Tudo em maiúsculas parece <b>gritar</b>."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Falsos Cognatos e Pegadinhas",
+   "blocks": [
+    {
+     "h": "Palavras parecidas, sentidos diferentes",
+     "p": "Falsos cognatos (<b>false friends</b>) são a maior fonte de erro de brasileiros. Eles <b>parecem</b> português, mas significam outra coisa."
+    },
+    {
+     "svg": "<svg viewBox='0 0 640 140' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='Falsos cognatos'><rect x='10' y='10' width='200' height='56' rx='8' fill='#c0504d'/><text x='110' y='33' font-weight='bold'>actually</text><text x='110' y='53'>= na verdade</text><rect x='220' y='10' width='200' height='56' rx='8' fill='#c0504d'/><text x='320' y='33' font-weight='bold'>pretend</text><text x='320' y='53'>= fingir</text><rect x='430' y='10' width='200' height='56' rx='8' fill='#c0504d'/><text x='530' y='33' font-weight='bold'>library</text><text x='530' y='53'>= biblioteca</text><rect x='10' y='76' width='200' height='56' rx='8' fill='#2e9e6b'/><text x='110' y='99' font-weight='bold'>currently</text><text x='110' y='119'>= atualmente</text><rect x='220' y='76' width='200' height='56' rx='8' fill='#2e9e6b'/><text x='320' y='99' font-weight='bold'>intend to</text><text x='320' y='119'>= pretender</text><rect x='430' y='76' width='200' height='56' rx='8' fill='#2e9e6b'/><text x='530' y='99' font-weight='bold'>bookstore</text><text x='530' y='119'>= livraria</text></svg>"
+    },
+    {
+     "h": "Lista essencial",
+     "list": [
+      "<b>actually</b> = na verdade · atualmente = <b>currently</b>.",
+      "<b>pretend</b> = fingir · pretender = <b>intend to</b>.",
+      "<b>library</b> = biblioteca · livraria = <b>bookstore</b>.",
+      "<b>push</b> = empurrar · puxar = <b>pull</b>.",
+      "<b>parents</b> = pais · parentes = <b>relatives</b>.",
+      "<b>college</b> = faculdade (EUA) · colégio = <b>high school</b>.",
+      "<b>exquisite</b> = requintado · esquisito = <b>weird</b>."
+     ]
+    },
+    {
+     "h": "Em frases",
+     "say": [
+      "I intend to study more. | Pretendo estudar mais.",
+      "My relatives live in Texas. | Meus parentes moram no Texas.",
+      "I'm going to the bookstore. | Vou à livraria.",
+      "That's weird. | Isso é esquisito."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Quando uma palavra em inglês parece português <b>demais</b>, desconfie e confirme no dicionário."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>Eventually</b> = no fim das contas, não 'eventualmente'.",
+      "<b>Resume</b> (verbo) = retomar · <b>résumé</b> = currículo (EUA)."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Telefone e Trabalho Informal",
+   "blocks": [
+    {
+     "h": "Inglês de escritório e telefone",
+     "p": "Em empresas americanas o tom é <b>informal e direto</b>. Estas expressões aparecem em ligações, chamadas de vídeo e chat de trabalho."
+    },
+    {
+     "h": "Ao telefone",
+     "say": [
+      "Hold on a second. | Espera um segundo.",
+      "Can I call you back? | Posso te ligar de volta?",
+      "Can you hear me? | Você consegue me ouvir?",
+      "You're breaking up. | Sua voz está cortando.",
+      "Sorry, you're on mute. | Desculpa, você está no mudo.",
+      "I'll text you the details. | Te mando os detalhes por mensagem."
+     ]
+    },
+    {
+     "h": "Jargão de trabalho",
+     "list": [
+      "<b>heads-up</b> = aviso antecipado · <b>touch base</b> = alinhar rapidinho · <b>circle back</b> = voltar ao assunto depois.",
+      "<b>ping me</b> = me chama no chat · <b>loop me in</b> = me inclua · <b>on the same page</b> = alinhados.",
+      "<b>ballpark</b> = estimativa aproximada · <b>bandwidth</b> = disponibilidade · <b>deadline</b> = prazo."
+     ]
+    },
+    {
+     "h": "Em frases",
+     "say": [
+      "Thanks for the heads-up. | Valeu pelo aviso.",
+      "Let's circle back on this next week. | Vamos retomar isso semana que vem.",
+      "Ping me when you're free. | Me chama quando estiver livre.",
+      "Can you loop me in? | Pode me incluir?",
+      "I'll shoot you an email. | Te mando um e-mail.",
+      "I don't have the bandwidth right now. | Não tenho disponibilidade agora."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Em videochamada, o clássico é <b>'You're on mute'</b>. Quando você erra, diga <b>'Sorry, I was on mute'</b>."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>Bandwidth</b> aqui não é internet: é <b>capacidade de assumir tarefas</b>.",
+      "Jargão em excesso soa artificial. Use um ou dois, não todos."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Diálogos do Dia a Dia",
+   "blocks": [
+    {
+     "h": "Conversas reais, em pedaços",
+     "p": "Leia e <b>ouça</b> cada linha. Depois cubra o português e tente entender só pelo som."
+    },
+    {
+     "h": "Convite para sair",
+     "say": [
+      "Hey, are you free tonight? | Ei, você está livre hoje à noite?",
+      "Yeah, what's up? | Estou, o que foi?",
+      "Wanna grab some tacos? | Quer pegar uns tacos?",
+      "Sounds good! What time? | Fechado! Que horas?",
+      "How about seven? | Que tal sete?",
+      "Perfect. See you then. | Perfeito. Te vejo lá."
+     ]
+    },
+    {
+     "h": "Na loja",
+     "say": [
+      "Can I help you find anything? | Posso ajudar a encontrar algo?",
+      "I'm just looking, thanks. | Só estou olhando, obrigado.",
+      "Do you have this in a medium? | Tem este no tamanho M?",
+      "Let me check in the back. | Vou ver no estoque.",
+      "Where's the fitting room? | Onde é o provador?",
+      "I'll take it. | Vou levar."
+     ]
+    },
+    {
+     "h": "Chegando atrasado",
+     "say": [
+      "Sorry I'm late! | Desculpa o atraso!",
+      "No worries, we just got here. | Sem problemas, acabamos de chegar.",
+      "Traffic was crazy. | O trânsito estava uma loucura.",
+      "Don't worry about it. | Não esquenta com isso."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Respostas curtas fazem a conversa fluir: <b>Sounds good, Got it, Makes sense, Fair enough</b>."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>'I'm just looking'</b> é a resposta padrão em loja. Não é grosseria.",
+      "<b>'How about...?'</b> sugere. <b>'What about...?'</b> também, mas soa mais como pergunta aberta."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Reações e Emoções",
+   "blocks": [
+    {
+     "h": "Reagir como americano",
+     "p": "Americanos <b>reagem em voz alta</b> enquanto ouvem. Respostas curtas mostram interesse."
+    },
+    {
+     "h": "Boas notícias",
+     "say": [
+      "Congrats! | Parabéns!",
+      "Good for you! | Que bom pra você!",
+      "That's awesome! | Que demais!",
+      "I'm so stoked! | Estou super animado!"
+     ]
+    },
+    {
+     "h": "Más notícias e surpresa",
+     "say": [
+      "That sucks. | Que droga.",
+      "Bummer. | Que pena.",
+      "I can't believe it! | Não acredito!",
+      "That's crazy! | Isso é loucura!",
+      "I'm freaking out. | Estou surtando."
+     ]
+    },
+    {
+     "h": "Empatia",
+     "say": [
+      "I feel you. | Te entendo.",
+      "I'm sorry to hear that. | Sinto muito saber disso.",
+      "Hang in there. | Aguenta firme."
+     ]
+    },
+    {
+     "h": "💡 Dica",
+     "p": "Para lamentar algo sério, prefira <b>'I'm so sorry to hear that'</b>. 'That sucks' é para coisas do dia a dia."
+    },
+    {
+     "h": "⚠ Pegadinhas",
+     "list": [
+      "<b>Stoked</b> e <b>freaking out</b> são informais.",
+      "<b>Bummer</b> é leve (chuva no piquenique), não para tragédias."
+     ]
+    }
+   ]
+  }
+ ]
+}

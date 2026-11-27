@@ -1,0 +1,348 @@
+{
+ "questions": [
+  {
+   "id": "phrx-q-1",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "difficulty": "facil",
+   "question": "'They broke up last month' significa:",
+   "options": [
+    "Eles vieram ao mês passado",
+    "Eles terminaram o relacionamento",
+    "Eles cresceram juntos",
+    "Eles tiveram uma ideia"
+   ],
+   "answer": 1,
+   "explanation": "break up = terminar namoro/casamento."
+  },
+  {
+   "id": "phrx-q-2",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "difficulty": "medio",
+   "question": "'I ended up watching TV all night' quer dizer:",
+   "options": [
+    "Acabei ficando vendo TV a noite toda, sem planejar",
+    "Terminei de ver TV",
+    "Desisti de ver TV",
+    "Comecei a ver TV cedo"
+   ],
+   "answer": 0,
+   "explanation": "end up = resultado não planejado."
+  },
+  {
+   "id": "phrx-q-3",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "difficulty": "medio",
+   "question": "'She came up with a solution' significa:",
+   "options": [
+    "Ela subiu com uma solução",
+    "Ela desistiu da solução",
+    "Ela apareceu com uma solução física",
+    "Ela teve/criou uma solução"
+   ],
+   "answer": 3,
+   "explanation": "come up with = criar uma ideia."
+  },
+  {
+   "id": "phrx-q-4",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "difficulty": "facil",
+   "question": "'I found out the truth' quer dizer:",
+   "options": [
+    "Procurei a verdade",
+    "Esqueci a verdade",
+    "Descobri a verdade",
+    "Contei a verdade"
+   ],
+   "answer": 2,
+   "explanation": "find out = descobrir informação."
+  },
+  {
+   "id": "phrx-q-5",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "difficulty": "medio",
+   "question": "'We ran out of coffee' significa:",
+   "options": [
+    "Corremos por café",
+    "Ficamos sem café",
+    "Compramos muito café",
+    "Jogamos fora o café"
+   ],
+   "answer": 1,
+   "explanation": "run out of = esgotar o estoque."
+  },
+  {
+   "id": "phrx-q-6",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "difficulty": "medio",
+   "question": "'It worked out' no contexto de um plano significa:",
+   "options": [
+    "Deu certo",
+    "Quebrou",
+    "Foi cancelado",
+    "Ficou mais difícil"
+   ],
+   "answer": 0,
+   "explanation": "work out = dar certo (ou se exercitar, noutro contexto)."
+  },
+  {
+   "id": "phrx-q-7",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "difficulty": "facil",
+   "question": "'Turn off the light' significa:",
+   "options": [
+    "Ligue a luz",
+    "Troque a luz",
+    "Olhe a luz",
+    "Desligue a luz"
+   ],
+   "answer": 3,
+   "explanation": "turn off = desligar."
+  },
+  {
+   "id": "phrx-q-8",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "difficulty": "medio",
+   "question": "'The plane takes off at 9' significa:",
+   "options": [
+    "O avião aterriza às 9",
+    "O avião atrasa às 9",
+    "O avião decola às 9",
+    "O avião para às 9"
+   ],
+   "answer": 2,
+   "explanation": "take off = decolar."
+  },
+  {
+   "id": "phrx-q-9",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "difficulty": "medio",
+   "question": "Para descer de um ônibus, usa-se:",
+   "options": [
+    "get in",
+    "get off",
+    "get on",
+    "get out"
+   ],
+   "answer": 1,
+   "explanation": "get off = descer de transporte público."
+  },
+  {
+   "id": "phrx-q-10",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "difficulty": "facil",
+   "question": "Qual frase está gramaticalmente correta?",
+   "options": [
+    "Turn it off.",
+    "Turn off it.",
+    "Off turn it.",
+    "It turn off."
+   ],
+   "answer": 0,
+   "explanation": "Com pronome, phrasal verb separável DEVE separar."
+  },
+  {
+   "id": "phrx-q-11",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "difficulty": "medio",
+   "question": "'Look after him' é um phrasal verb:",
+   "options": [
+    "Separável",
+    "Pode ser dos dois jeitos",
+    "Não é phrasal verb",
+    "Inseparável"
+   ],
+   "answer": 3,
+   "explanation": "look after nunca separa, mesmo com pronome."
+  },
+  {
+   "id": "phrx-q-12",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "difficulty": "dificil",
+   "question": "Qual destas é INCORRETA?",
+   "options": [
+    "Look after him.",
+    "Turn it off.",
+    "Look him after.",
+    "Turn off the light."
+   ],
+   "answer": 2,
+   "explanation": "look after é inseparável; 'look him after' está errado."
+  },
+  {
+   "id": "phrx-q-13",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "difficulty": "dificil",
+   "question": "'Look forward to' é um phrasal verb de quantas palavras, e como se comporta?",
+   "options": [
+    "2 palavras, separável",
+    "3 palavras, sempre inseparável",
+    "1 palavra, não é phrasal verb",
+    "3 palavras, sempre separável"
+   ],
+   "answer": 1,
+   "explanation": "Phrasal verbs de 3 palavras são tratados como bloco único."
+  }
+ ],
+ "flashcards": [
+  {
+   "id": "phrx-fc-1",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "front": "<b>break up</b>",
+   "back": "Terminar um relacionamento.",
+   "en": "I broke up with him.",
+   "syl": "ai brôuk âp uíd rim"
+  },
+  {
+   "id": "phrx-fc-2",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "front": "<b>grow up</b>",
+   "back": "Crescer, ficar adulto.",
+   "en": "She grew up in Texas.",
+   "syl": "chi gru âp in TÉK-sâs"
+  },
+  {
+   "id": "phrx-fc-3",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "front": "<b>show up</b>",
+   "back": "Aparecer, comparecer.",
+   "en": "He showed up late.",
+   "syl": "ri chôud âp lêit"
+  },
+  {
+   "id": "phrx-fc-4",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "front": "<b>end up</b>",
+   "back": "Acabar fazendo/ficando algo sem planejar.",
+   "en": "We ended up staying home.",
+   "syl": "uí ÉN-did âp STÊI-ing rôum"
+  },
+  {
+   "id": "phrx-fc-5",
+   "topic": "Phrasal Verbs com UP (progresso, conclusão)",
+   "front": "<b>come up with</b>",
+   "back": "Ter uma ideia, criar algo.",
+   "en": "She came up with a great idea.",
+   "syl": "chi kêim âp uíd â greit ai-DÍ-â"
+  },
+  {
+   "id": "phrx-fc-6",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "front": "<b>figure out</b>",
+   "back": "Descobrir/entender como resolver algo.",
+   "en": "Can you figure out this problem?",
+   "syl": "kén iú FI-guier áut dis PRÓ-blem"
+  },
+  {
+   "id": "phrx-fc-7",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "front": "<b>run out of</b>",
+   "back": "Ficar sem algo (acabar o estoque).",
+   "en": "We ran out of milk.",
+   "syl": "uí rén áut óv milk"
+  },
+  {
+   "id": "phrx-fc-8",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "front": "<b>work out</b>",
+   "back": "Dar certo; também: se exercitar.",
+   "en": "It worked out fine.",
+   "syl": "it UÉRKT áut fáin"
+  },
+  {
+   "id": "phrx-fc-9",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "front": "<b>point out</b>",
+   "back": "Apontar, destacar algo.",
+   "en": "She pointed out my mistake.",
+   "syl": "chi POIN-tid áut mai mis-TÊIK"
+  },
+  {
+   "id": "phrx-fc-10",
+   "topic": "Phrasal Verbs com OUT (descobrir, terminar, remover)",
+   "front": "<b>pass out</b>",
+   "back": "Desmaiar.",
+   "en": "He passed out from the heat.",
+   "syl": "ri pésd áut fróm dâ rít"
+  },
+  {
+   "id": "phrx-fc-11",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "front": "<b>hold on</b>",
+   "back": "Esperar um momento.",
+   "en": "Hold on a second.",
+   "syl": "rôuld on â SÉ-kend"
+  },
+  {
+   "id": "phrx-fc-12",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "front": "<b>drop off</b>",
+   "back": "Deixar alguém/algo em um lugar.",
+   "en": "Can you drop me off here?",
+   "syl": "kén iú dróp mi óf rír"
+  },
+  {
+   "id": "phrx-fc-13",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "front": "<b>take off</b> (avião/roupa)",
+   "back": "Decolar; tirar roupa.",
+   "en": "The plane takes off at nine.",
+   "syl": "dâ pléin têiks óf ét náin"
+  },
+  {
+   "id": "phrx-fc-14",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "front": "<b>get off</b> x <b>get in</b>",
+   "back": "Descer de transporte público x entrar em carro/táxi.",
+   "en": "Where do I get off?",
+   "syl": "uér du ai guét óf"
+  },
+  {
+   "id": "phrx-fc-15",
+   "topic": "Phrasal Verbs com ON e OFF (continuar/ligar vs parar/desligar)",
+   "front": "<b>show off</b>",
+   "back": "Se exibir, ostentar (negativo).",
+   "en": "He loves to show off.",
+   "syl": "ri lâvs tu chôu óf"
+  },
+  {
+   "id": "phrx-fc-16",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "front": "Teste do pronome (separável)",
+   "back": "Se 'verbo + it + partícula' soa certo, é separável: 'turn it off'.",
+   "en": "Turn it off.",
+   "syl": "térn it óf"
+  },
+  {
+   "id": "phrx-fc-17",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "front": "<b>look after</b> (inseparável)",
+   "back": "Cuidar de. Nunca se separa.",
+   "en": "Look after him.",
+   "syl": "luk ÉF-ter rim"
+  },
+  {
+   "id": "phrx-fc-18",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "front": "<b>run into</b> (inseparável)",
+   "back": "Encontrar por acaso.",
+   "en": "I ran into her.",
+   "syl": "ai rén IN-tu rer"
+  },
+  {
+   "id": "phrx-fc-19",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "front": "<b>look for</b> (inseparável)",
+   "back": "Procurar.",
+   "en": "Look for it.",
+   "syl": "luk fór it"
+  },
+  {
+   "id": "phrx-fc-20",
+   "topic": "Verbos Separáveis x Inseparáveis: o Guia Definitivo",
+   "front": "Phrasal verb de 3 palavras",
+   "back": "Verbo + partícula + preposição, sempre inseparável: 'run out of', 'look forward to'.",
+   "en": "I'm looking forward to it.",
+   "syl": "aim LÚ-king FÓR-uerd tu it"
+  }
+ ]
+}

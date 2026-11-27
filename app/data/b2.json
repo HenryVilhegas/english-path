@@ -1,0 +1,412 @@
+{
+ "level": "B2",
+ "name": "B2 · Intermediário Superior",
+ "description": "Condicionais 2 e 3, voz passiva, discurso indireto, orações relativas, inglês no trabalho e desejos/arrependimentos.",
+ "flashcards": [
+  {
+   "id": "b2-fc-1",
+   "topic": "Condicionais 2 e 3",
+   "front": "<b>Second conditional</b>.",
+   "back": "If + <b>past simple</b>, <b>would</b> + verbo. Situação irreal/improvável no presente ou futuro. Com be: <b>If I were...</b>",
+   "en": "If I were rich, I would travel the world.",
+   "syl": "if ai uér ritch, ai uúd TRÉ-vou dâ uérld"
+  },
+  {
+   "id": "b2-fc-2",
+   "topic": "Condicionais 2 e 3",
+   "front": "<b>Third conditional</b>.",
+   "back": "If + <b>past perfect</b>, <b>would have</b> + particípio. Passado irreal: o que não aconteceu.",
+   "en": "If I had studied, I would have passed.",
+   "syl": "if ai réd STÂ-did, ai uúd rév pést"
+  },
+  {
+   "id": "b2-fc-3",
+   "topic": "Condicionais 2 e 3",
+   "front": "<b>Mixed conditional</b>.",
+   "back": "Passado → presente: If I <b>had taken</b> that job, I <b>would be</b> rich now.",
+   "en": "If I had taken that job, I would be rich now.",
+   "syl": "if ai réd TÉI-ken dét djób, ai uúd bi ritch náu"
+  },
+  {
+   "id": "b2-fc-4",
+   "topic": "Condicionais 2 e 3",
+   "front": "Por que se diz <b>'If I were you'</b>?",
+   "back": "No subjuntivo/irreal usa-se <b>were</b> para todas as pessoas (If I were, If he were). 'If I was' é muito comum falando, mas 'were' é o padrão formal.",
+   "en": "If I were you, I would apply.",
+   "syl": "if ai uér iú, ai uúd â-PLÁI"
+  },
+  {
+   "id": "b2-fc-5",
+   "topic": "Voz Passiva",
+   "front": "Como formar a <b>passiva</b>?",
+   "back": "<b>be</b> (no tempo certo) + <b>particípio</b>. O foco vai para quem recebe a ação.",
+   "en": "The car was repaired yesterday.",
+   "syl": "dâ kar uóz ri-PÉIRD IÉS-ter-dêi"
+  },
+  {
+   "id": "b2-fc-6",
+   "topic": "Voz Passiva",
+   "front": "Passiva nos tempos.",
+   "back": "presente: is made · passado: was made · futuro: will be made · present perfect: has been made · modal: can be made.",
+   "en": "The report will be finished tomorrow.",
+   "syl": "dâ ri-PÓRT uíu bi FÍ-nicht tu-MÓ-rôu"
+  },
+  {
+   "id": "b2-fc-7",
+   "topic": "Voz Passiva",
+   "front": "Quando usar <b>by</b> na passiva?",
+   "back": "Só quando o agente é importante/novo. Se é óbvio ou desconhecido, omita: <i>My wallet was stolen.</i>",
+   "en": "My wallet was stolen.",
+   "syl": "mai UÓ-let uóz STÔU-len"
+  },
+  {
+   "id": "b2-fc-8",
+   "topic": "Discurso Indireto",
+   "front": "<b>Reported speech</b>: o 'backshift'.",
+   "back": "O tempo recua: am/is → was · will → would · can → could · present simple → past simple · past → past perfect.",
+   "en": "She said she was tired.",
+   "syl": "chi séd chi uóz TÁI-erd"
+  },
+  {
+   "id": "b2-fc-9",
+   "topic": "Discurso Indireto",
+   "front": "<b>Say</b> × <b>tell</b>.",
+   "back": "<b>say</b> + algo (He said that...). <b>tell</b> + pessoa (He told me that...). Ordens: tell someone <b>to</b> do.",
+   "en": "He told me to wait. He said he was busy.",
+   "syl": "ri tôuld mi tu uêit · ri séd ri uóz BÍ-zi"
+  },
+  {
+   "id": "b2-fc-10",
+   "topic": "Discurso Indireto",
+   "front": "Reportar <b>perguntas</b>.",
+   "back": "Ordem afirmativa e sem do/does: 'Where do you live?' → She asked <b>where I lived</b>. Yes/no: <b>if/whether</b>.",
+   "en": "She asked me where I lived.",
+   "syl": "chi éskt mi uér ai livd"
+  },
+  {
+   "id": "b2-fc-11",
+   "topic": "Orações Relativas",
+   "front": "<b>who, which, that, whose, where</b>.",
+   "back": "who = pessoas · which = coisas · that = ambos (restritiva) · whose = de quem · where = lugar.",
+   "en": "The man who lives next door is a doctor.",
+   "syl": "dâ mén ru livz nékst dór iz â DÓK-ter"
+  },
+  {
+   "id": "b2-fc-12",
+   "topic": "Orações Relativas",
+   "front": "Relativa <b>restritiva</b> × <b>não restritiva</b>.",
+   "back": "Restritiva: essencial, sem vírgula (that/who). Não restritiva: informação extra, <b>entre vírgulas</b> (which/who, nunca that).",
+   "en": "My brother, who lives in Miami, is a nurse.",
+   "syl": "mai BRÂ-der, ru livz in mai-É-mi, iz â nérs"
+  },
+  {
+   "id": "b2-fc-13",
+   "topic": "Inglês no Trabalho",
+   "front": "Como <b>abrir/encerrar</b> uma reunião?",
+   "back": "<b>Let's get started.</b> / Shall we begin? · <b>Let's wrap up.</b> / That's all for today. / Any questions?",
+   "en": "Let's get started. Any questions?",
+   "syl": "léts guét STÁR-tid · É-ni KUÉS-tchenz"
+  },
+  {
+   "id": "b2-fc-14",
+   "topic": "Inglês no Trabalho",
+   "front": "Como <b>pedir um prazo</b> / follow-up em e-mail?",
+   "back": "<b>By when can you send it?</b> / Could you get back to me by Friday? / Just following up on...",
+   "en": "Just following up on my last email.",
+   "syl": "djâst FÓ-lôu-ing âp on mai lést I-MÊIU"
+  },
+  {
+   "id": "b2-fc-15",
+   "topic": "Inglês no Trabalho",
+   "front": "<b>Deadline</b>, <b>stakeholder</b>, <b>ASAP</b>, <b>EOD</b>.",
+   "back": "prazo · parte interessada · o quanto antes · fim do dia (end of day).",
+   "en": "I need this by EOD.",
+   "syl": "ai nid dis bai í-ôu-DÍ"
+  },
+  {
+   "id": "b2-fc-16",
+   "topic": "Wish, Would Rather e Preferências",
+   "front": "<b>Wish</b> + past simple / past perfect.",
+   "back": "wish + <b>past simple</b> = desejo sobre o presente. wish + <b>past perfect</b> = arrependimento do passado. wish + <b>would</b> = irritação com hábito.",
+   "en": "I wish I had more time. I wish I had studied more.",
+   "syl": "ai uich ai réd mór táim · ai uich ai réd STÂ-did mór"
+  },
+  {
+   "id": "b2-fc-17",
+   "topic": "Wish, Would Rather e Preferências",
+   "front": "<b>Would rather</b>.",
+   "back": "I'd rather + verbo base = prefiro. I'd rather <b>you</b> + past = prefiro que você... (I'd rather you didn't smoke).",
+   "en": "I'd rather stay home tonight.",
+   "syl": "aid RÉ-der stêi rôum tu-NÁIT"
+  }
+ ],
+ "questions": [
+  {
+   "id": "b2-q-1",
+   "topic": "Condicionais 2 e 3",
+   "difficulty": "medio",
+   "question": "If I ___ you, I would take that job.",
+   "options": [
+    "am",
+    "was being",
+    "were",
+    "will be"
+   ],
+   "answer": 2,
+   "explanation": "Irreal: <b>were</b>.",
+   "en": "If I were you, I would take that job."
+  },
+  {
+   "id": "b2-q-2",
+   "topic": "Condicionais 2 e 3",
+   "difficulty": "dificil",
+   "question": "If they ___ earlier, they would have caught the train.",
+   "options": [
+    "left",
+    "had left",
+    "would leave",
+    "have left"
+   ],
+   "answer": 1,
+   "explanation": "3ª condicional: if + <b>past perfect</b>."
+  },
+  {
+   "id": "b2-q-3",
+   "topic": "Condicionais 2 e 3",
+   "difficulty": "medio",
+   "question": "If I won the lottery, I ___ my job.",
+   "options": [
+    "will quit",
+    "would quit",
+    "would have quit",
+    "quit"
+   ],
+   "answer": 1,
+   "explanation": "2ª condicional: would + verbo."
+  },
+  {
+   "id": "b2-q-4",
+   "topic": "Condicionais 2 e 3",
+   "difficulty": "dificil",
+   "question": "If I had taken that job, I ___ rich now. (misto)",
+   "options": [
+    "would be",
+    "would have been",
+    "will be",
+    "am"
+   ],
+   "answer": 0,
+   "explanation": "Passado irreal → resultado no presente: would + verbo base."
+  },
+  {
+   "id": "b2-q-5",
+   "topic": "Voz Passiva",
+   "difficulty": "medio",
+   "question": "The windows ___ cleaned every week.",
+   "options": [
+    "is",
+    "are",
+    "was",
+    "have"
+   ],
+   "answer": 1,
+   "explanation": "Presente passivo plural: <b>are</b> cleaned."
+  },
+  {
+   "id": "b2-q-6",
+   "topic": "Voz Passiva",
+   "difficulty": "medio",
+   "question": "This book ___ by a famous author in 1999.",
+   "options": [
+    "wrote",
+    "was written",
+    "has written",
+    "is writing"
+   ],
+   "answer": 1,
+   "explanation": "Passiva no passado: was + particípio."
+  },
+  {
+   "id": "b2-q-7",
+   "topic": "Voz Passiva",
+   "difficulty": "dificil",
+   "question": "The project ___ by next Friday.",
+   "options": [
+    "will be finished",
+    "will finish",
+    "is finishing",
+    "finishes"
+   ],
+   "answer": 0,
+   "explanation": "Futuro passivo: will be + particípio."
+  },
+  {
+   "id": "b2-q-8",
+   "topic": "Voz Passiva",
+   "difficulty": "dificil",
+   "question": "My phone ___ stolen last night.",
+   "options": [
+    "has",
+    "was",
+    "were",
+    "is"
+   ],
+   "answer": 1,
+   "explanation": "Singular passado: <b>was</b> stolen."
+  },
+  {
+   "id": "b2-q-9",
+   "topic": "Discurso Indireto",
+   "difficulty": "medio",
+   "question": "'I am tired,' she said. → She said she ___ tired.",
+   "options": [
+    "is",
+    "was",
+    "were",
+    "has been"
+   ],
+   "answer": 1,
+   "explanation": "Backshift: am/is → <b>was</b>."
+  },
+  {
+   "id": "b2-q-10",
+   "topic": "Discurso Indireto",
+   "difficulty": "dificil",
+   "question": "'Where do you live?' → He asked me where ___.",
+   "options": [
+    "did I live",
+    "I lived",
+    "do I live",
+    "I live to"
+   ],
+   "answer": 1,
+   "explanation": "Perguntas indiretas: ordem afirmativa e recuo do tempo (<b>I lived</b>)."
+  },
+  {
+   "id": "b2-q-11",
+   "topic": "Discurso Indireto",
+   "difficulty": "medio",
+   "question": "He ___ me to wait outside.",
+   "options": [
+    "said",
+    "told",
+    "spoke",
+    "talked"
+   ],
+   "answer": 1,
+   "explanation": "<b>tell</b> + pessoa + to + verbo."
+  },
+  {
+   "id": "b2-q-12",
+   "topic": "Orações Relativas",
+   "difficulty": "medio",
+   "question": "The book ___ I bought yesterday is great.",
+   "options": [
+    "who",
+    "that",
+    "whose",
+    "where"
+   ],
+   "answer": 1,
+   "explanation": "<b>that/which</b> para coisas."
+  },
+  {
+   "id": "b2-q-13",
+   "topic": "Orações Relativas",
+   "difficulty": "dificil",
+   "question": "My boss, ___ lives in Miami, is coming tomorrow.",
+   "options": [
+    "that",
+    "who",
+    "which",
+    "whose"
+   ],
+   "answer": 1,
+   "explanation": "Relativa não restritiva (entre vírgulas) com pessoa: <b>who</b> (nunca that)."
+  },
+  {
+   "id": "b2-q-14",
+   "topic": "Orações Relativas",
+   "difficulty": "medio",
+   "question": "That's the woman ___ car was stolen.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": 2,
+   "explanation": "<b>whose</b> = cujo/de quem."
+  },
+  {
+   "id": "b2-q-15",
+   "topic": "Inglês no Trabalho",
+   "difficulty": "medio",
+   "question": "Which phrase politely asks for a deadline?",
+   "options": [
+    "Give it now.",
+    "Could you send it by Friday?",
+    "I don't care.",
+    "Whenever."
+   ],
+   "answer": 1,
+   "explanation": "'Could you ... by Friday?' é educado e específico."
+  },
+  {
+   "id": "b2-q-16",
+   "topic": "Inglês no Trabalho",
+   "difficulty": "medio",
+   "question": "'I need this by EOD' means:",
+   "options": [
+    "by the end of the day",
+    "every other day",
+    "in two days",
+    "when possible"
+   ],
+   "answer": 0,
+   "explanation": "<b>EOD</b> = end of day (até o fim do expediente)."
+  },
+  {
+   "id": "b2-q-17",
+   "topic": "Wish, Would Rather e Preferências",
+   "difficulty": "dificil",
+   "question": "I wish I ___ studied harder last year.",
+   "options": [
+    "have",
+    "had",
+    "would",
+    "did"
+   ],
+   "answer": 1,
+   "explanation": "wish + <b>past perfect</b> = arrependimento do passado."
+  },
+  {
+   "id": "b2-q-18",
+   "topic": "Wish, Would Rather e Preferências",
+   "difficulty": "dificil",
+   "question": "I'd rather you ___ here.",
+   "options": [
+    "don't smoke",
+    "didn't smoke",
+    "won't smoke",
+    "not smoke"
+   ],
+   "answer": 1,
+   "explanation": "I'd rather + pessoa + <b>past simple</b> (preferência sobre o presente)."
+  },
+  {
+   "id": "b2-q-19",
+   "topic": "Wish, Would Rather e Preferências",
+   "difficulty": "medio",
+   "question": "I'd rather ___ at home tonight.",
+   "options": [
+    "to stay",
+    "staying",
+    "stay",
+    "stayed"
+   ],
+   "answer": 2,
+   "explanation": "would rather + verbo <b>base</b> (sem to)."
+  }
+ ]
+}

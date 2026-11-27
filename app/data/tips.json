@@ -1,0 +1,377 @@
+{
+ "level": "Dicas",
+ "name": "💡 Dicas para Imersão",
+ "description": "Pares mínimos que o brasileiro confunde, números e datas falados como americano fala de verdade, e a entonação de pergunta x afirmação.",
+ "flashcards": [
+  {
+   "id": "tips-fc-1",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>ship</b> x <b>sheep</b>",
+   "back": "Navio x ovelha. Vogal curta e relaxada x longa e tensa.",
+   "en": "I saw a sheep.",
+   "syl": "ai só â chíp"
+  },
+  {
+   "id": "tips-fc-2",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>bad</b> x <b>bed</b>",
+   "back": "Mau/ruim x cama. Vogais próximas que o brasileiro confunde.",
+   "en": "I had a bad day.",
+   "syl": "ai réd â béd dêi"
+  },
+  {
+   "id": "tips-fc-3",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>three</b> x <b>tree</b>",
+   "back": "Três x árvore. O som de TH não existe em português.",
+   "en": "There are three trees.",
+   "syl": "dér ar thrí tríz"
+  },
+  {
+   "id": "tips-fc-4",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>cat</b> x <b>cut</b> x <b>hot</b>",
+   "back": "Gato x cortar x quente. Três vogais diferentes que soam parecidas pro brasileiro.",
+   "en": "The soup is hot.",
+   "syl": "dâ sup iz rót"
+  },
+  {
+   "id": "tips-fc-5",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>light</b> x <b>right</b>",
+   "back": "Luz/leve x direita/certo. L e R do inglês não são como em português.",
+   "en": "Turn right at the light.",
+   "syl": "térn ráit ét dâ láit"
+  },
+  {
+   "id": "tips-fc-6",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>sit</b> x <b>seat</b>",
+   "back": "Sentar x assento/banco. Mesmo padrão de 'ship x sheep'.",
+   "en": "Please take a seat.",
+   "syl": "plíz têik â sít"
+  },
+  {
+   "id": "tips-fc-7",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "front": "<b>think</b> x <b>sink</b>",
+   "back": "Pensar x pia. O TH de 'think' trocado por 'S' muda a palavra.",
+   "en": "I think it's true.",
+   "syl": "ai think its trú"
+  },
+  {
+   "id": "tips-fc-8",
+   "topic": "Números e Datas Falados",
+   "front": "1500 falado",
+   "back": "fifteen hundred (não 'one thousand five hundred').",
+   "en": "It costs fifteen hundred dollars.",
+   "syl": "it kósts FIF-tin RÂN-dred DÁ-lers"
+  },
+  {
+   "id": "tips-fc-9",
+   "topic": "Números e Datas Falados",
+   "front": "Ano 1999 falado",
+   "back": "nineteen ninety-nine (dois blocos de 2 dígitos).",
+   "en": "I was born in nineteen ninety-nine.",
+   "syl": "ai uóz born in náin-tín NÁIN-ti-náin"
+  },
+  {
+   "id": "tips-fc-10",
+   "topic": "Números e Datas Falados",
+   "front": "Ano 2024 falado",
+   "back": "twenty twenty-four.",
+   "en": "The event is in twenty twenty-four.",
+   "syl": "dí i-VÉNT iz in TUÉN-ti TUÉN-ti-fór"
+  },
+  {
+   "id": "tips-fc-11",
+   "topic": "Números e Datas Falados",
+   "front": "3:15 falado",
+   "back": "three fifteen (ou 'a quarter past three').",
+   "en": "Let's meet at three fifteen.",
+   "syl": "léts mít ét thrí fif-TÍN"
+  },
+  {
+   "id": "tips-fc-12",
+   "topic": "Números e Datas Falados",
+   "front": "$19.99 falado",
+   "back": "nineteen ninety-nine.",
+   "en": "That's nineteen ninety-nine.",
+   "syl": "déts náin-tín NÁIN-ti-náin"
+  },
+  {
+   "id": "tips-fc-13",
+   "topic": "Números e Datas Falados",
+   "front": "July 4th falado",
+   "back": "July fourth (dia como número ordinal).",
+   "en": "The party is on July fourth.",
+   "syl": "dâ PÁR-ti iz on djuu-LÁI fórth"
+  },
+  {
+   "id": "tips-fc-14",
+   "topic": "Números e Datas Falados",
+   "front": "Zero no telefone",
+   "back": "Pronuncia-se 'oh', não 'zero', entre outros dígitos.",
+   "en": "The code is two oh five.",
+   "syl": "dâ kôud iz tu ôu fáiv"
+  },
+  {
+   "id": "tips-fc-15",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "front": "Pergunta sim/não: entonação",
+   "back": "Sobe no final (↗). Começa com auxiliar: Are, Do, Can, Is...",
+   "en": "Are you coming?",
+   "syl": "ar iú KÂ-ming"
+  },
+  {
+   "id": "tips-fc-16",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "front": "Pergunta com wh-: entonação",
+   "back": "Desce no final (↘), como uma afirmação comum.",
+   "en": "Where are you going?",
+   "syl": "uér ar iú GÔU-ing"
+  },
+  {
+   "id": "tips-fc-17",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "front": "Afirmação comum: entonação",
+   "back": "Desce no final (↘), igual ao português.",
+   "en": "I live in São Paulo.",
+   "syl": "ai liv in sáu páu-lô"
+  },
+  {
+   "id": "tips-fc-18",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "front": "Uptalk (erro comum)",
+   "back": "Subir a voz em toda frase afirmativa soa como insegurança em inglês americano.",
+   "en": "This is my favorite song.",
+   "syl": "dis iz mai FÊI-ve-rit song"
+  }
+ ],
+ "questions": [
+  {
+   "id": "tips-q-1",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "difficulty": "facil",
+   "question": "Qual par de palavras muda de sentido só pela vogal (curta x longa)?",
+   "options": [
+    "cat / dog",
+    "ship / sheep",
+    "yes / no",
+    "big / small"
+   ],
+   "answer": 1,
+   "explanation": "ship (navio) e sheep (ovelha) têm vogais diferentes em duração e tensão."
+  },
+  {
+   "id": "tips-q-2",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "difficulty": "facil",
+   "question": "O som de 'TH' em 'three' é produzido:",
+   "options": [
+    "Com a língua entre os dentes, soltando o ar",
+    "Com a língua no céu da boca, como o 'r'",
+    "Fechando totalmente os lábios",
+    "Igual ao som do 't' em português"
+   ],
+   "answer": 0,
+   "explanation": "TH não tem equivalente direto em português."
+  },
+  {
+   "id": "tips-q-3",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "difficulty": "medio",
+   "question": "Qual par usa a mesma troca de som que 'ship/sheep'?",
+   "options": [
+    "cat / hot",
+    "light / right",
+    "three / tree",
+    "sit / seat"
+   ],
+   "answer": 3,
+   "explanation": "sit/seat segue o mesmo padrão de vogal curta x longa."
+  },
+  {
+   "id": "tips-q-4",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "difficulty": "medio",
+   "question": "'Cut the paper' usa qual vogal, diferente de 'cat' e 'hot'?",
+   "options": [
+    "A mesma vogal de 'cat'",
+    "A mesma vogal de 'hot'",
+    "Uma vogal central, tipo 'â' neutro",
+    "Não tem vogal"
+   ],
+   "answer": 2,
+   "explanation": "cut tem som central, diferente de cat (aberto) e hot (arredondado)."
+  },
+  {
+   "id": "tips-q-5",
+   "topic": "Pares Mínimos (Minimal Pairs)",
+   "difficulty": "dificil",
+   "question": "O que diferencia o 'r' do inglês americano do 'r' do português?",
+   "options": [
+    "É sempre mais forte e vibrado",
+    "Não é vibrado; a língua quase não toca a boca",
+    "É idêntico ao do português",
+    "Não existe em inglês"
+   ],
+   "answer": 1,
+   "explanation": "O R americano é mais suave e menos vibrado."
+  },
+  {
+   "id": "tips-q-6",
+   "topic": "Números e Datas Falados",
+   "difficulty": "facil",
+   "question": "Como se fala 1500 em inglês americano no dia a dia?",
+   "options": [
+    "fifteen hundred",
+    "one five zero zero",
+    "thousand five hundred",
+    "fifteen zero zero"
+   ],
+   "answer": 0,
+   "explanation": "Números de 4 dígitos usam o padrão 'centenas'."
+  },
+  {
+   "id": "tips-q-7",
+   "topic": "Números e Datas Falados",
+   "difficulty": "facil",
+   "question": "Como se fala o ano 1999?",
+   "options": [
+    "one thousand nine hundred ninety-nine (só essa forma)",
+    "nineteen nine nine nine",
+    "ninety-nine nineteen",
+    "nineteen ninety-nine"
+   ],
+   "answer": 3,
+   "explanation": "Anos se falam em dois blocos de 2 dígitos."
+  },
+  {
+   "id": "tips-q-8",
+   "topic": "Números e Datas Falados",
+   "difficulty": "medio",
+   "question": "Qual é a forma mais natural de falar 3:15?",
+   "options": [
+    "three one five",
+    "fifteen three",
+    "three fifteen",
+    "three and fifteen minutes only"
+   ],
+   "answer": 2,
+   "explanation": "Hora e minutos como dois números, ou 'a quarter past three'."
+  },
+  {
+   "id": "tips-q-9",
+   "topic": "Números e Datas Falados",
+   "difficulty": "medio",
+   "question": "No telefone, o número 0 geralmente se pronuncia como:",
+   "options": [
+    "a palavra 'zero', sempre",
+    "a letra 'oh'",
+    "'nothing'",
+    "'null'"
+   ],
+   "answer": 1,
+   "explanation": "Convenção comum para números de telefone."
+  },
+  {
+   "id": "tips-q-10",
+   "topic": "Números e Datas Falados",
+   "difficulty": "medio",
+   "question": "Qual é a forma falada de '$19.99'?",
+   "options": [
+    "nineteen ninety-nine",
+    "nineteen dollars point ninety-nine",
+    "one nine nine nine",
+    "nineteen comma ninety-nine"
+   ],
+   "answer": 0,
+   "explanation": "Preços seguem o padrão de dois blocos de número."
+  },
+  {
+   "id": "tips-q-11",
+   "topic": "Números e Datas Falados",
+   "difficulty": "dificil",
+   "question": "Como se fala a data 'July 4th'?",
+   "options": [
+    "July four",
+    "Four July",
+    "Fourth July only",
+    "July fourth"
+   ],
+   "answer": 3,
+   "explanation": "O dia é falado como número ordinal."
+  },
+  {
+   "id": "tips-q-12",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "difficulty": "facil",
+   "question": "Em 'Are you coming?', a voz no final:",
+   "options": [
+    "Desce",
+    "Fica igual",
+    "Sobe",
+    "Para"
+   ],
+   "answer": 2,
+   "explanation": "Pergunta de sim/não sobe no final."
+  },
+  {
+   "id": "tips-q-13",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "difficulty": "facil",
+   "question": "Em 'Where are you going?', a voz no final:",
+   "options": [
+    "Sobe",
+    "Desce",
+    "Fica igual",
+    "Para"
+   ],
+   "answer": 1,
+   "explanation": "Pergunta com wh- desce, como uma afirmação."
+  },
+  {
+   "id": "tips-q-14",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "difficulty": "medio",
+   "question": "Qual destas é uma pergunta de sim/não (entonação sobe)?",
+   "options": [
+    "Do you speak English?",
+    "What's your name?",
+    "Why are you upset?",
+    "How did you get here?"
+   ],
+   "answer": 0,
+   "explanation": "Começa com auxiliar 'Do', pede sim/não."
+  },
+  {
+   "id": "tips-q-15",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "difficulty": "medio",
+   "question": "Subir a voz em toda frase afirmativa (uptalk) é percebido em inglês americano como:",
+   "options": [
+    "Formalidade",
+    "Sotaque britânico",
+    "Educação extra",
+    "Insegurança ou hesitação"
+   ],
+   "answer": 3,
+   "explanation": "Uptalk é associado a hesitação, não a educação."
+  },
+  {
+   "id": "tips-q-16",
+   "topic": "Entonação: Pergunta vs Afirmação",
+   "difficulty": "dificil",
+   "question": "Em 'It's cold, isn't it?' dito só para confirmar algo que você já espera, a entonação final é:",
+   "options": [
+    "Sobe",
+    "Fica igual ao resto da frase",
+    "Desce",
+    "Não importa"
+   ],
+   "answer": 2,
+   "explanation": "Tag question de confirmação desce; se fosse pergunta real, subiria."
+  }
+ ]
+}

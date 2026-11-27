@@ -1,0 +1,935 @@
+{
+ "level": "Teste de Nível",
+ "name": "0 · Teste de Nível",
+ "description": "Descubra seu nível (A1 a C1) fazendo o quiz de cada seção. O maior nível em que você acerta 75% ou mais é o seu nível atual.",
+ "flashcards": [
+  {
+   "id": "t-fc-1",
+   "topic": "Como funciona o Teste",
+   "front": "O que é o <b>CEFR</b>?",
+   "back": "Quadro Europeu Comum de Referência para Línguas: escala internacional de níveis <b>A1, A2, B1, B2, C1, C2</b>. É a base de provas como TOEFL, IELTS, Cambridge e Duolingo."
+  },
+  {
+   "id": "t-fc-2",
+   "topic": "Como funciona o Teste",
+   "front": "Os 3 grandes blocos do CEFR.",
+   "back": "<b>A</b> = usuário básico (A1, A2). <b>B</b> = usuário independente (B1, B2). <b>C</b> = usuário proficiente (C1, C2)."
+  },
+  {
+   "id": "t-fc-3",
+   "topic": "Nível A1",
+   "front": "O que você faz em <b>A1</b>?",
+   "back": "Entende e usa expressões muito simples: se apresentar, perguntar nome/idade/onde mora, pedir coisas básicas, falar devagar e com ajuda.",
+   "en": "My name is Ana. I'm from Brazil.",
+   "syl": "mai nêim iz Â-nâ · aim fróm bra-ZÍU"
+  },
+  {
+   "id": "t-fc-4",
+   "topic": "Nível A2",
+   "front": "O que você faz em <b>A2</b>?",
+   "back": "Fala de rotina, compras, trabalho, família e passado simples; resolve situações do dia a dia (restaurante, direções) com frases curtas.",
+   "en": "Yesterday I went to the supermarket.",
+   "syl": "IÉS-ter-dêi ai uênt tu dâ SÚ-per-mar-ket"
+  },
+  {
+   "id": "t-fc-5",
+   "topic": "Nível B1",
+   "front": "O que você faz em <b>B1</b>?",
+   "back": "Se vira em viagens, conta experiências, dá opiniões e planos, entende o ponto principal de assuntos conhecidos (trabalho, escola, lazer).",
+   "en": "I've been learning English for two years.",
+   "syl": "aiv bín LÉR-ning ÍNG-lich fór tu IÉRS"
+  },
+  {
+   "id": "t-fc-6",
+   "topic": "Nível B2",
+   "front": "O que você faz em <b>B2</b>?",
+   "back": "Conversa com fluência razoável, entende textos complexos de assuntos concretos e abstratos, argumenta e escreve textos claros. É o nível pedido por muitas vagas e universidades.",
+   "en": "If I had more time, I would learn another language.",
+   "syl": "if ai réd mór táim, ai uúd lérn â-NÂ-der LÉN-guich"
+  },
+  {
+   "id": "t-fc-7",
+   "topic": "Nível C1",
+   "front": "O que você faz em <b>C1</b>?",
+   "back": "Usa o inglês com flexibilidade para fins sociais, acadêmicos e profissionais; entende textos longos e implícitos; expressa-se espontaneamente, com poucos erros.",
+   "en": "Had I known, I would have acted differently.",
+   "syl": "réd ai nôun, ai uúd rév ÉK-tid DÍ-fe-rent-li"
+  },
+  {
+   "id": "t-fc-8",
+   "topic": "Como funciona o Teste",
+   "front": "Qual a regra para descobrir seu nível neste app?",
+   "back": "Faça o quiz de cada seção (A1 → C1). Seu nível é o <b>maior em que você acerta 75% ou mais</b> sem consultar nada."
+  }
+ ],
+ "questions": [
+  {
+   "id": "t-q-1",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "I ___ a student.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "be"
+   ],
+   "answer": 0,
+   "explanation": "Com <b>I</b> usa-se <b>am</b>: I am (I'm) a student.",
+   "en": "I am a student."
+  },
+  {
+   "id": "t-q-2",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "She ___ from Brazil.",
+   "options": [
+    "am",
+    "is",
+    "are",
+    "do"
+   ],
+   "answer": 1,
+   "explanation": "She/He/It + <b>is</b>.",
+   "en": "She is from Brazil."
+  },
+  {
+   "id": "t-q-3",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "How ___ you?",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "do"
+   ],
+   "answer": 2,
+   "explanation": "'How are you?' = Como você está? You + are.",
+   "en": "How are you?"
+  },
+  {
+   "id": "t-q-4",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "One child, two ___.",
+   "options": [
+    "childs",
+    "childes",
+    "children",
+    "childrens"
+   ],
+   "answer": 2,
+   "explanation": "Plural irregular: child → <b>children</b>."
+  },
+  {
+   "id": "t-q-5",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "I have ___ apple.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "any"
+   ],
+   "answer": 1,
+   "explanation": "Antes de som de vogal usa-se <b>an</b>: an apple."
+  },
+  {
+   "id": "t-q-6",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "He ___ coffee every morning.",
+   "options": [
+    "drink",
+    "drinks",
+    "drinking",
+    "is drink"
+   ],
+   "answer": 1,
+   "explanation": "Present simple com he/she/it: verbo + <b>-s</b> (drinks).",
+   "en": "He drinks coffee every morning."
+  },
+  {
+   "id": "t-q-7",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "Monday, Tuesday, ___, Thursday.",
+   "options": [
+    "Wednesday",
+    "Wensday",
+    "Wendsday",
+    "Wednesdey"
+   ],
+   "answer": 0,
+   "explanation": "Wednesday (pronuncia-se 'uénzdei'). Muita gente erra a escrita."
+  },
+  {
+   "id": "t-q-8",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "— Thank you. — You're ___.",
+   "options": [
+    "welcome",
+    "well",
+    "good",
+    "fine"
+   ],
+   "answer": 0,
+   "explanation": "'You're welcome' = de nada.",
+   "en": "You're welcome."
+  },
+  {
+   "id": "t-q-9",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "Yesterday I ___ to the market.",
+   "options": [
+    "go",
+    "goed",
+    "went",
+    "gone"
+   ],
+   "answer": 2,
+   "explanation": "Passado irregular: go → <b>went</b>.",
+   "en": "Yesterday I went to the market."
+  },
+  {
+   "id": "t-q-10",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "She is ___ than her sister.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "more tall"
+   ],
+   "answer": 1,
+   "explanation": "Adjetivo curto + <b>-er</b> + than: taller than."
+  },
+  {
+   "id": "t-q-11",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "We ___ going to travel next month.",
+   "options": [
+    "is",
+    "are",
+    "am",
+    "do"
+   ],
+   "answer": 1,
+   "explanation": "be going to: we <b>are</b> going to + verbo."
+  },
+  {
+   "id": "t-q-12",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "There isn't ___ milk.",
+   "options": [
+    "some",
+    "any",
+    "a",
+    "many"
+   ],
+   "answer": 1,
+   "explanation": "Em negativas e perguntas usa-se <b>any</b>. Milk é incontável: não usa 'many'."
+  },
+  {
+   "id": "t-q-13",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "How ___ is this shirt?",
+   "options": [
+    "many",
+    "much",
+    "long",
+    "old"
+   ],
+   "answer": 1,
+   "explanation": "'How much is it?' pergunta preço.",
+   "en": "How much is this shirt?"
+  },
+  {
+   "id": "t-q-14",
+   "topic": "Nível A2",
+   "difficulty": "medio",
+   "question": "I ___ TV when the phone rang.",
+   "options": [
+    "watch",
+    "watched",
+    "was watching",
+    "have watched"
+   ],
+   "answer": 2,
+   "explanation": "Ação em andamento no passado interrompida por outra: past continuous + past simple.",
+   "en": "I was watching TV when the phone rang."
+  },
+  {
+   "id": "t-q-15",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "I'm interested ___ music.",
+   "options": [
+    "on",
+    "in",
+    "at",
+    "about"
+   ],
+   "answer": 1,
+   "explanation": "interested <b>in</b>. Preposições fixas precisam ser memorizadas."
+  },
+  {
+   "id": "t-q-16",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "Which sentence is correct?",
+   "options": [
+    "She don't like pizza.",
+    "She doesn't likes pizza.",
+    "She doesn't like pizza.",
+    "She not like pizza."
+   ],
+   "answer": 2,
+   "explanation": "Negativa no present simple: does not + verbo na forma base (sem -s)."
+  },
+  {
+   "id": "t-q-17",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "I ___ here since 2020.",
+   "options": [
+    "live",
+    "am living",
+    "have lived",
+    "lived"
+   ],
+   "answer": 2,
+   "explanation": "Since + ponto no tempo com ação que continua: <b>present perfect</b>.",
+   "en": "I have lived here since 2020."
+  },
+  {
+   "id": "t-q-18",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "If it rains tomorrow, we ___ at home.",
+   "options": [
+    "stay",
+    "will stay",
+    "would stay",
+    "stayed"
+   ],
+   "answer": 1,
+   "explanation": "Primeira condicional: if + presente, <b>will</b> + verbo."
+  },
+  {
+   "id": "t-q-19",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "You ___ see a doctor. You look sick.",
+   "options": [
+    "should",
+    "can",
+    "may be",
+    "would"
+   ],
+   "answer": 0,
+   "explanation": "<b>should</b> = conselho: você deveria ir ao médico."
+  },
+  {
+   "id": "t-q-20",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "She used ___ in London.",
+   "options": [
+    "live",
+    "to live",
+    "living",
+    "lived"
+   ],
+   "answer": 1,
+   "explanation": "<b>used to</b> + verbo base = hábito/situação no passado."
+  },
+  {
+   "id": "t-q-21",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "I haven't seen him ___ last week.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "during"
+   ],
+   "answer": 1,
+   "explanation": "<b>since</b> + ponto no tempo; <b>for</b> + duração (for two weeks)."
+  },
+  {
+   "id": "t-q-22",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "I'm not sure where he is. He ___ be at work.",
+   "options": [
+    "might",
+    "must to",
+    "should to",
+    "can to"
+   ],
+   "answer": 0,
+   "explanation": "<b>might</b> = possibilidade (talvez). Modais não levam 'to'."
+  },
+  {
+   "id": "t-q-23",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "The match was cancelled ___ the rain.",
+   "options": [
+    "because",
+    "because of",
+    "although",
+    "so"
+   ],
+   "answer": 1,
+   "explanation": "<b>because of</b> + substantivo; <b>because</b> + oração."
+  },
+  {
+   "id": "t-q-24",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "I'm looking forward ___ you.",
+   "options": [
+    "to see",
+    "to seeing",
+    "seeing",
+    "for see"
+   ],
+   "answer": 1,
+   "explanation": "'look forward <b>to</b>' é seguido de -ing (to é preposição).",
+   "en": "I'm looking forward to seeing you."
+  },
+  {
+   "id": "t-q-25",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "If I ___ rich, I would travel the world.",
+   "options": [
+    "am",
+    "was being",
+    "were",
+    "will be"
+   ],
+   "answer": 2,
+   "explanation": "Segunda condicional (irreal): if + past; com be usa-se <b>were</b> para todas as pessoas.",
+   "en": "If I were rich, I would travel the world."
+  },
+  {
+   "id": "t-q-26",
+   "topic": "Nível B2",
+   "difficulty": "dificil",
+   "question": "If she had studied, she ___ the exam.",
+   "options": [
+    "would pass",
+    "would have passed",
+    "will pass",
+    "had passed"
+   ],
+   "answer": 1,
+   "explanation": "Terceira condicional: if + past perfect, <b>would have + particípio</b>."
+  },
+  {
+   "id": "t-q-27",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "The house ___ in 1990.",
+   "options": [
+    "built",
+    "was built",
+    "has built",
+    "is building"
+   ],
+   "answer": 1,
+   "explanation": "Voz passiva no passado: was/were + particípio."
+  },
+  {
+   "id": "t-q-28",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "He said that he ___ me the next day.",
+   "options": [
+    "calls",
+    "will call",
+    "would call",
+    "called"
+   ],
+   "answer": 2,
+   "explanation": "Discurso indireto: <b>will</b> → <b>would</b> (backshift)."
+  },
+  {
+   "id": "t-q-29",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "The woman ___ lives next door is a doctor.",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "whom"
+   ],
+   "answer": 0,
+   "explanation": "<b>who</b> para pessoas como sujeito da oração relativa."
+  },
+  {
+   "id": "t-q-30",
+   "topic": "Nível B2",
+   "difficulty": "dificil",
+   "question": "I wish I ___ more time.",
+   "options": [
+    "have",
+    "had",
+    "would have",
+    "will have"
+   ],
+   "answer": 1,
+   "explanation": "'wish' + past simple = desejo sobre o presente (irreal)."
+  },
+  {
+   "id": "t-q-31",
+   "topic": "Nível B2",
+   "difficulty": "dificil",
+   "question": "By this time next year, I ___ my degree.",
+   "options": [
+    "will finish",
+    "finish",
+    "will have finished",
+    "have finished"
+   ],
+   "answer": 2,
+   "explanation": "Future perfect: ação concluída antes de um momento futuro."
+  },
+  {
+   "id": "t-q-32",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "Despite ___ tired, she kept working.",
+   "options": [
+    "she was",
+    "being",
+    "to be",
+    "of being"
+   ],
+   "answer": 1,
+   "explanation": "'Despite' é seguido de substantivo ou <b>-ing</b>."
+  },
+  {
+   "id": "t-q-33",
+   "topic": "Nível B2",
+   "difficulty": "dificil",
+   "question": "I'd rather you ___ here.",
+   "options": [
+    "don't smoke",
+    "didn't smoke",
+    "won't smoke",
+    "not smoking"
+   ],
+   "answer": 1,
+   "explanation": "'would rather' + pessoa diferente + past simple (presente irreal)."
+  },
+  {
+   "id": "t-q-34",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "She suggested ___ a taxi.",
+   "options": [
+    "to take",
+    "taking",
+    "take",
+    "to taking"
+   ],
+   "answer": 1,
+   "explanation": "<b>suggest</b> é seguido de -ing (ou that + should)."
+  },
+  {
+   "id": "t-q-35",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Hardly ___ the room when the phone rang.",
+   "options": [
+    "she had entered",
+    "had she entered",
+    "she entered",
+    "did she enter"
+   ],
+   "answer": 1,
+   "explanation": "Inversão após advérbio negativo (hardly): <b>had she entered</b>."
+  },
+  {
+   "id": "t-q-36",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Had I known, I ___ differently.",
+   "options": [
+    "would act",
+    "will act",
+    "would have acted",
+    "had acted"
+   ],
+   "answer": 2,
+   "explanation": "Terceira condicional invertida: Had I known = If I had known."
+  },
+  {
+   "id": "t-q-37",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "It was not until midnight ___ he finished.",
+   "options": [
+    "when",
+    "that",
+    "which",
+    "than"
+   ],
+   "answer": 1,
+   "explanation": "Estrutura cleft: 'It was not until ... <b>that</b> ...'."
+  },
+  {
+   "id": "t-q-38",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "The proposal was met ___ skepticism.",
+   "options": [
+    "by",
+    "with",
+    "for",
+    "on"
+   ],
+   "answer": 1,
+   "explanation": "collocation: <b>be met with</b> skepticism/criticism/enthusiasm."
+  },
+  {
+   "id": "t-q-39",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "He's ___ to be promoted next year; everyone says so.",
+   "options": [
+    "bound",
+    "ought",
+    "supposed to be",
+    "tend"
+   ],
+   "answer": 0,
+   "explanation": "<b>be bound to</b> = com certeza vai (quase inevitável)."
+  },
+  {
+   "id": "t-q-40",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Rarely ___ such a talented musician.",
+   "options": [
+    "I have seen",
+    "have I seen",
+    "I saw",
+    "did I seen"
+   ],
+   "answer": 1,
+   "explanation": "Inversão com 'rarely': auxiliar antes do sujeito."
+  },
+  {
+   "id": "t-q-41",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "We need to ___ a decision by Friday.",
+   "options": [
+    "do",
+    "take",
+    "make",
+    "give"
+   ],
+   "answer": 2,
+   "explanation": "collocation: <b>make a decision</b> (nos EUA também 'reach a decision')."
+  },
+  {
+   "id": "t-q-42",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Which word means 'impossible to avoid'?",
+   "options": [
+    "inevitable",
+    "incredible",
+    "invisible",
+    "inedible"
+   ],
+   "answer": 0,
+   "explanation": "<b>inevitable</b> = inevitável."
+  },
+  {
+   "id": "t-q-43",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Which sentence sounds the most tentative (diplomatic)?",
+   "options": [
+    "You're wrong.",
+    "That is incorrect.",
+    "I might be mistaken, but I think there may be an error here.",
+    "No."
+   ],
+   "answer": 2,
+   "explanation": "Hedging (might, may, I think) suaviza a crítica: típico de inglês profissional C1."
+  },
+  {
+   "id": "t-q-44",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "They ___ my friends.",
+   "options": [
+    "is",
+    "am",
+    "be",
+    "are"
+   ],
+   "answer": 3,
+   "explanation": "They + <b>are</b>.",
+   "en": "They are my friends."
+  },
+  {
+   "id": "t-q-45",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "He ___ coffee every day.",
+   "options": [
+    "drinks",
+    "drink",
+    "drinking",
+    "drinked"
+   ],
+   "answer": 0,
+   "explanation": "He/She/It no Present Simple: verbo + <b>s</b>.",
+   "en": "He drinks coffee every day."
+  },
+  {
+   "id": "t-q-46",
+   "topic": "Nível A1",
+   "difficulty": "facil",
+   "question": "___ is your name?",
+   "options": [
+    "Where",
+    "What",
+    "When",
+    "Why"
+   ],
+   "answer": 1,
+   "explanation": "'What is your name?' = Qual é o seu nome?",
+   "en": "What is your name?"
+  },
+  {
+   "id": "t-q-47",
+   "topic": "Nível A1",
+   "difficulty": "medio",
+   "question": "There ___ two books on the table.",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "answer": 2,
+   "explanation": "Plural: there <b>are</b>.",
+   "en": "There are two books on the table."
+  },
+  {
+   "id": "t-q-48",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "I ___ to the gym yesterday.",
+   "options": [
+    "go",
+    "goes",
+    "gone",
+    "went"
+   ],
+   "answer": 3,
+   "explanation": "Passado de go = <b>went</b>.",
+   "en": "I went to the gym yesterday."
+  },
+  {
+   "id": "t-q-49",
+   "topic": "Nível A2",
+   "difficulty": "facil",
+   "question": "She is ___ than her sister.",
+   "options": [
+    "taller",
+    "tall",
+    "tallest",
+    "more tall"
+   ],
+   "answer": 0,
+   "explanation": "Adjetivo curto + <b>-er</b> + than.",
+   "en": "She is taller than her sister."
+  },
+  {
+   "id": "t-q-50",
+   "topic": "Nível A2",
+   "difficulty": "medio",
+   "question": "We ___ visit Rome next summer.",
+   "options": [
+    "going to",
+    "are going to",
+    "did",
+    "will to"
+   ],
+   "answer": 1,
+   "explanation": "Plano: <b>be going to</b> + verbo.",
+   "en": "We are going to visit Rome next summer."
+  },
+  {
+   "id": "t-q-51",
+   "topic": "Nível A2",
+   "difficulty": "medio",
+   "question": "___ I open the window?",
+   "options": [
+    "Do",
+    "Am",
+    "Can",
+    "Are"
+   ],
+   "answer": 2,
+   "explanation": "Pedido/permissão: <b>Can I</b>...?",
+   "en": "Can I open the window?"
+  },
+  {
+   "id": "t-q-52",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "I ___ in this city since 2018.",
+   "options": [
+    "lived",
+    "live",
+    "am living",
+    "have lived"
+   ],
+   "answer": 3,
+   "explanation": "Since + ponto no tempo: <b>Present Perfect</b>.",
+   "en": "I have lived in this city since 2018."
+  },
+  {
+   "id": "t-q-53",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "If it rains, we ___ at home.",
+   "options": [
+    "will stay",
+    "would stay",
+    "stayed",
+    "stay would"
+   ],
+   "answer": 0,
+   "explanation": "1ª condicional: if + presente, <b>will</b> + verbo.",
+   "en": "If it rains, we will stay at home."
+  },
+  {
+   "id": "t-q-54",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "She ___ to play the piano when she was young.",
+   "options": [
+    "use",
+    "used",
+    "uses",
+    "was use"
+   ],
+   "answer": 1,
+   "explanation": "Hábito passado: <b>used to</b>.",
+   "en": "She used to play the piano."
+  },
+  {
+   "id": "t-q-55",
+   "topic": "Nível B1",
+   "difficulty": "medio",
+   "question": "You ___ wear a seatbelt. It's the law.",
+   "options": [
+    "might",
+    "would",
+    "must",
+    "could"
+   ],
+   "answer": 2,
+   "explanation": "Obrigação forte: <b>must</b>.",
+   "en": "You must wear a seatbelt."
+  },
+  {
+   "id": "t-q-56",
+   "topic": "Nível B2",
+   "difficulty": "medio",
+   "question": "The letter ___ yesterday.",
+   "options": [
+    "sent",
+    "is sent",
+    "has sent",
+    "was sent"
+   ],
+   "answer": 3,
+   "explanation": "Passiva no passado: <b>was/were + particípio</b>.",
+   "en": "The letter was sent yesterday."
+  },
+  {
+   "id": "t-q-57",
+   "topic": "Nível B2",
+   "difficulty": "dificil",
+   "question": "He said that he ___ the report the day before.",
+   "options": [
+    "had finished",
+    "finishes",
+    "has finished",
+    "finish"
+   ],
+   "answer": 0,
+   "explanation": "Discurso indireto: passado vira <b>past perfect</b>.",
+   "en": "He said that he had finished the report."
+  },
+  {
+   "id": "t-q-58",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "Rarely ___ such kindness.",
+   "options": [
+    "we see",
+    "do we see",
+    "we do see",
+    "see we"
+   ],
+   "answer": 1,
+   "explanation": "Advérbio negativo no início: <b>auxiliar + sujeito</b>.",
+   "en": "Rarely do we see such kindness."
+  },
+  {
+   "id": "t-q-59",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "___ I known, I would have helped.",
+   "options": [
+    "If",
+    "Have",
+    "Had",
+    "Did"
+   ],
+   "answer": 2,
+   "explanation": "Inversão condicional: <b>Had I known</b>.",
+   "en": "Had I known, I would have helped."
+  },
+  {
+   "id": "t-q-60",
+   "topic": "Nível C1",
+   "difficulty": "dificil",
+   "question": "The report must be accurate; ___, it will be rejected.",
+   "options": [
+    "moreover",
+    "likewise",
+    "hence",
+    "otherwise"
+   ],
+   "answer": 3,
+   "explanation": "<b>Otherwise</b> = caso contrário.",
+   "en": "The report must be accurate; otherwise, it will be rejected."
+  }
+ ]
+}

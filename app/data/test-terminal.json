@@ -1,0 +1,102 @@
+[
+ {
+  "id": "test-t-1",
+  "topic": "A1",
+  "q": "Diga em inglês: \"Eu sou estudante.\"",
+  "a": [
+   "^i am a student$"
+  ],
+  "ex": "I'm a student.",
+  "out": "",
+  "why": "Verbo to be.",
+  "hint": "I'm a ..."
+ },
+ {
+  "id": "test-t-2",
+  "topic": "A2",
+  "q": "Diga em inglês: \"Ontem eu fui ao cinema.\"",
+  "a": [
+   "^yesterday,? i went to the (movies|cinema|movie theater)$",
+   "^i went to the (movies|cinema|movie theater) yesterday$"
+  ],
+  "ex": "Yesterday I went to the movies.",
+  "out": "",
+  "why": "Passado de go = went.",
+  "hint": "Yesterday I ..."
+ },
+ {
+  "id": "test-t-3",
+  "topic": "B1",
+  "q": "Diga em inglês: \"Eu moro aqui há cinco anos.\"",
+  "a": [
+   "^i have lived here for (five|5) years$"
+  ],
+  "ex": "I've lived here for five years.",
+  "out": "",
+  "why": "Present Perfect + for.",
+  "hint": "I've lived ..."
+ },
+ {
+  "id": "test-t-4",
+  "topic": "B1",
+  "q": "Diga em inglês: \"Se chover, vamos ficar em casa.\"",
+  "a": [
+   "^if it rains,? we will stay (at )?home$"
+  ],
+  "ex": "If it rains, we'll stay home.",
+  "out": "",
+  "why": "1ª condicional.",
+  "hint": "If it rains, ..."
+ },
+ {
+  "id": "test-t-5",
+  "topic": "B2",
+  "q": "Diga em inglês: \"Se eu fosse rico, viajaria o mundo.\"",
+  "a": [
+   "^if i were rich,? i would travel (around )?the world$"
+  ],
+  "ex": "If I were rich, I'd travel the world.",
+  "out": "",
+  "why": "2ª condicional: if + were, would + verbo.",
+  "hint": "If I were rich, ..."
+ },
+ {
+  "id": "test-t-6",
+  "topic": "B2",
+  "q": "Diga em inglês: \"O relatório foi escrito pela equipe.\"",
+  "a": [
+   "^the report was written by the team$"
+  ],
+  "ex": "The report was written by the team.",
+  "out": "",
+  "why": "Passiva: was + particípio.",
+  "hint": "The report was ..."
+ },
+ {
+  "id": "test-t-7",
+  "topic": "C1",
+  "q": "Diga em inglês: \"Nunca vi algo tão bonito.\" (inversão)",
+  "a": [
+   "^never have i seen anything so beautiful$",
+   "^never have i seen anything as beautiful$"
+  ],
+  "ex": "Never have I seen anything so beautiful.",
+  "out": "",
+  "why": "Never + have + sujeito.",
+  "hint": "Never have I ..."
+ },
+ {
+  "id": "test-t-8",
+  "topic": "EUA",
+  "q": "Diga em inglês informal: \"Vamos pegar um café?\" (wanna)",
+  "a": [
+   "^(do you )?want to (grab|get) (a )?coffee$",
+   "^(shall|should) we (grab|get) (a )?coffee$",
+   "^let us (grab|get) (a )?coffee$"
+  ],
+  "ex": "Wanna grab a coffee?",
+  "out": "",
+  "why": "wanna = want to.",
+  "hint": "Wanna ..."
+ }
+]

@@ -1,0 +1,1021 @@
+{
+ "level": "US",
+ "name": "🗽 Inglês de Rua EUA",
+ "description": "Fala informal, gírias, small talk, pedidos, texting e falsos cognatos.",
+ "flashcards": [
+  {
+   "id": "us-fc-1",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "front": "<b>gonna</b> significa?",
+   "back": "going to (vou fazer algo).",
+   "en": "I'm gonna call you later.",
+   "syl": "aim GÂ-nâ kól iú LÊI-ter"
+  },
+  {
+   "id": "us-fc-2",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "front": "<b>wanna</b> significa?",
+   "back": "want to (querer).",
+   "en": "I wanna try that.",
+   "syl": "ai UÓ-nâ trai dét"
+  },
+  {
+   "id": "us-fc-3",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "front": "<b>gotta</b> significa?",
+   "back": "have got to / have to (preciso).",
+   "en": "I gotta go now.",
+   "syl": "ai GÁ-tâ gôu náu"
+  },
+  {
+   "id": "us-fc-4",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "front": "<b>lemme</b> e <b>gimme</b>?",
+   "back": "let me · give me.",
+   "en": "Lemme see. Gimme that.",
+   "syl": "lémi si · guími dét"
+  },
+  {
+   "id": "us-fc-5",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "front": "<b>dunno</b> e <b>kinda</b>?",
+   "back": "don't know · kind of (meio, um pouco).",
+   "en": "I dunno, it's kinda weird.",
+   "syl": "ai dâ-NÔU, its KÁIN-dâ UÍRD"
+  },
+  {
+   "id": "us-fc-6",
+   "topic": "Gírias do Dia a Dia",
+   "front": "<b>My bad</b> quer dizer?",
+   "back": "Foi mal (assumir erro, informal).",
+   "en": "My bad, I forgot.",
+   "syl": "mai béd, ai for-GÓT"
+  },
+  {
+   "id": "us-fc-7",
+   "topic": "Gírias do Dia a Dia",
+   "front": "<b>No way!</b>",
+   "back": "Não acredito! / Sem chance!",
+   "en": "No way! You won?",
+   "syl": "nôu uêi · iú uân"
+  },
+  {
+   "id": "us-fc-8",
+   "topic": "Gírias do Dia a Dia",
+   "front": "<b>bucks</b> e <b>broke</b>?",
+   "back": "dólares · sem dinheiro.",
+   "en": "I'm broke until Friday.",
+   "syl": "aim brôuk ân-TÍU FRÁI-dei"
+  },
+  {
+   "id": "us-fc-9",
+   "topic": "Gírias do Dia a Dia",
+   "front": "<b>I'm beat</b>",
+   "back": "Estou exausto.",
+   "en": "I'm beat after work.",
+   "syl": "aim bit ÉF-ter uérk"
+  },
+  {
+   "id": "us-fc-10",
+   "topic": "Gírias do Dia a Dia",
+   "front": "<b>hang out</b>",
+   "back": "Passar tempo com alguém.",
+   "en": "Let's hang out this weekend.",
+   "syl": "léts rénk áut dis UÍK-end"
+  },
+  {
+   "id": "us-fc-11",
+   "topic": "Small Talk e Cumprimentos",
+   "front": "<b>How's it going?</b> resposta típica?",
+   "back": "Good, you? (curta e positiva).",
+   "en": "Good, thanks. You?",
+   "syl": "gud, thénks, iú"
+  },
+  {
+   "id": "us-fc-12",
+   "topic": "Small Talk e Cumprimentos",
+   "front": "<b>Long time no see</b>",
+   "back": "Quanto tempo que não nos vemos.",
+   "en": "Long time no see, Sam!",
+   "syl": "lóng táim nôu sí, sém"
+  },
+  {
+   "id": "us-fc-13",
+   "topic": "Small Talk e Cumprimentos",
+   "front": "<b>Can't complain</b>",
+   "back": "Não tenho do que reclamar (tudo bem).",
+   "en": "Can't complain.",
+   "syl": "ként kom-PLÊIN"
+  },
+  {
+   "id": "us-fc-14",
+   "topic": "Small Talk e Cumprimentos",
+   "front": "<b>Catch you later</b>",
+   "back": "Até mais (despedida informal).",
+   "en": "Catch you later!",
+   "syl": "kétch iú LÊI-ter"
+  },
+  {
+   "id": "us-fc-15",
+   "topic": "Small Talk e Cumprimentos",
+   "front": "<b>Let's grab lunch</b>",
+   "back": "Vamos almoçar (muitas vezes só educação).",
+   "en": "Let's grab lunch sometime.",
+   "syl": "léts gréb lântch SÂM-táim"
+  },
+  {
+   "id": "us-fc-16",
+   "topic": "Pedindo Comida e Café",
+   "front": "<b>For here or to go?</b>",
+   "back": "Para comer aqui ou levar?",
+   "en": "To go, please.",
+   "syl": "tu gôu, plíz"
+  },
+  {
+   "id": "us-fc-17",
+   "topic": "Pedindo Comida e Café",
+   "front": "<b>Can I get...?</b>",
+   "back": "Forma comum de pedir algo.",
+   "en": "Can I get a coffee?",
+   "syl": "kén ai guét â KÓ-fi"
+  },
+  {
+   "id": "us-fc-18",
+   "topic": "Pedindo Comida e Café",
+   "front": "<b>check</b> no restaurante",
+   "back": "A conta (EUA).",
+   "en": "Can we get the check?",
+   "syl": "kén uí guét dâ tchék"
+  },
+  {
+   "id": "us-fc-19",
+   "topic": "Pedindo Comida e Café",
+   "front": "<b>entree</b> nos EUA",
+   "back": "Prato principal (não a entrada).",
+   "en": "I'll have the steak as my entree.",
+   "syl": "áiu rév dâ stêik éz mai ON-trê"
+  },
+  {
+   "id": "us-fc-20",
+   "topic": "Pedindo Comida e Café",
+   "front": "Gorjeta nos EUA",
+   "back": "Esperada: 15% a 20% em restaurante com garçom.",
+   "en": "Keep the change.",
+   "syl": "kíp dâ tchêindj"
+  },
+  {
+   "id": "us-fc-21",
+   "topic": "Texting e Redes",
+   "front": "<b>BTW</b> · <b>FYI</b>",
+   "back": "by the way · for your information.",
+   "en": "FYI, I sent the file.",
+   "syl": "éf-uai-ái, ai sént dâ fáiu"
+  },
+  {
+   "id": "us-fc-22",
+   "topic": "Texting e Redes",
+   "front": "<b>IDK</b> · <b>NVM</b>",
+   "back": "I don't know · never mind.",
+   "en": "NVM, I found it.",
+   "syl": "én-ví-ém, ai fáund it"
+  },
+  {
+   "id": "us-fc-23",
+   "topic": "Texting e Redes",
+   "front": "<b>TBH</b> · <b>IMO</b>",
+   "back": "to be honest · in my opinion.",
+   "en": "TBH, I'm tired.",
+   "syl": "tí-bí-étch, aim TÁI-erd"
+  },
+  {
+   "id": "us-fc-24",
+   "topic": "Texting e Redes",
+   "front": "<b>ETA</b> · <b>ASAP</b>",
+   "back": "previsão de chegada · o mais rápido possível.",
+   "en": "What's your ETA?",
+   "syl": "uóts iór í-tí-ÉI"
+  },
+  {
+   "id": "us-fc-25",
+   "topic": "Texting e Redes",
+   "front": "<b>DM</b> · <b>TL;DR</b>",
+   "back": "mensagem direta · resumo de texto longo.",
+   "en": "TL;DR: it works.",
+   "syl": "tí-éu-DI-ár, it uérks"
+  },
+  {
+   "id": "us-fc-26",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "front": "<b>actually</b>",
+   "back": "Na verdade (não 'atualmente').",
+   "en": "Actually, I disagree.",
+   "syl": "ÉK-tchu-â-li, ai di-sâ-GRÍ"
+  },
+  {
+   "id": "us-fc-27",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "front": "<b>pretend</b>",
+   "back": "Fingir (não 'pretender').",
+   "en": "He pretended to be sick.",
+   "syl": "ri pri-TÉN-did tu bi sik"
+  },
+  {
+   "id": "us-fc-28",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "front": "<b>library</b>",
+   "back": "Biblioteca (livraria = bookstore).",
+   "en": "I study at the library.",
+   "syl": "ai STÂ-di ét dâ LÁI-bré-ri"
+  },
+  {
+   "id": "us-fc-29",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "front": "<b>parents</b> × <b>relatives</b>",
+   "back": "Pais × parentes.",
+   "en": "My relatives are coming.",
+   "syl": "mai RÉ-lâ-tivs ar KÂ-ming"
+  },
+  {
+   "id": "us-fc-30",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "front": "<b>eventually</b>",
+   "back": "No fim das contas (não 'eventualmente').",
+   "en": "Eventually, he agreed.",
+   "syl": "i-VÉN-tchu-â-li, ri â-GRÍD"
+  },
+  {
+   "id": "us-fc-31",
+   "topic": "Telefone e Trabalho Informal",
+   "front": "<b>heads-up</b>",
+   "back": "Aviso antecipado.",
+   "en": "Thanks for the heads-up.",
+   "syl": "thénks fór dâ RÉDZ-âp"
+  },
+  {
+   "id": "us-fc-32",
+   "topic": "Telefone e Trabalho Informal",
+   "front": "<b>touch base</b>",
+   "back": "Alinhar rapidinho.",
+   "en": "Let's touch base tomorrow.",
+   "syl": "léts tâtch bêis tu-MÓ-rôu"
+  },
+  {
+   "id": "us-fc-33",
+   "topic": "Telefone e Trabalho Informal",
+   "front": "<b>You're on mute</b>",
+   "back": "Você está no mudo (videochamada).",
+   "en": "Sorry, you're on mute.",
+   "syl": "SÓ-ri, iór on miút"
+  },
+  {
+   "id": "us-fc-34",
+   "topic": "Telefone e Trabalho Informal",
+   "front": "<b>circle back</b>",
+   "back": "Retomar o assunto depois.",
+   "en": "Let's circle back next week.",
+   "syl": "léts SÉR-kou bék nékst uík"
+  },
+  {
+   "id": "us-fc-35",
+   "topic": "Telefone e Trabalho Informal",
+   "front": "<b>Can I call you back?</b>",
+   "back": "Posso te ligar de volta?",
+   "en": "Can I call you back?",
+   "syl": "kén ai kól iú bék"
+  },
+  {
+   "id": "us-fc-36",
+   "topic": "Diálogos do Dia a Dia",
+   "front": "<b>Sounds good</b>",
+   "back": "Fechado / Parece bom.",
+   "en": "Sounds good! See you at seven.",
+   "syl": "sáundz gud · si iú ét SÉ-ven"
+  },
+  {
+   "id": "us-fc-37",
+   "topic": "Diálogos do Dia a Dia",
+   "front": "<b>I'm just looking</b>",
+   "back": "Só estou olhando (em loja).",
+   "en": "I'm just looking, thanks.",
+   "syl": "aim djâst LÚ-king, thénks"
+  },
+  {
+   "id": "us-fc-38",
+   "topic": "Diálogos do Dia a Dia",
+   "front": "<b>How about...?</b>",
+   "back": "Que tal...?",
+   "en": "How about seven?",
+   "syl": "rau â-báut SÉ-ven"
+  },
+  {
+   "id": "us-fc-39",
+   "topic": "Diálogos do Dia a Dia",
+   "front": "<b>I'll take it</b>",
+   "back": "Vou levar (compra).",
+   "en": "I'll take it.",
+   "syl": "áiu têik it"
+  },
+  {
+   "id": "us-fc-40",
+   "topic": "Diálogos do Dia a Dia",
+   "front": "<b>Don't worry about it</b>",
+   "back": "Não esquenta com isso.",
+   "en": "Don't worry about it.",
+   "syl": "dôunt UÓ-ri â-báut it"
+  },
+  {
+   "id": "us-fc-41",
+   "topic": "Reações e Emoções",
+   "front": "<b>That sucks</b>",
+   "back": "Que droga (informal).",
+   "en": "That sucks, I'm sorry.",
+   "syl": "dét sâks, aim SÓ-ri"
+  },
+  {
+   "id": "us-fc-42",
+   "topic": "Reações e Emoções",
+   "front": "<b>Congrats!</b>",
+   "back": "Parabéns!",
+   "en": "Congrats on the new job!",
+   "syl": "kon-GRÉTS on dâ niú djob"
+  },
+  {
+   "id": "us-fc-43",
+   "topic": "Reações e Emoções",
+   "front": "<b>I feel you</b>",
+   "back": "Te entendo.",
+   "en": "I feel you, it's tough.",
+   "syl": "ai fíu iú, its tâf"
+  },
+  {
+   "id": "us-fc-44",
+   "topic": "Reações e Emoções",
+   "front": "<b>I'm so stoked</b>",
+   "back": "Estou super animado.",
+   "en": "I'm so stoked for the trip!",
+   "syl": "aim sôu stôukt fór dâ trip"
+  },
+  {
+   "id": "us-fc-45",
+   "topic": "Reações e Emoções",
+   "front": "<b>Hang in there</b>",
+   "back": "Aguenta firme.",
+   "en": "Hang in there, it'll get better.",
+   "syl": "réng in dér, itiu guét BÉ-ter"
+  }
+ ],
+ "questions": [
+  {
+   "id": "us-q-1",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "difficulty": "facil",
+   "question": "'I'm <b>gonna</b> call you' = I'm ___ call you.",
+   "options": [
+    "going to",
+    "gone to",
+    "go to",
+    "got to"
+   ],
+   "answer": 0,
+   "explanation": "gonna = going to.",
+   "en": "I'm gonna call you."
+  },
+  {
+   "id": "us-q-2",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "difficulty": "facil",
+   "question": "'I <b>wanna</b> go' significa:",
+   "options": [
+    "Eu tenho que ir",
+    "Eu quero ir",
+    "Eu fui",
+    "Eu vou ir"
+   ],
+   "answer": 1,
+   "explanation": "wanna = want to."
+  },
+  {
+   "id": "us-q-3",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "difficulty": "medio",
+   "question": "'I <b>gotta</b> leave' significa:",
+   "options": [
+    "Eu consegui sair",
+    "Eu quero sair",
+    "Eu preciso sair",
+    "Eu saí"
+   ],
+   "answer": 2,
+   "explanation": "gotta = have got to."
+  },
+  {
+   "id": "us-q-4",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "difficulty": "medio",
+   "question": "Qual a forma completa de 'lemme see'?",
+   "options": [
+    "let him see",
+    "leave me see",
+    "let it see",
+    "let me see"
+   ],
+   "answer": 3,
+   "explanation": "lemme = let me."
+  },
+  {
+   "id": "us-q-5",
+   "topic": "Fala de Americano (gonna, wanna)",
+   "difficulty": "medio",
+   "question": "Em e-mail formal, o melhor é:",
+   "options": [
+    "I am going to send it.",
+    "I'm gonna send it.",
+    "I'ma send it.",
+    "Imma send it."
+   ],
+   "answer": 0,
+   "explanation": "Escrita formal usa a forma completa."
+  },
+  {
+   "id": "us-q-6",
+   "topic": "Gírias do Dia a Dia",
+   "difficulty": "facil",
+   "question": "Você esbarra em alguém. O que diz de forma informal?",
+   "options": [
+    "No way!",
+    "My bad!",
+    "I'm broke!",
+    "Long time no see!"
+   ],
+   "answer": 1,
+   "explanation": "My bad = foi mal."
+  },
+  {
+   "id": "us-q-7",
+   "topic": "Gírias do Dia a Dia",
+   "difficulty": "facil",
+   "question": "'I'm <b>broke</b>' significa:",
+   "options": [
+    "Estou quebrado (osso)",
+    "Estou cansado",
+    "Estou sem dinheiro",
+    "Estou com pressa"
+   ],
+   "answer": 2,
+   "explanation": "broke = sem grana."
+  },
+  {
+   "id": "us-q-8",
+   "topic": "Gírias do Dia a Dia",
+   "difficulty": "medio",
+   "question": "'Ten <b>bucks</b>' = ",
+   "options": [
+    "dez moedas",
+    "dez euros",
+    "dez cêntimos",
+    "dez dólares"
+   ],
+   "answer": 3,
+   "explanation": "buck = dólar (informal)."
+  },
+  {
+   "id": "us-q-9",
+   "topic": "Gírias do Dia a Dia",
+   "difficulty": "medio",
+   "question": "'I'm <b>beat</b>' quer dizer:",
+   "options": [
+    "Estou exausto",
+    "Fui derrotado no jogo",
+    "Estou com raiva",
+    "Estou com fome"
+   ],
+   "answer": 0,
+   "explanation": "beat = exausto."
+  },
+  {
+   "id": "us-q-10",
+   "topic": "Gírias do Dia a Dia",
+   "difficulty": "medio",
+   "question": "<b>Dude</b> é mais adequado com:",
+   "options": [
+    "um cliente importante",
+    "amigos",
+    "o CEO",
+    "um professor em prova oral"
+   ],
+   "answer": 1,
+   "explanation": "Informal, entre amigos."
+  },
+  {
+   "id": "us-q-11",
+   "topic": "Small Talk e Cumprimentos",
+   "difficulty": "facil",
+   "question": "Alguém diz 'How's it going?'. Boa resposta:",
+   "options": [
+    "I'm 25.",
+    "Yes, I am.",
+    "Good, you?",
+    "Fine, thank you very much for asking about my health today."
+   ],
+   "answer": 2,
+   "explanation": "Resposta curta e positiva."
+  },
+  {
+   "id": "us-q-12",
+   "topic": "Small Talk e Cumprimentos",
+   "difficulty": "medio",
+   "question": "'Let's grab lunch sometime' normalmente é:",
+   "options": [
+    "Convite com data marcada",
+    "Reclamação",
+    "Despedida formal",
+    "Educação, sem data firme"
+   ],
+   "answer": 3,
+   "explanation": "Para marcar, combine dia e hora."
+  },
+  {
+   "id": "us-q-13",
+   "topic": "Small Talk e Cumprimentos",
+   "difficulty": "facil",
+   "question": "'Catch you later!' é:",
+   "options": [
+    "Despedida informal",
+    "Ameaça",
+    "Cumprimento formal",
+    "Pedido de ajuda"
+   ],
+   "answer": 0,
+   "explanation": "Até mais."
+  },
+  {
+   "id": "us-q-14",
+   "topic": "Small Talk e Cumprimentos",
+   "difficulty": "medio",
+   "question": "Qual assunto é mais seguro em small talk?",
+   "options": [
+    "Salário",
+    "Clima",
+    "Política",
+    "Religião"
+   ],
+   "answer": 1,
+   "explanation": "Clima é neutro."
+  },
+  {
+   "id": "us-q-15",
+   "topic": "Small Talk e Cumprimentos",
+   "difficulty": "medio",
+   "question": "'Can't complain' significa:",
+   "options": [
+    "Não posso falar",
+    "Estou reclamando",
+    "Tudo bem",
+    "Estou doente"
+   ],
+   "answer": 2,
+   "explanation": "Resposta positiva e casual."
+  },
+  {
+   "id": "us-q-16",
+   "topic": "Pedindo Comida e Café",
+   "difficulty": "facil",
+   "question": "'For here or to go?' pergunta:",
+   "options": [
+    "De onde você é?",
+    "Para quem é?",
+    "Quanto custa?",
+    "Aqui ou para levar?"
+   ],
+   "answer": 3,
+   "explanation": "Comer no local ou levar."
+  },
+  {
+   "id": "us-q-17",
+   "topic": "Pedindo Comida e Café",
+   "difficulty": "medio",
+   "question": "Nos EUA, <b>entree</b> é:",
+   "options": [
+    "Prato principal",
+    "Entrada",
+    "Sobremesa",
+    "Bebida"
+   ],
+   "answer": 0,
+   "explanation": "Falso cognato: entree = prato principal."
+  },
+  {
+   "id": "us-q-18",
+   "topic": "Pedindo Comida e Café",
+   "difficulty": "medio",
+   "question": "Gorjeta típica em restaurante com garçom nos EUA:",
+   "options": [
+    "0%",
+    "15% a 20%",
+    "1%",
+    "50%"
+   ],
+   "answer": 1,
+   "explanation": "Gorjeta é esperada."
+  },
+  {
+   "id": "us-q-19",
+   "topic": "Pedindo Comida e Café",
+   "difficulty": "facil",
+   "question": "Para pedir a conta, diga:",
+   "options": [
+    "Give me paper.",
+    "Where is my bill money?",
+    "Can we get the check, please?",
+    "The cost, now."
+   ],
+   "answer": 2,
+   "explanation": "Check = conta (EUA).",
+   "en": "Can we get the check, please?"
+  },
+  {
+   "id": "us-q-20",
+   "topic": "Pedindo Comida e Café",
+   "difficulty": "medio",
+   "question": "Qual é uma forma educada de pedir?",
+   "options": [
+    "Coffee now.",
+    "Give coffee.",
+    "I want coffee.",
+    "Can I get a coffee, please?"
+   ],
+   "answer": 3,
+   "explanation": "Can I get... + please.",
+   "en": "Can I get a coffee, please?"
+  },
+  {
+   "id": "us-q-21",
+   "topic": "Texting e Redes",
+   "difficulty": "facil",
+   "question": "<b>BTW</b> =",
+   "options": [
+    "by the way",
+    "be there Wednesday",
+    "better than water",
+    "before the week"
+   ],
+   "answer": 0,
+   "explanation": "BTW = a propósito."
+  },
+  {
+   "id": "us-q-22",
+   "topic": "Texting e Redes",
+   "difficulty": "facil",
+   "question": "<b>IDK</b> =",
+   "options": [
+    "I did know",
+    "I don't know",
+    "In design kit",
+    "I do kneel"
+   ],
+   "answer": 1,
+   "explanation": "IDK = não sei."
+  },
+  {
+   "id": "us-q-23",
+   "topic": "Texting e Redes",
+   "difficulty": "medio",
+   "question": "<b>ETA</b> no trabalho:",
+   "options": [
+    "Tipo de arquivo",
+    "Estou atrasado",
+    "Previsão de chegada",
+    "Erro técnico"
+   ],
+   "answer": 2,
+   "explanation": "Estimated time of arrival."
+  },
+  {
+   "id": "us-q-24",
+   "topic": "Texting e Redes",
+   "difficulty": "medio",
+   "question": "<b>TBH</b> =",
+   "options": [
+    "to be happy",
+    "tell by heart",
+    "time before home",
+    "to be honest"
+   ],
+   "answer": 3,
+   "explanation": "TBH = sendo sincero."
+  },
+  {
+   "id": "us-q-25",
+   "topic": "Texting e Redes",
+   "difficulty": "medio",
+   "question": "<b>TL;DR</b> serve para:",
+   "options": [
+    "Resumir texto longo",
+    "Pedir desculpa",
+    "Marcar reunião",
+    "Despedir"
+   ],
+   "answer": 0,
+   "explanation": "Too long; didn't read."
+  },
+  {
+   "id": "us-q-26",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "facil",
+   "question": "'<b>Actually</b>' em inglês significa:",
+   "options": [
+    "Atualmente",
+    "Na verdade",
+    "Ativamente",
+    "Realmente agora"
+   ],
+   "answer": 1,
+   "explanation": "Atualmente = currently."
+  },
+  {
+   "id": "us-q-27",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "facil",
+   "question": "'<b>Pretend</b>' significa:",
+   "options": [
+    "Pretender",
+    "Prender",
+    "Fingir",
+    "Pretexto"
+   ],
+   "answer": 2,
+   "explanation": "Pretender = intend to."
+  },
+  {
+   "id": "us-q-28",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "medio",
+   "question": "'Livraria' em inglês:",
+   "options": [
+    "library",
+    "bookshelf",
+    "bookmark",
+    "bookstore"
+   ],
+   "answer": 3,
+   "explanation": "Library = biblioteca."
+  },
+  {
+   "id": "us-q-29",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "medio",
+   "question": "'Parentes' em inglês:",
+   "options": [
+    "relatives",
+    "parents",
+    "parentals",
+    "kin parents"
+   ],
+   "answer": 0,
+   "explanation": "Parents = pais."
+  },
+  {
+   "id": "us-q-30",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "dificil",
+   "question": "'<b>Eventually</b>' significa:",
+   "options": [
+    "Eventualmente (às vezes)",
+    "No fim das contas",
+    "Talvez",
+    "Raramente"
+   ],
+   "answer": 1,
+   "explanation": "Falso cognato: eventually = no final."
+  },
+  {
+   "id": "us-q-31",
+   "topic": "Falsos Cognatos e Pegadinhas",
+   "difficulty": "dificil",
+   "question": "Nos EUA, <b>résumé</b> é:",
+   "options": [
+    "Resumo",
+    "Retomada",
+    "Currículo",
+    "Relatório"
+   ],
+   "answer": 2,
+   "explanation": "Resume (sem acento) = retomar."
+  },
+  {
+   "id": "us-q-32",
+   "topic": "Telefone e Trabalho Informal",
+   "difficulty": "facil",
+   "question": "Em videochamada, alguém diz 'You're on mute'. Significa:",
+   "options": [
+    "Você está atrasado",
+    "Você está sem internet",
+    "Sua câmera está desligada",
+    "Seu microfone está desligado"
+   ],
+   "answer": 3,
+   "explanation": "mute = sem som."
+  },
+  {
+   "id": "us-q-33",
+   "topic": "Telefone e Trabalho Informal",
+   "difficulty": "medio",
+   "question": "'Thanks for the <b>heads-up</b>' agradece:",
+   "options": [
+    "Um aviso antecipado",
+    "Um presente",
+    "Uma carona",
+    "Um elogio"
+   ],
+   "answer": 0,
+   "explanation": "heads-up = aviso."
+  },
+  {
+   "id": "us-q-34",
+   "topic": "Telefone e Trabalho Informal",
+   "difficulty": "medio",
+   "question": "'Let's <b>circle back</b> next week' quer dizer:",
+   "options": [
+    "Dar a volta no quarteirão",
+    "Retomar o assunto",
+    "Cancelar",
+    "Voltar para casa"
+   ],
+   "answer": 1,
+   "explanation": "circle back = retomar depois."
+  },
+  {
+   "id": "us-q-35",
+   "topic": "Telefone e Trabalho Informal",
+   "difficulty": "dificil",
+   "question": "'I don't have the <b>bandwidth</b>' no trabalho:",
+   "options": [
+    "Minha internet caiu",
+    "Não tenho dinheiro",
+    "Não tenho disponibilidade",
+    "Não entendi"
+   ],
+   "answer": 2,
+   "explanation": "bandwidth = capacidade de assumir tarefas."
+  },
+  {
+   "id": "us-q-36",
+   "topic": "Telefone e Trabalho Informal",
+   "difficulty": "medio",
+   "question": "Para pedir tempo em uma ligação:",
+   "options": [
+    "Hang on a bucks.",
+    "Wait me.",
+    "Stop the call.",
+    "Hold on a second."
+   ],
+   "answer": 3,
+   "explanation": "Hold on = espera.",
+   "en": "Hold on a second."
+  },
+  {
+   "id": "us-q-37",
+   "topic": "Diálogos do Dia a Dia",
+   "difficulty": "facil",
+   "question": "Na loja, 'Can I help you find anything?' Boa resposta:",
+   "options": [
+    "I'm just looking, thanks.",
+    "I'm fine, I'm from Brazil.",
+    "Yes, I am a store.",
+    "No, you cannot."
+   ],
+   "answer": 0,
+   "explanation": "Resposta padrão para quem só está olhando.",
+   "en": "I'm just looking, thanks."
+  },
+  {
+   "id": "us-q-38",
+   "topic": "Diálogos do Dia a Dia",
+   "difficulty": "facil",
+   "question": "'<b>Sounds good!</b>' é uma resposta para:",
+   "options": [
+    "Recusar um plano",
+    "Aceitar um plano",
+    "Pedir desculpa",
+    "Se despedir"
+   ],
+   "answer": 1,
+   "explanation": "Aceita proposta."
+  },
+  {
+   "id": "us-q-39",
+   "topic": "Diálogos do Dia a Dia",
+   "difficulty": "medio",
+   "question": "'<b>I'll take it</b>' numa loja significa:",
+   "options": [
+    "Vou roubar",
+    "Vou pensar",
+    "Vou levar",
+    "Vou devolver"
+   ],
+   "answer": 2,
+   "explanation": "Decisão de compra."
+  },
+  {
+   "id": "us-q-40",
+   "topic": "Diálogos do Dia a Dia",
+   "difficulty": "medio",
+   "question": "'Sorry I'm late!' Resposta natural:",
+   "options": [
+    "Yes, you are.",
+    "That's a lie.",
+    "Late is bad.",
+    "No worries!"
+   ],
+   "answer": 3,
+   "explanation": "No worries = sem problemas.",
+   "en": "No worries!"
+  },
+  {
+   "id": "us-q-41",
+   "topic": "Diálogos do Dia a Dia",
+   "difficulty": "medio",
+   "question": "'<b>How about seven?</b>' é:",
+   "options": [
+    "Uma sugestão de horário",
+    "Uma pergunta sobre idade",
+    "Uma despedida",
+    "Um elogio"
+   ],
+   "answer": 0,
+   "explanation": "How about = que tal."
+  },
+  {
+   "id": "us-q-42",
+   "topic": "Reações e Emoções",
+   "difficulty": "facil",
+   "question": "Seu amigo passou na prova. Você diz:",
+   "options": [
+    "That sucks.",
+    "Congrats!",
+    "Hang in there.",
+    "My bad."
+   ],
+   "answer": 1,
+   "explanation": "Congrats = parabéns.",
+   "en": "Congrats!"
+  },
+  {
+   "id": "us-q-43",
+   "topic": "Reações e Emoções",
+   "difficulty": "facil",
+   "question": "'<b>That sucks</b>' expressa:",
+   "options": [
+    "Alegria",
+    "Fome",
+    "Pena / frustração",
+    "Surpresa boa"
+   ],
+   "answer": 2,
+   "explanation": "Informal, para coisas ruins."
+  },
+  {
+   "id": "us-q-44",
+   "topic": "Reações e Emoções",
+   "difficulty": "medio",
+   "question": "Para alguém que enfrenta fase difícil:",
+   "options": [
+    "Congrats!",
+    "Long time no see!",
+    "No way!",
+    "Hang in there."
+   ],
+   "answer": 3,
+   "explanation": "Hang in there = aguenta firme.",
+   "en": "Hang in there."
+  },
+  {
+   "id": "us-q-45",
+   "topic": "Reações e Emoções",
+   "difficulty": "medio",
+   "question": "'<b>I feel you</b>' significa:",
+   "options": [
+    "Te entendo",
+    "Eu te toco",
+    "Eu te sinto fisicamente",
+    "Eu te vejo"
+   ],
+   "answer": 0,
+   "explanation": "Empatia informal."
+  },
+  {
+   "id": "us-q-46",
+   "topic": "Reações e Emoções",
+   "difficulty": "dificil",
+   "question": "'<b>Bummer</b>' é adequado para:",
+   "options": [
+    "Perda de um familiar",
+    "Chuva no dia do piquenique",
+    "Uma promoção",
+    "Uma boa notícia"
+   ],
+   "answer": 1,
+   "explanation": "É leve, para pequenos contratempos."
+  }
+ ]
+}

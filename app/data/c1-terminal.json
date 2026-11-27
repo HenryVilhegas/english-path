@@ -1,0 +1,281 @@
+[
+ {
+  "id": "c1-t-1",
+  "topic": "Inversão",
+  "q": "Diga em inglês (com inversão): \"Nunca vi um pôr do sol tão bonito.\"",
+  "a": [
+   "^never have i seen (such )?a (beautiful|lovely|gorgeous|stunning) sunset$",
+   "^never have i seen a sunset so beautiful$"
+  ],
+  "ex": "Never have I seen such a beautiful sunset.",
+  "out": "",
+  "why": "Never + have + sujeito + particípio.",
+  "hint": "Never have I ..."
+ },
+ {
+  "id": "c1-t-2",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Mal chegamos e começou a chover.\" (No sooner...)",
+  "a": [
+   "^no sooner had we (arrived|got there) than it (started|began) to rain$"
+  ],
+  "ex": "No sooner had we arrived than it started to rain.",
+  "out": "",
+  "why": "No sooner had + sujeito + particípio + than.",
+  "hint": "No sooner had we ..."
+ },
+ {
+  "id": "c1-t-3",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Se eu soubesse, teria agido diferente.\" (inversão, sem 'if')",
+  "a": [
+   "^had i known,? i (would|'d) have (acted|done (it|things)|behaved) differently$"
+  ],
+  "ex": "Had I known, I would have acted differently.",
+  "out": "",
+  "why": "Had I known = If I had known.",
+  "hint": "Had I known, ..."
+ },
+ {
+  "id": "c1-t-4",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Ela não só venceu, como também bateu o recorde.\"",
+  "a": [
+   "^not only did she win,? but she also broke the record$"
+  ],
+  "ex": "Not only did she win, but she also broke the record.",
+  "out": "",
+  "why": "Not only + did + sujeito + verbo base.",
+  "hint": "Not only did ..."
+ },
+ {
+  "id": "c1-t-5",
+  "topic": "Cleft",
+  "q": "Diga em inglês: \"Só à meia-noite ele terminou.\" (It was not until...)",
+  "a": [
+   "^it was not until midnight that he (finished|was done)$"
+  ],
+  "ex": "It was not until midnight that he finished.",
+  "out": "",
+  "why": "It was not until ... that ...",
+  "hint": "It was not until ..."
+ },
+ {
+  "id": "c1-t-6",
+  "topic": "Cleft",
+  "q": "Diga em inglês: \"O que eu preciso é de umas longas férias.\"",
+  "a": [
+   "^what i need is a long (vacation|holiday)$"
+  ],
+  "ex": "What I need is a long vacation.",
+  "out": "",
+  "why": "Wh-cleft: What I need is...",
+  "hint": "What I need ..."
+ },
+ {
+  "id": "c1-t-7",
+  "topic": "Cleft",
+  "q": "Diga em inglês: \"Sugiro que ela seja pontual.\" (subjuntivo)",
+  "a": [
+   "^i suggest (that )?she be (on time|punctual)$"
+  ],
+  "ex": "I suggest that she be on time.",
+  "out": "",
+  "why": "suggest + that + sujeito + verbo base.",
+  "hint": "I suggest that she ..."
+ },
+ {
+  "id": "c1-t-8",
+  "topic": "Collocations",
+  "q": "Diga em inglês: \"Precisamos tomar uma decisão até segunda.\"",
+  "a": [
+   "^we (need|have|must) to make a decision (by|before) monday$",
+   "^we need to reach a decision (by|before) monday$"
+  ],
+  "ex": "We need to make a decision by Monday.",
+  "out": "",
+  "why": "make a decision (não 'do').",
+  "hint": "We need to make ..."
+ },
+ {
+  "id": "c1-t-9",
+  "topic": "Collocations",
+  "q": "Diga em inglês: \"Fiz o meu melhor para terminar a tempo.\"",
+  "a": [
+   "^i did my best to finish on time$"
+  ],
+  "ex": "I did my best to finish on time.",
+  "out": "",
+  "why": "do one's best.",
+  "hint": "I did my best ..."
+ },
+ {
+  "id": "c1-t-10",
+  "topic": "Hedging",
+  "q": "Diga em inglês (diplomático): \"Posso estar enganado, mas acho que há um erro aqui.\"",
+  "a": [
+   "^i might be (mistaken|wrong),? but i think (there is|there's|there may be|there might be) (an error|a mistake) here$"
+  ],
+  "ex": "I might be mistaken, but I think there's an error here.",
+  "out": "",
+  "why": "Hedging suaviza a crítica.",
+  "hint": "I might be ..."
+ },
+ {
+  "id": "c1-t-11",
+  "topic": "Hedging",
+  "q": "Diga em inglês: \"Eu adoraria, mas receio não poder ir.\"",
+  "a": [
+   "^i('d| would) love to,? but i('m| am) afraid i (can't|cannot|can not) (make it|come|go)$"
+  ],
+  "ex": "I'd love to, but I'm afraid I can't make it.",
+  "out": "",
+  "why": "Recusa educada: I'd love to, but...",
+  "hint": "I'd love to, but ..."
+ },
+ {
+  "id": "c1-t-12",
+  "topic": "Vocabulário",
+  "q": "Diga em inglês: \"Na verdade, eu estou ocupado agora.\" (cuidado com o falso cognato)",
+  "a": [
+   "^actually,? i('m| am) busy (right )?now$",
+   "^i('m| am) actually busy (right )?now$"
+  ],
+  "ex": "Actually, I'm busy right now.",
+  "out": "",
+  "why": "actually = na verdade; atualmente = currently.",
+  "hint": "Actually, ..."
+ },
+ {
+  "id": "c1-t-13",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Raramente vemos tanta gentileza.\" (Rarely...)",
+  "a": [
+   "^rarely do we see (such|this) (kindness|generosity)$"
+  ],
+  "ex": "Rarely do we see such kindness.",
+  "out": "",
+  "why": "Rarely + do + sujeito.",
+  "hint": "Rarely do ..."
+ },
+ {
+  "id": "c1-t-14",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Só então percebi meu erro.\" (Only then...)",
+  "a": [
+   "^only then did i (realize|realise|notice) my (mistake|error)$"
+  ],
+  "ex": "Only then did I realize my mistake.",
+  "out": "",
+  "why": "Only then + did + sujeito.",
+  "hint": "Only then did ..."
+ },
+ {
+  "id": "c1-t-15",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Caso algo aconteça, me avise.\" (Should...)",
+  "a": [
+   "^should (anything|something) (happen|go wrong),? (let me know|tell me|call me)$"
+  ],
+  "ex": "Should anything happen, let me know.",
+  "out": "",
+  "why": "Should + sujeito = if formal.",
+  "hint": "Should anything ..."
+ },
+ {
+  "id": "c1-t-16",
+  "topic": "Inversão",
+  "q": "Diga em inglês: \"Se eu estivesse na sua posição, não aceitaria.\" (Were I...)",
+  "a": [
+   "^were i in your (position|shoes),? i would not (accept|take it)$"
+  ],
+  "ex": "Were I in your position, I wouldn't accept.",
+  "out": "",
+  "why": "Were I + ... = if I were.",
+  "hint": "Were I in ..."
+ },
+ {
+  "id": "c1-t-17",
+  "topic": "Cleft",
+  "q": "Diga em inglês: \"Foi o gerente quem tomou a decisão.\" (It was...)",
+  "a": [
+   "^it was the manager who made the decision$"
+  ],
+  "ex": "It was the manager who made the decision.",
+  "out": "",
+  "why": "It was X who...",
+  "hint": "It was the manager ..."
+ },
+ {
+  "id": "c1-t-18",
+  "topic": "Cleft",
+  "q": "Diga em inglês: \"O que me preocupa é o prazo.\" (What...)",
+  "a": [
+   "^what worries me is the (deadline|timeline|schedule)$"
+  ],
+  "ex": "What worries me is the deadline.",
+  "out": "",
+  "why": "What + oração + is.",
+  "hint": "What worries ..."
+ },
+ {
+  "id": "c1-t-19",
+  "topic": "Hedging",
+  "q": "Diga em inglês: \"Parece que pode haver um problema.\"",
+  "a": [
+   "^it seems (that )?there (may be|might be|is) (a problem|an issue)$"
+  ],
+  "ex": "It seems that there may be a problem.",
+  "out": "",
+  "why": "Hedging suaviza.",
+  "hint": "It seems that ..."
+ },
+ {
+  "id": "c1-t-20",
+  "topic": "Registro",
+  "q": "Diga em inglês: \"Eu agradeceria uma resposta rápida.\"",
+  "a": [
+   "^i would appreciate a (quick|prompt|swift) (reply|response)$"
+  ],
+  "ex": "I would appreciate a prompt response.",
+  "out": "",
+  "why": "Formal e educado.",
+  "hint": "I would appreciate ..."
+ },
+ {
+  "id": "c1-t-21",
+  "topic": "Nuances",
+  "q": "Diga em inglês: \"Em retrospectiva, eu deveria ter aceitado.\"",
+  "a": [
+   "^in hindsight,? i should have (accepted|said yes)$"
+  ],
+  "ex": "In hindsight, I should have accepted.",
+  "out": "",
+  "why": "should have + particípio.",
+  "hint": "In hindsight, ..."
+ },
+ {
+  "id": "c1-t-22",
+  "topic": "Estruturas",
+  "q": "Diga em inglês: \"Quanto mais estudo, mais aprendo.\"",
+  "a": [
+   "^the more i study,? the more i learn$"
+  ],
+  "ex": "The more I study, the more I learn.",
+  "out": "",
+  "why": "The + comparativo, the + comparativo.",
+  "hint": "The more ..."
+ },
+ {
+  "id": "c1-t-23",
+  "topic": "Hedging",
+  "q": "Diga em inglês: \"Ele dificilmente chegará a tempo.\"",
+  "a": [
+   "^he is unlikely to (arrive|get here|make it) on time$"
+  ],
+  "ex": "He's unlikely to arrive on time.",
+  "out": "",
+  "why": "unlikely to = improvável.",
+  "hint": "He's unlikely ..."
+ }
+]

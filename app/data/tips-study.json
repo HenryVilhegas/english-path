@@ -1,0 +1,61 @@
+{
+ "level": "Dicas",
+ "sections": [
+  {
+   "title": "Pares Mínimos (Minimal Pairs)",
+   "blocks": [
+    {
+     "list": [
+      "Pares mínimos são duas palavras que mudam de sentido por <b>um único som</b>. O ouvido brasileiro costuma não distinguir alguns desses sons, porque não existem (ou não mudam sentido) em português."
+     ]
+    },
+    {
+     "say": [
+      "ship | navio | chip",
+      "sheep | ovelha | chíp",
+      "bad | mau, ruim | béd",
+      "bed | cama | béd (mais fechado, quase 'bêd')",
+      "three | três | thrí (th surdo, língua entre os dentes)",
+      "tree | árvore | trí",
+      "cat | gato | két",
+      "cut | cortar | kât"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Números e Datas Falados",
+   "blocks": [
+    {
+     "list": [
+      "Americanos falam números grandes, anos, horas e preços de um jeito que não é a tradução literal do português. Aprender esses padrões evita travar numa cena muito comum do dia a dia."
+     ]
+    },
+    {
+     "say": [
+      "It's fifteen hundred dollars. | São 1.500 dólares. | its FIF-tin RÂN-dred DÁ-lers",
+      "I was born in nineteen ninety-nine. | Nasci em 1999. | ai uóz born in náin-tín NÁIN-ti-náin",
+      "It's three fifteen. | São 3h15. | its thrí fif-TÍN",
+      "That's nineteen ninety-nine. | Isso é 19,99. | déts náin-tín NÁIN-ti-náin"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Entonação: Pergunta vs Afirmação",
+   "blocks": [
+    {
+     "list": [
+      "A <b>entonação</b> (subida ou queda da voz no final da frase) muda o sentido de uma pergunta em inglês tanto quanto a gramática. Ignorar isso faz a frase sonar estranha, mesmo gramaticalmente correta."
+     ]
+    },
+    {
+     "say": [
+      "Are you coming? ↗ | Você vai vir? (sim/não, sobe) | ar iú KÂ-ming",
+      "Where are you going? ↘ | Aonde você vai? (wh-, desce) | uér ar iú GÔU-ing"
+     ]
+    }
+   ]
+  }
+ ]
+}

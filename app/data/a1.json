@@ -1,0 +1,412 @@
+{
+ "level": "A1",
+ "name": "A1 · Iniciante",
+ "description": "Do zero: se apresentar, verbo to be, cumprimentos, números e horas, família e casa, rotina no present simple e perguntas básicas.",
+ "flashcards": [
+  {
+   "id": "a1-fc-1",
+   "topic": "Verbo To Be e Apresentações",
+   "front": "Como se diz <b>'Eu sou Ana'</b>?",
+   "back": "<b>I am Ana.</b> / I'm Ana. Contrações são normais no dia a dia.",
+   "en": "I'm Ana.",
+   "syl": "aim Â-nâ"
+  },
+  {
+   "id": "a1-fc-2",
+   "topic": "Verbo To Be e Apresentações",
+   "front": "Conjugação do <b>to be</b> no presente.",
+   "back": "I <b>am</b> · you <b>are</b> · he/she/it <b>is</b> · we <b>are</b> · you <b>are</b> · they <b>are</b>.",
+   "en": "I am, you are, he is, she is, it is, we are, they are.",
+   "syl": "ai âm, iú ar, ri iz, chi iz, it iz, uí ar, dêi ar"
+  },
+  {
+   "id": "a1-fc-3",
+   "topic": "Verbo To Be e Apresentações",
+   "front": "Como dizer a <b>idade</b>: 'Eu tenho 25 anos'?",
+   "back": "<b>I am 25 (years old).</b> Em inglês usa-se <b>to be</b>, nunca 'have'.",
+   "en": "I'm twenty-five years old.",
+   "syl": "aim TUÉN-ti-fáiv IÉRS ôuld"
+  },
+  {
+   "id": "a1-fc-4",
+   "topic": "Verbo To Be e Apresentações",
+   "front": "Como perguntar <b>'De onde você é?'</b>",
+   "back": "<b>Where are you from?</b> Resposta: I'm from Brazil.",
+   "en": "Where are you from?",
+   "syl": "uér ar iú fróm"
+  },
+  {
+   "id": "a1-fc-5",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "front": "<b>Good morning, afternoon, evening</b>: quando usar?",
+   "back": "Morning = até o meio-dia · afternoon = até ~17h · evening = noite (ao chegar). <b>Good night</b> é só para despedida/dormir.",
+   "en": "Good morning! Good afternoon! Good evening!",
+   "syl": "gud MÓR-ning · gud éf-ter-NÚN · gud ÍV-ning"
+  },
+  {
+   "id": "a1-fc-6",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "front": "Como pedir para <b>repetir</b>?",
+   "back": "<b>Sorry, can you repeat that, please?</b> / Pardon? / Could you say that again?",
+   "en": "Sorry, can you repeat that, please?",
+   "syl": "SÓ-ri, kén iú ri-PÍT dét plíz"
+  },
+  {
+   "id": "a1-fc-7",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "front": "Como dizer <b>'Eu não entendo'</b>?",
+   "back": "<b>I don't understand.</b> Também: 'I don't speak English very well.'",
+   "en": "I don't understand.",
+   "syl": "ai dôunt ân-der-STÉND"
+  },
+  {
+   "id": "a1-fc-8",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "front": "<b>Excuse me</b> × <b>Sorry</b>.",
+   "back": "<b>Excuse me</b> = com licença / para chamar atenção. <b>Sorry</b> = desculpe (quando você errou ou esbarrou).",
+   "en": "Excuse me, where is the bathroom?",
+   "syl": "ex-KIÚZ mi, uér iz dâ BÉTH-rum"
+  },
+  {
+   "id": "a1-fc-9",
+   "topic": "Números, Dias e Horas",
+   "front": "Números de 1 a 10 em inglês.",
+   "back": "one, two, three, four, five, six, seven, eight, nine, ten.",
+   "en": "One, two, three, four, five, six, seven, eight, nine, ten.",
+   "syl": "uân, tu, trí, fór, fáiv, siks, SÉ-ven, êit, náin, tén"
+  },
+  {
+   "id": "a1-fc-10",
+   "topic": "Números, Dias e Horas",
+   "front": "Como perguntar as <b>horas</b>?",
+   "back": "<b>What time is it?</b> Resposta: It's three o'clock. / It's 3:30.",
+   "en": "What time is it?",
+   "syl": "uót táim iz it"
+  },
+  {
+   "id": "a1-fc-11",
+   "topic": "Números, Dias e Horas",
+   "front": "Os dias da semana.",
+   "back": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. <b>Sempre com maiúscula.</b>",
+   "en": "Monday, Tuesday, Wednesday, Thursday, Friday.",
+   "syl": "MÂN-dei, TIÚZ-dei, UÉNZ-dei, THÉRZ-dei, FRÁI-dei"
+  },
+  {
+   "id": "a1-fc-12",
+   "topic": "Família, Casa e Objetos",
+   "front": "<b>Mother, father, sister, brother</b>.",
+   "back": "mãe, pai, irmã, irmão. Abreviações: <b>mom/dad</b> (EUA).",
+   "en": "This is my mom, my dad, my sister, and my brother.",
+   "syl": "dis iz mai mâm, mai déd, mai SIS-ter, end mai BRÂ-der"
+  },
+  {
+   "id": "a1-fc-13",
+   "topic": "Família, Casa e Objetos",
+   "front": "<b>This</b> × <b>That</b> × <b>These</b> × <b>Those</b>.",
+   "back": "this/these = perto (singular/plural) · that/those = longe (singular/plural).",
+   "en": "This is my house, and that is your car.",
+   "syl": "dis iz mai ráus, end dét iz iór kar"
+  },
+  {
+   "id": "a1-fc-14",
+   "topic": "Present Simple e Rotina",
+   "front": "Present simple com <b>he/she/it</b>.",
+   "back": "Verbo + <b>-s</b> (works, plays). Termina em -s, -sh, -ch, -x, -o → <b>-es</b> (watches, goes). Consoante + y → <b>-ies</b> (study → studies).",
+   "en": "She works, he watches TV, it goes fast.",
+   "syl": "chi UÉRKS, ri UÓ-tchâz TI-VÍ, it GÔUZ fést"
+  },
+  {
+   "id": "a1-fc-15",
+   "topic": "Present Simple e Rotina",
+   "front": "Negativa e pergunta no present simple.",
+   "back": "I/you/we/they: <b>don't</b> + verbo. He/she/it: <b>doesn't</b> + verbo. Pergunta: <b>Do/Does</b> + sujeito + verbo?",
+   "en": "Do you like coffee? No, I don't.",
+   "syl": "du iú laik KÓ-fi · nôu, ai dôunt"
+  },
+  {
+   "id": "a1-fc-16",
+   "topic": "Present Simple e Rotina",
+   "front": "Advérbios de frequência.",
+   "back": "always · usually · often · sometimes · rarely · never. Ficam <b>antes do verbo principal</b> e depois do to be.",
+   "en": "I usually wake up at seven.",
+   "syl": "ai IÚ-ju-â-li uêik âp ét SÉ-ven"
+  },
+  {
+   "id": "a1-fc-17",
+   "topic": "Perguntas Básicas (Wh-)",
+   "front": "Palavras de pergunta: <b>what, where, when, who, why, how</b>.",
+   "back": "o quê · onde · quando · quem · por quê · como.",
+   "en": "What, where, when, who, why, how.",
+   "syl": "uót, uér, uén, ru, uái, rau"
+  },
+  {
+   "id": "a1-fc-18",
+   "topic": "Perguntas Básicas (Wh-)",
+   "front": "Como perguntar <b>quanto custa</b>?",
+   "back": "<b>How much is it?</b> / How much are they? (plural).",
+   "en": "How much is this?",
+   "syl": "rau mâtch iz dis"
+  }
+ ],
+ "questions": [
+  {
+   "id": "a1-q-1",
+   "topic": "Verbo To Be e Apresentações",
+   "difficulty": "facil",
+   "question": "They ___ my friends.",
+   "options": [
+    "is",
+    "am",
+    "are",
+    "be"
+   ],
+   "answer": 2,
+   "explanation": "They + <b>are</b>.",
+   "en": "They are my friends."
+  },
+  {
+   "id": "a1-q-2",
+   "topic": "Verbo To Be e Apresentações",
+   "difficulty": "facil",
+   "question": "Como se diz corretamente a sua idade (28)?",
+   "options": [
+    "I have 28 years.",
+    "I am 28.",
+    "I am have 28.",
+    "I has 28 years old."
+   ],
+   "answer": 1,
+   "explanation": "Idade = to be: <b>I am 28</b> (years old)."
+  },
+  {
+   "id": "a1-q-3",
+   "topic": "Verbo To Be e Apresentações",
+   "difficulty": "facil",
+   "question": "Escolha a forma negativa correta: He ___ a doctor.",
+   "options": [
+    "isn't",
+    "aren't",
+    "don't",
+    "amn't"
+   ],
+   "answer": 0,
+   "explanation": "He is → he <b>isn't</b> (is not).",
+   "en": "He isn't a doctor."
+  },
+  {
+   "id": "a1-q-4",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "difficulty": "facil",
+   "question": "Você chega a uma reunião às 19h. O que diz?",
+   "options": [
+    "Good night!",
+    "Good evening!",
+    "Good morning!",
+    "Good afternoon!"
+   ],
+   "answer": 1,
+   "explanation": "À noite, ao chegar: <b>Good evening</b>. 'Good night' é despedida."
+  },
+  {
+   "id": "a1-q-5",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "difficulty": "facil",
+   "question": "Você não entendeu. Qual frase é adequada?",
+   "options": [
+    "Sorry, can you repeat that, please?",
+    "Thank you, goodbye.",
+    "I am hungry.",
+    "See you tomorrow."
+   ],
+   "answer": 0,
+   "explanation": "Pedir para repetir é essencial no A1.",
+   "en": "Sorry, can you repeat that, please?"
+  },
+  {
+   "id": "a1-q-6",
+   "topic": "Cumprimentos e Frases de Sobrevivência",
+   "difficulty": "facil",
+   "question": "Você esbarrou em alguém. O que diz?",
+   "options": [
+    "Excuse me.",
+    "Sorry!",
+    "Welcome!",
+    "Please."
+   ],
+   "answer": 1,
+   "explanation": "Por erro/esbarrão: <b>Sorry</b>. 'Excuse me' é para chamar atenção ou passar."
+  },
+  {
+   "id": "a1-q-7",
+   "topic": "Números, Dias e Horas",
+   "difficulty": "facil",
+   "question": "What number comes after nine?",
+   "options": [
+    "eight",
+    "ten",
+    "eleven",
+    "seven"
+   ],
+   "answer": 1,
+   "explanation": "nine → <b>ten</b>."
+  },
+  {
+   "id": "a1-q-8",
+   "topic": "Números, Dias e Horas",
+   "difficulty": "facil",
+   "question": "Qual é o dia depois de Friday?",
+   "options": [
+    "Sunday",
+    "Thursday",
+    "Saturday",
+    "Monday"
+   ],
+   "answer": 2,
+   "explanation": "Friday → <b>Saturday</b>."
+  },
+  {
+   "id": "a1-q-9",
+   "topic": "Números, Dias e Horas",
+   "difficulty": "facil",
+   "question": "Como se pergunta as horas?",
+   "options": [
+    "What hour is it?",
+    "What time is it?",
+    "How time is it?",
+    "Which time are?"
+   ],
+   "answer": 1,
+   "explanation": "<b>What time is it?</b>",
+   "en": "What time is it?"
+  },
+  {
+   "id": "a1-q-10",
+   "topic": "Família, Casa e Objetos",
+   "difficulty": "facil",
+   "question": "My father's wife is my ___.",
+   "options": [
+    "sister",
+    "mother",
+    "daughter",
+    "aunt"
+   ],
+   "answer": 1,
+   "explanation": "A esposa do meu pai = minha <b>mother</b> (mãe)."
+  },
+  {
+   "id": "a1-q-11",
+   "topic": "Família, Casa e Objetos",
+   "difficulty": "facil",
+   "question": "___ are my keys. (estão perto de você)",
+   "options": [
+    "This",
+    "That",
+    "These",
+    "Those"
+   ],
+   "answer": 2,
+   "explanation": "Perto + plural = <b>these</b>."
+  },
+  {
+   "id": "a1-q-12",
+   "topic": "Família, Casa e Objetos",
+   "difficulty": "facil",
+   "question": "Where is the TV? In the ___.",
+   "options": [
+    "living room",
+    "kitchen sink",
+    "garden hose",
+    "bathroom door"
+   ],
+   "answer": 0,
+   "explanation": "TV fica na <b>living room</b> (sala de estar)."
+  },
+  {
+   "id": "a1-q-13",
+   "topic": "Present Simple e Rotina",
+   "difficulty": "facil",
+   "question": "She ___ English every day.",
+   "options": [
+    "study",
+    "studies",
+    "studys",
+    "studying"
+   ],
+   "answer": 1,
+   "explanation": "Consoante + y → <b>-ies</b>: studies.",
+   "en": "She studies English every day."
+  },
+  {
+   "id": "a1-q-14",
+   "topic": "Present Simple e Rotina",
+   "difficulty": "facil",
+   "question": "He ___ like spicy food.",
+   "options": [
+    "don't",
+    "doesn't",
+    "isn't",
+    "not"
+   ],
+   "answer": 1,
+   "explanation": "He/she/it → <b>doesn't</b> + verbo base."
+  },
+  {
+   "id": "a1-q-15",
+   "topic": "Present Simple e Rotina",
+   "difficulty": "facil",
+   "question": "I ___ drink coffee. (nunca)",
+   "options": [
+    "never",
+    "always",
+    "usually",
+    "often"
+   ],
+   "answer": 0,
+   "explanation": "<b>never</b> = nunca. Vem antes do verbo principal."
+  },
+  {
+   "id": "a1-q-16",
+   "topic": "Perguntas Básicas (Wh-)",
+   "difficulty": "facil",
+   "question": "___ do you live? In Rio.",
+   "options": [
+    "Who",
+    "Where",
+    "When",
+    "Why"
+   ],
+   "answer": 1,
+   "explanation": "<b>Where</b> = onde.",
+   "en": "Where do you live?"
+  },
+  {
+   "id": "a1-q-17",
+   "topic": "Perguntas Básicas (Wh-)",
+   "difficulty": "facil",
+   "question": "___ is your name?",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "How"
+   ],
+   "answer": 0,
+   "explanation": "'What is your name?' = Qual é o seu nome?",
+   "en": "What is your name?"
+  },
+  {
+   "id": "a1-q-18",
+   "topic": "Perguntas Básicas (Wh-)",
+   "difficulty": "facil",
+   "question": "___ is that woman? She's my teacher.",
+   "options": [
+    "Who",
+    "What",
+    "Where",
+    "How much"
+   ],
+   "answer": 0,
+   "explanation": "<b>Who</b> = quem (pessoa)."
+  }
+ ]
+}

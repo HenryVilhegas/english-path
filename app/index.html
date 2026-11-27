@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#ee3124" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon-192.png" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <title>English Path · A1 a C1 + inglês americano</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="terminal.css" />
+  <link rel="stylesheet" href="path.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🗣️</span>
+      <div class="brand-text">
+        <h1>English Path</h1>
+        <p class="subtitle">Do A1 ao C1 + inglês de verdade dos EUA · explicações em PT-BR, frases em inglês com áudio</p>
+      </div>
+    </div>
+    <div class="path-stats">
+      <span id="pathXpTop">⭐ 0 XP</span>
+      <span id="pathStreakTop">🔥 0</span>
+    </div>
+    <nav class="levels" id="levelNav"></nav>
+  </header>
+
+  <main>
+    <!-- TRILHA (mapa de lições) -->
+    <section id="view-path" class="view">
+      <div class="level-head">
+        <h2>🗺️ Trilha A1 → C1</h2>
+        <p class="muted">Complete as lições em ordem. Cada uma libera a próxima.</p>
+      </div>
+      <div class="path-stats-row">
+        <span id="pathXp">⭐ 0 XP</span>
+        <span id="pathStreak">🔥 0 dias</span>
+      </div>
+      <div class="progress-row">
+        <span id="pathProgressText">0/0 lições concluídas</span>
+      </div>
+      <div class="bar"><div id="pathProgressBar" class="bar-fill"></div></div>
+      <div id="pathMap" class="path-map"></div>
+      <p class="kbd-hint">Os módulos extras (Inglês de Rua, Phrasal Verbs, Dicas) ficam em "Mais", sem precisar seguir a ordem.</p>
+    </section>
+
+    <!-- LIÇÃO (resumo + botão para o mini-quiz) -->
+    <section id="view-lesson" class="view">
+      <button class="back" id="pathBackBtn" data-back>← Voltar à trilha</button>
+      <div class="level-head">
+        <h2 id="lessonTitle">—</h2>
+      </div>
+      <div id="lessonBody" class="lesson-body"></div>
+      <button class="btn" id="lessonStartQuiz">Fazer o mini-quiz</button>
+    </section>
+
+    <!-- HOME (módulo livre: estudo, flashcards, quiz, simulado...) -->
+    <section id="view-home" class="view">
+      <div class="level-head">
+        <h2 id="levelTitle">—</h2>
+        <p id="levelDesc" class="muted"></p>
+      </div>
+
+      <div class="tip-card" id="tipCard" style="display:none">
+        <span class="tip-ico">💡</span>
+        <div class="tip-body"><b>Dica do dia</b><p id="tipText"></p></div>
+        <button class="link-btn" id="tipNext">outra dica</button>
+      </div>
+
+      <div class="tip-card" id="placementCard" style="display:none">
+        <span class="tip-ico">🎯</span>
+        <div class="tip-body"><b>Descobrir meu nível</b><p>Teste único com todas as seções (A1 a C1), sem feedback durante a prova. No fim você vê o nível estimado.</p></div>
+        <button class="btn small" id="placementBtn">Começar</button>
+      </div>
+      <div class="progress-card">
+        <div class="progress-row">
+          <span>Seções estudadas</span>
+          <span id="statStudy">—</span>
+        </div>
+        <div class="bar"><div id="barStudy" class="bar-fill"></div></div>
+        <div class="progress-row">
+          <span>Flashcards dominados</span>
+          <span id="statFlash">0/0</span>
+        </div>
+        <div class="bar"><div id="barFlash" class="bar-fill"></div></div>
+        <div class="progress-row">
+          <span>Melhor acerto no quiz</span>
+          <span id="statQuiz">—</span>
+        </div>
+        <div class="progress-row">
+          <span>Melhor simulado</span>
+          <span id="statExam">—</span>
+        </div>
+      </div>
+
+      <div class="history-card" id="historyCard" style="display:none">
+        <div class="history-head">
+          <span>Tentativas recentes</span>
+          <button class="link-btn" id="clearHistory">Limpar</button>
+        </div>
+        <div id="historyList"></div>
+      </div>
+
+      <div class="mode-grid">
+        <button class="mode-card" data-mode="study">
+          <span class="mode-ico">📖</span>
+          <h3>Estudar (resumo)</h3>
+          <p>Resumo direto dos tópicos, pra revisão rápida.</p>
+        </button>
+        <button class="mode-card" data-mode="study-deep">
+          <span class="mode-ico">📚</span>
+          <h3>Estudar a fundo</h3>
+          <p>Explicações detalhadas, exemplos e pegadinhas de prova.</p>
+        </button>
+        <button class="mode-card" data-mode="flashcards">
+          <span class="mode-ico">🃏</span>
+          <h3>Flashcards</h3>
+          <p>Vire a carta e marque se acertou.</p>
+        </button>
+        <button class="mode-card" data-mode="quiz">
+          <span class="mode-ico">❓</span>
+          <h3>Quiz</h3>
+          <p>Feedback imediato a cada questão.</p>
+        </button>
+        <button class="mode-card" data-mode="terminal">
+          <span class="mode-ico">✍️</span>
+          <h3>Escrever em inglês</h3>
+          <p>Traduza e escreva as frases em inglês.</p>
+        </button>
+        <button class="mode-card" data-mode="audio">
+          <span class="mode-ico">🎧</span>
+          <h3>Escutar e falar</h3>
+          <p>Ouça e escolha, faça ditado e treine a pronúncia.</p>
+        </button>
+        <button class="mode-card" data-mode="exam">
+          <span class="mode-ico">⏱️</span>
+          <h3>Simulado</h3>
+          <p>Cronometrado, correção no final.</p>
+        </button>
+      </div>
+      <button class="link-btn" id="resetProgress">Zerar progresso deste nível</button>
+    </section>
+
+    <!-- EXAM CONFIG -->
+    <section id="view-examconfig" class="view">
+      <button class="back" data-back>← Voltar</button>
+      <div class="level-head">
+        <h2>Configurar simulado</h2>
+        <p class="muted">Escolha a dificuldade e quantas questões você quer responder.</p>
+      </div>
+
+      <div class="config-card">
+        <div class="config-group">
+          <label class="config-label">Dificuldade</label>
+          <div class="config-options" id="cfgDifficulty">
+            <button class="config-chip active" data-diff="todas">Todas</button>
+            <button class="config-chip" data-diff="facil">Fácil</button>
+            <button class="config-chip" data-diff="medio">Médio</button>
+            <button class="config-chip" data-diff="dificil">Difícil</button>
+          </div>
+        </div>
+
+        <div class="config-group">
+          <label class="config-label">Quantidade de questões</label>
+          <div class="config-options" id="cfgAmount"></div>
+          <p class="config-hint" id="cfgAvail"></p>
+        </div>
+
+        <button class="btn" id="startExamBtn">Começar simulado</button>
+      </div>
+    </section>
+
+    <!-- STUDY -->
+    <section id="view-study" class="view">
+      <button class="back" data-back>← Voltar</button>
+      <div id="studyContent"></div>
+    </section>
+
+    <!-- FLASHCARD TOPIC PICKER -->
+    <section id="view-flashtopics" class="view">
+      <button class="back" data-back>← Voltar</button>
+      <div class="level-head">
+        <h2>Flashcards</h2>
+        <p class="muted">Escolha um tópico ou estude o baralho completo.</p>
+      </div>
+      <div class="topic-list" id="flashTopicList"></div>
+    </section>
+
+    <!-- FLASHCARDS -->
+    <section id="view-flashcards" class="view">
+      <button class="back" data-back-flash>← Voltar</button>
+      <div class="counter" id="flashCounter"></div>
+      <div class="flashcard" id="flashcard">
+        <div class="flash-inner">
+          <div class="flash-face flash-front"><div id="flashFront"></div><span class="tap">clique para virar</span></div>
+          <div class="flash-face flash-back"><div id="flashBack"></div></div>
+        </div>
+      </div>
+      <div class="flash-actions">
+        <button class="btn ghost" id="flashMiss">Errei</button>
+        <button class="btn" id="flashHit">Acertei</button>
+      </div>
+      <div class="flash-nav">
+        <button class="btn small" id="flashPrev">Anterior</button>
+        <button class="btn small" id="flashNext">Próximo</button>
+      </div>
+      <p class="kbd-hint">Atalhos: <b>Espaço</b> vira · <b>←/→</b> navega · <b>A</b> acertei · <b>E</b> errei</p>
+    </section>
+
+    <!-- QUIZ / EXAM (compartilham a tela de questões) -->
+    <section id="view-quiz" class="view">
+      <button class="back" data-back>← Sair</button>
+      <div class="quiz-head">
+        <div class="counter" id="quizCounter"></div>
+        <div class="timer" id="quizTimer"></div>
+      </div>
+      <div class="bar quiz-bar"><div id="quizProgress" class="bar-fill"></div></div>
+      <div class="question" id="quizQuestion"></div>
+      <div class="options" id="quizOptions"></div>
+      <div class="feedback" id="quizFeedback"></div>
+      <button class="btn" id="quizNext">Próxima</button>
+      <p class="kbd-hint">Atalhos: <b>1–4</b> responde · <b>Enter</b> próxima</p>
+    </section>
+
+    <!-- RESULT -->
+    <section id="view-result" class="view">
+      <div class="result-card">
+        <h2 id="resultTitle">Resultado</h2>
+        <div class="score" id="resultScore"></div>
+        <p id="resultMsg" class="muted"></p>
+        <div id="resultReview" class="review"></div>
+        <div class="result-actions">
+          <button class="btn" id="retryWrongBtn">Refazer só os erros</button>
+          <button class="btn ghost" data-back>Voltar ao início</button>
+        </div>
+      </div>
+    </section>
+    <!-- AUDIO -->
+    <section id="view-audio" class="view">
+      <button class="back" data-back>← Voltar</button>
+      <div class="level-head">
+        <h2>Escutar e falar</h2>
+        <p class="muted" id="audInfo"></p>
+      </div>
+      <div class="config-options" id="audTabs">
+        <button class="config-chip active" data-aud="pick">🎧 Ouvir e escolher</button>
+        <button class="config-chip" data-aud="dict">⌨ Ditado</button>
+        <button class="config-chip" data-aud="speak">🎤 Falar</button>
+      </div>
+      <div class="aud-card" id="audCard"></div>
+    </section>
+    <!-- TERMINAL -->
+    <section id="view-terminal" class="view">
+      <button class="back" data-back>← Voltar</button>
+      <div class="level-head">
+        <h2>Escrever em inglês</h2>
+        <p class="muted" id="termInfo"></p>
+      </div>
+      <div class="term-toolbar">
+        <label><input type="checkbox" id="termOnlyNew" /> só os que ainda não dominei</label>
+        <label><input type="checkbox" id="termSpeak" checked /> 🔊 falar a frase certa</label>
+        <button class="btn small ghost" id="termRestart">Recomeçar</button>
+        <button class="btn small" id="termRetry" style="display:none">Refazer os que errei</button>
+      </div>
+      <div class="term" id="term">
+        <div class="term-bar"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span><span class="term-title">english · writing</span></div>
+        <div class="term-body" id="termBody"></div>
+        <form class="term-input" id="termForm" autocomplete="off">
+          <span class="term-prompt">&gt;</span>
+          <input id="termInput" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Escreva a frase em inglês" />
+        </form>
+      </div>
+      <div class="term-actions">
+        <button class="btn small ghost" id="termHint">Dica</button>
+        <button class="btn small ghost" id="termReveal">Mostrar resposta</button>
+        <button class="btn small ghost" id="termSkip">Pular</button>
+      </div>
+      <p class="kbd-hint">Escreva a frase em inglês e aperte <b>Enter</b>. Atalhos de treino: <b>dica</b> · <b>resposta</b> · <b>pular</b> · <b>limpar</b></p>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <span>Material de estudo não oficial · progresso salvo localmente no navegador</span>
+  </footer>
+
+  <!-- Navegação inferior fixa (mobile-first) -->
+  <nav class="bottom-nav">
+    <button class="bottom-nav-btn active" data-nav="path"><span>🗺️</span>Trilha</button>
+    <button class="bottom-nav-btn" data-nav="home"><span>🃏</span>Praticar</button>
+    <button class="bottom-nav-btn" data-nav="more"><span>☰</span>Mais</button>
+  </nav>
+
+  <!-- "Mais": lista de módulos extras e ações (zerar progresso, etc.) -->
+  <div class="more-sheet" id="moreSheet">
+    <div class="more-sheet-inner">
+      <h3>Módulos extras</h3>
+      <p class="muted">Sem ordem obrigatória — acesse quando quiser.</p>
+      <div class="more-list" id="moreList"></div>
+      <button class="btn ghost" id="closeMoreSheet">Fechar</button>
+    </div>
+  </div>
+
+  <script src="speak.js"></script>
+  <script src="app.js"></script>
+  <script src="path.js"></script>
+  <script src="terminal.js"></script>
+  <script src="audio.js"></script>
+  <script src="mobilenav.js"></script>
+</body>
+</html>

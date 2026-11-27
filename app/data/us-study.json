@@ -1,0 +1,167 @@
+{
+ "level": "US",
+ "sections": [
+  {
+   "title": "Fala de Americano (gonna, wanna)",
+   "blocks": [
+    {
+     "list": [
+      "Americanos <b>encurtam</b> na fala: going to → <b>gonna</b>, want to → <b>wanna</b>, got to → <b>gotta</b>.",
+      "Na escrita formal, use a forma completa."
+     ]
+    },
+    {
+     "say": [
+      "I'm gonna be late. | Vou me atrasar.",
+      "I wanna go home. | Quero ir pra casa.",
+      "I gotta go. | Preciso ir.",
+      "What do you wanna eat? | O que você quer comer?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Gírias do Dia a Dia",
+   "blocks": [
+    {
+     "list": [
+      "<b>Cool</b> = legal · <b>awesome</b> = incrível · <b>dude</b> = cara · <b>bucks</b> = dólares · <b>hang out</b> = sair/ficar junto."
+     ]
+    },
+    {
+     "say": [
+      "That's awesome! | Que demais!",
+      "Wanna hang out tonight? | Quer sair hoje à noite?",
+      "It's ten bucks. | Custa dez dólares.",
+      "I'm beat. | Estou morto de cansaço."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Small Talk e Cumprimentos",
+   "blocks": [
+    {
+     "list": [
+      "Americanos dizem <b>How's it going?</b> como cumprimento, não esperam resposta longa. Responda: <b>Good, you?</b>"
+     ]
+    },
+    {
+     "say": [
+      "How's it going? | E aí, como vai?",
+      "Not much, you? | Nada de mais, e você?",
+      "Long time no see! | Quanto tempo!",
+      "Take care! | Se cuida!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Pedindo Comida e Café",
+   "blocks": [
+    {
+     "list": [
+      "Peça com <b>Can I get...?</b> ou <b>I'll have...</b>. 'For here or to go?' = pra comer aqui ou levar?"
+     ]
+    },
+    {
+     "say": [
+      "Can I get a coffee? | Posso pegar um café?",
+      "I'll have the burger. | Vou querer o hambúrguer.",
+      "For here or to go? | Aqui ou pra levar?",
+      "Can I get the check? | Pode trazer a conta?"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Texting e Redes",
+   "blocks": [
+    {
+     "list": [
+      "Siglas comuns: <b>LOL, BTW, IDK, OMG, BRB, TBH</b>."
+     ]
+    },
+    {
+     "say": [
+      "BTW, I'll be late. | A propósito, vou chegar atrasado.",
+      "IDK what to do. | Não sei o que fazer.",
+      "TBH, I liked it. | Sendo sincero, gostei.",
+      "BRB! | Já volto!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Falsos Cognatos e Pegadinhas",
+   "blocks": [
+    {
+     "list": [
+      "Falsos cognatos: <b>pretend</b> = fingir (não pretender) · <b>push</b> = empurrar · <b>actually</b> = na verdade (não 'atualmente')."
+     ]
+    },
+    {
+     "say": [
+      "Actually, I disagree. | Na verdade, discordo.",
+      "He pretended to sleep. | Ele fingiu dormir.",
+      "I'm currently working. | Atualmente estou trabalhando."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Telefone e Trabalho Informal",
+   "blocks": [
+    {
+     "list": [
+      "<b>Hold on</b> = espera · <b>call you back</b> = ligo de volta · <b>heads-up</b> = aviso · <b>touch base</b> = alinhar."
+     ]
+    },
+    {
+     "say": [
+      "Hold on a second. | Espera um segundo.",
+      "Can I call you back? | Posso te ligar de volta?",
+      "Let's touch base tomorrow. | Vamos nos falar amanhã.",
+      "You're on mute. | Você está no mudo."
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Diálogos do Dia a Dia",
+   "blocks": [
+    {
+     "list": [
+      "Aprenda por <b>mini-diálogos</b>. Repare nas respostas curtas: <b>Sounds good</b>, <b>No worries</b>, <b>I'll take it</b>."
+     ]
+    },
+    {
+     "say": [
+      "Wanna grab some tacos? | Quer pegar uns tacos?",
+      "Sounds good! What time? | Fechado! Que horas?",
+      "I'm just looking, thanks. | Só estou olhando, obrigado.",
+      "Sorry I'm late! | Desculpa o atraso!"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Reações e Emoções",
+   "blocks": [
+    {
+     "list": [
+      "Reações curtas: <b>Seriously?</b> · <b>That sucks.</b> · <b>Congrats!</b> · <b>I feel you.</b>"
+     ]
+    },
+    {
+     "say": [
+      "Seriously? | Sério?",
+      "That sucks. | Que droga.",
+      "Congrats! | Parabéns!",
+      "I feel you. | Te entendo."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+[
+ {
+  "id": "us-t-1",
+  "topic": "Fala de Americano (gonna, wanna)",
+  "q": "Diga em inglês informal: \"Vou ligar pra você depois.\" (gonna)",
+  "a": [
+   "^i'?m gonna call you (later|after)$",
+   "^i'?m gonna call you back$",
+   "^i am going to call you (later|after|back)$"
+  ],
+  "ex": "I'm gonna call you later.",
+  "out": "",
+  "why": "gonna = going to.",
+  "hint": "I'm gonna ..."
+ },
+ {
+  "id": "us-t-2",
+  "topic": "Fala de Americano (gonna, wanna)",
+  "q": "Diga em inglês informal: \"Preciso ir.\" (gotta)",
+  "a": [
+   "^i gotta (go|leave|run)$",
+   "^i (got to|have to|have got to|need to) (go|leave|run)$"
+  ],
+  "ex": "I gotta go.",
+  "out": "",
+  "why": "gotta = have got to.",
+  "hint": "I gotta ..."
+ },
+ {
+  "id": "us-t-3",
+  "topic": "Gírias do Dia a Dia",
+  "q": "Diga em inglês: \"Foi mal.\" (gíria)",
+  "a": [
+   "^my bad$"
+  ],
+  "ex": "My bad.",
+  "out": "",
+  "why": "Forma curta de assumir um erro.",
+  "hint": "My ..."
+ },
+ {
+  "id": "us-t-4",
+  "topic": "Gírias do Dia a Dia",
+  "q": "Diga em inglês: \"Estou sem dinheiro.\" (gíria)",
+  "a": [
+   "^i'?m broke$",
+   "^i am broke$"
+  ],
+  "ex": "I'm broke.",
+  "out": "",
+  "why": "broke = sem grana.",
+  "hint": "I'm ..."
+ },
+ {
+  "id": "us-t-5",
+  "topic": "Small Talk e Cumprimentos",
+  "q": "Responda 'How's it going?' de forma curta e positiva.",
+  "a": [
+   "^(good|great|pretty good|not bad),? (thanks,? )?(and )?you\\??$",
+   "^(good|great|pretty good|not bad),? thanks$"
+  ],
+  "ex": "Good, you?",
+  "out": "",
+  "why": "Resposta curta e devolvendo a pergunta.",
+  "hint": "Good, ..."
+ },
+ {
+  "id": "us-t-6",
+  "topic": "Small Talk e Cumprimentos",
+  "q": "Diga em inglês: \"Quanto tempo que não nos vemos!\"",
+  "a": [
+   "^long time no see$"
+  ],
+  "ex": "Long time no see!",
+  "out": "",
+  "why": "Expressão fixa e comum.",
+  "hint": "Long time ..."
+ },
+ {
+  "id": "us-t-7",
+  "topic": "Pedindo Comida e Café",
+  "q": "Peça um café de forma natural (Can I get...).",
+  "a": [
+   "^can i get a (coffee|latte|cappuccino|americano)(,? please)?$"
+  ],
+  "ex": "Can I get a coffee, please?",
+  "out": "",
+  "why": "Can I get... é o pedido padrão.",
+  "hint": "Can I get a ..."
+ },
+ {
+  "id": "us-t-8",
+  "topic": "Pedindo Comida e Café",
+  "q": "Peça a conta de forma educada (use 'check').",
+  "a": [
+   "^(can|could) (i|we) (please )?get the check(,? please)?$",
+   "^can we have the check(,? please)?$"
+  ],
+  "ex": "Can we get the check, please?",
+  "out": "",
+  "why": "Check = conta nos EUA.",
+  "hint": "Can we get the ..."
+ },
+ {
+  "id": "us-t-9",
+  "topic": "Texting e Redes",
+  "q": "Escreva a sigla de \"a propósito\" (by the way).",
+  "a": [
+   "^btw$"
+  ],
+  "ex": "BTW",
+  "out": "",
+  "why": "BTW = by the way.",
+  "hint": "B..."
+ },
+ {
+  "id": "us-t-10",
+  "topic": "Texting e Redes",
+  "q": "Escreva a sigla de \"para sua informação\".",
+  "a": [
+   "^fyi$"
+  ],
+  "ex": "FYI",
+  "out": "",
+  "why": "FYI = for your information.",
+  "hint": "F..."
+ },
+ {
+  "id": "us-t-11",
+  "topic": "Falsos Cognatos e Pegadinhas",
+  "q": "Diga em inglês: \"Na verdade, eu discordo.\"",
+  "a": [
+   "^actually,? i disagree$",
+   "^actually,? i don'?t agree$"
+  ],
+  "ex": "Actually, I disagree.",
+  "out": "",
+  "why": "Actually = na verdade.",
+  "hint": "Actually, ..."
+ },
+ {
+  "id": "us-t-12",
+  "topic": "Falsos Cognatos e Pegadinhas",
+  "q": "Diga em inglês: \"Pretendo estudar mais.\" (intend)",
+  "a": [
+   "^i intend to study more$",
+   "^i intend to study harder$"
+  ],
+  "ex": "I intend to study more.",
+  "out": "",
+  "why": "Pretender = intend to.",
+  "hint": "I intend to ..."
+ },
+ {
+  "id": "us-t-13",
+  "topic": "Fala",
+  "q": "Diga em inglês informal: \"Vou pegar um café.\" (gonna)",
+  "a": [
+   "^i am going to (grab|get) (a )?coffee$"
+  ],
+  "ex": "I'm gonna grab a coffee.",
+  "out": "",
+  "why": "gonna = going to.",
+  "hint": "I'm gonna ..."
+ },
+ {
+  "id": "us-t-14",
+  "topic": "Fala",
+  "q": "Diga em inglês informal: \"Quero tentar isso.\" (wanna)",
+  "a": [
+   "^i want to try (this|that|it)$"
+  ],
+  "ex": "I wanna try that.",
+  "out": "",
+  "why": "wanna = want to.",
+  "hint": "I wanna ..."
+ },
+ {
+  "id": "us-t-15",
+  "topic": "Fala",
+  "q": "Diga em inglês informal: \"Deixa eu ver.\" (lemme)",
+  "a": [
+   "^let me (see|check)$"
+  ],
+  "ex": "Lemme see.",
+  "out": "",
+  "why": "lemme = let me.",
+  "hint": "Lemme ..."
+ },
+ {
+  "id": "us-t-16",
+  "topic": "Fala",
+  "q": "Diga em inglês informal: \"Sei lá.\" (dunno)",
+  "a": [
+   "^i do not know$"
+  ],
+  "ex": "I dunno.",
+  "out": "",
+  "why": "dunno = don't know.",
+  "hint": "I dunno."
+ },
+ {
+  "id": "us-t-17",
+  "topic": "Gíria",
+  "q": "Diga em inglês: \"Sem chance!\"",
+  "a": [
+   "^no way$"
+  ],
+  "ex": "No way!",
+  "out": "",
+  "why": "Reação de surpresa.",
+  "hint": "No ..."
+ },
+ {
+  "id": "us-t-18",
+  "topic": "Gíria",
+  "q": "Diga em inglês: \"Estou exausto.\" (gíria)",
+  "a": [
+   "^i am (beat|wiped out|exhausted)$"
+  ],
+  "ex": "I'm beat.",
+  "out": "",
+  "why": "beat = exausto.",
+  "hint": "I'm ..."
+ },
+ {
+  "id": "us-t-19",
+  "topic": "Small talk",
+  "q": "Diga em inglês: \"Nada de mais.\"",
+  "a": [
+   "^not much$"
+  ],
+  "ex": "Not much.",
+  "out": "",
+  "why": "Resposta curta para What's up?",
+  "hint": "Not ..."
+ },
+ {
+  "id": "us-t-20",
+  "topic": "Pedidos",
+  "q": "Diga em inglês: \"Pode ser pra levar?\"",
+  "a": [
+   "^can i get (that|it) to go$"
+  ],
+  "ex": "Can I get that to go?",
+  "out": "",
+  "why": "to go = para levar.",
+  "hint": "Can I get ..."
+ },
+ {
+  "id": "us-t-21",
+  "topic": "Small talk",
+  "q": "Diga em inglês: \"Vamos almoçar qualquer dia.\"",
+  "a": [
+   "^let us (grab|get) lunch (sometime|some time)$"
+  ],
+  "ex": "Let's grab lunch sometime.",
+  "out": "",
+  "why": "grab lunch = almoçar.",
+  "hint": "Let's grab ..."
+ },
+ {
+  "id": "us-t-22",
+  "topic": "Texting",
+  "q": "Diga em inglês: \"Me manda uma mensagem.\"",
+  "a": [
+   "^(text me|send me a text|send me a message|message me|dm me|send me a dm)$"
+  ],
+  "ex": "Send me a text.",
+  "out": "",
+  "why": "text = mensagem.",
+  "hint": "Send me ..."
+ },
+ {
+  "id": "us-t-23",
+  "topic": "Falsos cognatos",
+  "q": "Diga em inglês: \"Ele fingiu estar doente.\"",
+  "a": [
+   "^he pretended to be (sick|ill)$"
+  ],
+  "ex": "He pretended to be sick.",
+  "out": "",
+  "why": "pretend = fingir.",
+  "hint": "He pretended ..."
+ },
+ {
+  "id": "us-t-24",
+  "topic": "Telefone",
+  "q": "Diga em inglês: \"Posso te ligar de volta?\"",
+  "a": [
+   "^can i call you back$"
+  ],
+  "ex": "Can I call you back?",
+  "out": "",
+  "why": "call back = ligar de volta.",
+  "hint": "Can I call ..."
+ },
+ {
+  "id": "us-t-25",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Você está no mudo.\"",
+  "a": [
+   "^you are on mute$"
+  ],
+  "ex": "You're on mute.",
+  "out": "",
+  "why": "on mute.",
+  "hint": "You're on ..."
+ },
+ {
+  "id": "us-t-26",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Valeu pelo aviso.\"",
+  "a": [
+   "^thanks for the heads[- ]up$"
+  ],
+  "ex": "Thanks for the heads-up.",
+  "out": "",
+  "why": "heads-up = aviso.",
+  "hint": "Thanks for ..."
+ },
+ {
+  "id": "us-t-27",
+  "topic": "Trabalho",
+  "q": "Diga em inglês: \"Te mando um e-mail.\"",
+  "a": [
+   "^i will (shoot|send) you an email$"
+  ],
+  "ex": "I'll shoot you an email.",
+  "out": "",
+  "why": "shoot = enviar (informal).",
+  "hint": "I'll shoot ..."
+ },
+ {
+  "id": "us-t-28",
+  "topic": "Diálogos",
+  "q": "Diga em inglês: \"Só estou olhando, obrigado.\"",
+  "a": [
+   "^i am just looking,? thanks$",
+   "^i am just looking,? thank you$"
+  ],
+  "ex": "I'm just looking, thanks.",
+  "out": "",
+  "why": "Resposta padrão em loja.",
+  "hint": "I'm just ..."
+ },
+ {
+  "id": "us-t-29",
+  "topic": "Diálogos",
+  "q": "Diga em inglês: \"Fechado! Que horas?\"",
+  "a": [
+   "^sounds good,? what time$"
+  ],
+  "ex": "Sounds good! What time?",
+  "out": "",
+  "why": "Sounds good = fechado.",
+  "hint": "Sounds ..."
+ },
+ {
+  "id": "us-t-30",
+  "topic": "Diálogos",
+  "q": "Diga em inglês: \"Sem problemas, não esquenta.\"",
+  "a": [
+   "^no worries,? don'?t worry about it$",
+   "^no worries,? do not worry about it$"
+  ],
+  "ex": "No worries, don't worry about it.",
+  "out": "",
+  "why": "Reforço de sem problemas.",
+  "hint": "No worries, ..."
+ },
+ {
+  "id": "us-t-31",
+  "topic": "Reações",
+  "q": "Diga em inglês: \"Que droga.\"",
+  "a": [
+   "^that sucks$"
+  ],
+  "ex": "That sucks.",
+  "out": "",
+  "why": "Informal para algo ruim.",
+  "hint": "That ..."
+ },
+ {
+  "id": "us-t-32",
+  "topic": "Reações",
+  "q": "Diga em inglês: \"Parabéns!\" (curto)",
+  "a": [
+   "^(congrats|congratulations)$"
+  ],
+  "ex": "Congrats!",
+  "out": "",
+  "why": "Forma curta de congratulations.",
+  "hint": "Con..."
+ },
+ {
+  "id": "us-t-33",
+  "topic": "Reações",
+  "q": "Diga em inglês: \"Te entendo.\"",
+  "a": [
+   "^i feel you$"
+  ],
+  "ex": "I feel you.",
+  "out": "",
+  "why": "Empatia informal.",
+  "hint": "I feel ..."
+ },
+ {
+  "id": "us-t-34",
+  "topic": "Reações",
+  "q": "Diga em inglês: \"Estou super animado.\"",
+  "a": [
+   "^i am so (excited|stoked|pumped)$"
+  ],
+  "ex": "I'm so excited.",
+  "out": "",
+  "why": "so + adjetivo.",
+  "hint": "I'm so ..."
+ }
+]

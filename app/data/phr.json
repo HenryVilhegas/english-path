@@ -1,0 +1,602 @@
+{
+ "level": "PHR",
+ "name": "Phrasal Verbs e Idioms",
+ "description": "Phrasal verbs, idioms, expressões com get/take/make/do e preposições fixas.",
+ "flashcards": [
+  {
+   "id": "phr-fc-1",
+   "topic": "Phrasal Verbs Essenciais",
+   "front": "<b>give up</b>",
+   "back": "Desistir.",
+   "en": "Never give up.",
+   "syl": "NÉ-ver guív âp"
+  },
+  {
+   "id": "phr-fc-2",
+   "topic": "Phrasal Verbs Essenciais",
+   "front": "<b>look for</b> × <b>look after</b>",
+   "back": "procurar × cuidar de.",
+   "en": "I'm looking for my phone.",
+   "syl": "aim LÚ-king fór mai fôun"
+  },
+  {
+   "id": "phr-fc-3",
+   "topic": "Phrasal Verbs Essenciais",
+   "front": "<b>turn on</b> × <b>turn off</b>",
+   "back": "Ligar × desligar.",
+   "en": "Turn it off.",
+   "syl": "térn it óf"
+  },
+  {
+   "id": "phr-fc-4",
+   "topic": "Phrasal Verbs Essenciais",
+   "front": "<b>pick up</b>",
+   "back": "Pegar, buscar, aprender.",
+   "en": "I'll pick you up at six.",
+   "syl": "áiu pik iú âp ét síks"
+  },
+  {
+   "id": "phr-fc-5",
+   "topic": "Phrasal Verbs Essenciais",
+   "front": "<b>find out</b>",
+   "back": "Descobrir.",
+   "en": "I found out yesterday.",
+   "syl": "ai fáund áut IÉS-ter-dêi"
+  },
+  {
+   "id": "phr-fc-6",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "front": "<b>follow up</b>",
+   "back": "Dar retorno, acompanhar.",
+   "en": "I'll follow up tomorrow.",
+   "syl": "áiu FÓ-lôu âp tu-MÓ-rôu"
+  },
+  {
+   "id": "phr-fc-7",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "front": "<b>reach out</b>",
+   "back": "Entrar em contato.",
+   "en": "I'll reach out to them.",
+   "syl": "áiu rítch áut tu dém"
+  },
+  {
+   "id": "phr-fc-8",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "front": "<b>call off</b> × <b>put off</b>",
+   "back": "cancelar × adiar.",
+   "en": "They called off the game.",
+   "syl": "dêi kóld óf dâ guêim"
+  },
+  {
+   "id": "phr-fc-9",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "front": "<b>fill out</b>",
+   "back": "Preencher (formulário).",
+   "en": "Fill out this form.",
+   "syl": "fiu áut dis fórm"
+  },
+  {
+   "id": "phr-fc-10",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "front": "<b>run out of</b>",
+   "back": "Ficar sem.",
+   "en": "We ran out of milk.",
+   "syl": "uí rén áut óv milk"
+  },
+  {
+   "id": "phr-fc-11",
+   "topic": "Idioms Comuns",
+   "front": "<b>piece of cake</b>",
+   "back": "Muito fácil.",
+   "en": "The test was a piece of cake.",
+   "syl": "dâ tést uóz â pís óv kêik"
+  },
+  {
+   "id": "phr-fc-12",
+   "topic": "Idioms Comuns",
+   "front": "<b>under the weather</b>",
+   "back": "Meio doente.",
+   "en": "I'm under the weather.",
+   "syl": "aim ân-der dâ UÉ-der"
+  },
+  {
+   "id": "phr-fc-13",
+   "topic": "Idioms Comuns",
+   "front": "<b>once in a blue moon</b>",
+   "back": "Muito raramente.",
+   "en": "He calls once in a blue moon.",
+   "syl": "ri kólz uâns in â blú mun"
+  },
+  {
+   "id": "phr-fc-14",
+   "topic": "Idioms Comuns",
+   "front": "<b>call it a day</b>",
+   "back": "Encerrar por hoje.",
+   "en": "Let's call it a day.",
+   "syl": "léts kól it â dêi"
+  },
+  {
+   "id": "phr-fc-15",
+   "topic": "Idioms Comuns",
+   "front": "<b>spill the beans</b>",
+   "back": "Revelar um segredo.",
+   "en": "Don't spill the beans!",
+   "syl": "dôunt spil dâ bínz"
+  },
+  {
+   "id": "phr-fc-16",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "front": "<b>make</b> × <b>do</b>",
+   "back": "make = criar (a mistake, a plan) · do = tarefa (homework, dishes).",
+   "en": "I made a plan and did my homework.",
+   "syl": "ai mêid â plén end did mai RÔUM-uérk"
+  },
+  {
+   "id": "phr-fc-17",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "front": "<b>take a break</b>",
+   "back": "Fazer uma pausa.",
+   "en": "Let's take a break.",
+   "syl": "léts têik â brêik"
+  },
+  {
+   "id": "phr-fc-18",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "front": "<b>get</b> + adjetivo",
+   "back": "Ficar/tornar-se.",
+   "en": "I get tired after work.",
+   "syl": "ai guét TÁI-erd ÉF-ter uérk"
+  },
+  {
+   "id": "phr-fc-19",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "front": "<b>I don't get it</b>",
+   "back": "Não entendi.",
+   "en": "Sorry, I don't get it.",
+   "syl": "SÓ-ri, ai dôunt guét it"
+  },
+  {
+   "id": "phr-fc-20",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "front": "<b>do your best</b>",
+   "back": "Fazer o melhor possível.",
+   "en": "Just do your best.",
+   "syl": "djâst du iór bést"
+  },
+  {
+   "id": "phr-fc-21",
+   "topic": "Preposições e Collocations",
+   "front": "<b>good at</b>",
+   "back": "Bom em.",
+   "en": "I'm good at cooking.",
+   "syl": "aim gud ét KÚ-king"
+  },
+  {
+   "id": "phr-fc-22",
+   "topic": "Preposições e Collocations",
+   "front": "<b>interested in</b>",
+   "back": "Interessado em.",
+   "en": "She's interested in music.",
+   "syl": "chiz IN-te-res-tid in MIÚ-zik"
+  },
+  {
+   "id": "phr-fc-23",
+   "topic": "Preposições e Collocations",
+   "front": "<b>wait for</b> · <b>listen to</b>",
+   "back": "esperar (sem 'to') · ouvir.",
+   "en": "Wait for me. Listen to me.",
+   "syl": "uêit fór mi · LÍ-sen tu mi"
+  },
+  {
+   "id": "phr-fc-24",
+   "topic": "Preposições e Collocations",
+   "front": "<b>agree with</b> × <b>agree to</b>",
+   "back": "concordar com pessoa × aceitar proposta.",
+   "en": "I agree with you.",
+   "syl": "ai â-GRÍ uíd iú"
+  },
+  {
+   "id": "phr-fc-25",
+   "topic": "Preposições e Collocations",
+   "front": "<b>afraid of</b>",
+   "back": "Com medo de.",
+   "en": "I'm afraid of heights.",
+   "syl": "aim â-FRÉID óv rái-TÍZ"
+  }
+ ],
+ "questions": [
+  {
+   "id": "phr-q-1",
+   "topic": "Phrasal Verbs Essenciais",
+   "difficulty": "facil",
+   "question": "Qual é o sentido de <b>give up</b>?",
+   "options": [
+    "Dar presente",
+    "Desistir",
+    "Subir",
+    "Ceder lugar"
+   ],
+   "answer": 1,
+   "explanation": "give up = desistir.",
+   "en": "Don't give up."
+  },
+  {
+   "id": "phr-q-2",
+   "topic": "Phrasal Verbs Essenciais",
+   "difficulty": "facil",
+   "question": "Complete: 'Turn the TV ___'.",
+   "options": [
+    "for",
+    "of",
+    "off",
+    "at"
+   ],
+   "answer": 2,
+   "explanation": "turn off = desligar."
+  },
+  {
+   "id": "phr-q-3",
+   "topic": "Phrasal Verbs Essenciais",
+   "difficulty": "medio",
+   "question": "Qual frase está correta?",
+   "options": [
+    "Turn off it.",
+    "Off turn it.",
+    "Turn to off it.",
+    "Turn it off."
+   ],
+   "answer": 3,
+   "explanation": "Com pronome, separe: turn it off."
+  },
+  {
+   "id": "phr-q-4",
+   "topic": "Phrasal Verbs Essenciais",
+   "difficulty": "medio",
+   "question": "'I'm <b>looking for</b> my keys' quer dizer:",
+   "options": [
+    "Estou procurando minhas chaves",
+    "Estou olhando para as chaves",
+    "Estou cuidando das chaves",
+    "Estou perdendo as chaves"
+   ],
+   "answer": 0,
+   "explanation": "look for = procurar."
+  },
+  {
+   "id": "phr-q-5",
+   "topic": "Phrasal Verbs Essenciais",
+   "difficulty": "medio",
+   "question": "'She <b>looks after</b> her dog' =",
+   "options": [
+    "Ela procura o cachorro",
+    "Ela cuida do cachorro",
+    "Ela olha o cachorro de longe",
+    "Ela persegue o cachorro"
+   ],
+   "answer": 1,
+   "explanation": "look after = cuidar."
+  },
+  {
+   "id": "phr-q-6",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "difficulty": "facil",
+   "question": "<b>Follow up</b> em e-mail de trabalho:",
+   "options": [
+    "Perseguir",
+    "Seguir alguém",
+    "Dar retorno",
+    "Terminar"
+   ],
+   "answer": 2,
+   "explanation": "Follow up = acompanhar/dar retorno."
+  },
+  {
+   "id": "phr-q-7",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "difficulty": "medio",
+   "question": "'They <b>called off</b> the meeting':",
+   "options": [
+    "Adiaram",
+    "Ligaram para",
+    "Começaram",
+    "Cancelaram"
+   ],
+   "answer": 3,
+   "explanation": "call off = cancelar. Adiar = put off."
+  },
+  {
+   "id": "phr-q-8",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "difficulty": "medio",
+   "question": "'We <b>ran out of</b> coffee' =",
+   "options": [
+    "Ficamos sem café",
+    "Corremos pelo café",
+    "Encontramos café",
+    "Bebemos café"
+   ],
+   "answer": 0,
+   "explanation": "run out of = ficar sem."
+  },
+  {
+   "id": "phr-q-9",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "difficulty": "medio",
+   "question": "Para ônibus, trem e avião usamos:",
+   "options": [
+    "get in / get out",
+    "get on / get off",
+    "go in / go out",
+    "put on / put off"
+   ],
+   "answer": 1,
+   "explanation": "get on/off = transporte público; get in/out = carro."
+  },
+  {
+   "id": "phr-q-10",
+   "topic": "Phrasal Verbs de Trabalho e Viagem",
+   "difficulty": "dificil",
+   "question": "'<b>Reach out</b> to the client' =",
+   "options": [
+    "Alcançar fisicamente",
+    "Sair do cliente",
+    "Entrar em contato",
+    "Estender o braço"
+   ],
+   "answer": 2,
+   "explanation": "reach out = contatar."
+  },
+  {
+   "id": "phr-q-11",
+   "topic": "Idioms Comuns",
+   "difficulty": "facil",
+   "question": "<b>Piece of cake</b> significa:",
+   "options": [
+    "Fatia de bolo",
+    "Muito caro",
+    "Sorte",
+    "Muito fácil"
+   ],
+   "answer": 3,
+   "explanation": "Idiom: moleza."
+  },
+  {
+   "id": "phr-q-12",
+   "topic": "Idioms Comuns",
+   "difficulty": "facil",
+   "question": "'<b>Break a leg!</b>' é dito para:",
+   "options": [
+    "Desejar boa sorte",
+    "Ameaçar",
+    "Avisar perigo",
+    "Pedir desculpa"
+   ],
+   "answer": 0,
+   "explanation": "Tradição do teatro."
+  },
+  {
+   "id": "phr-q-13",
+   "topic": "Idioms Comuns",
+   "difficulty": "medio",
+   "question": "'I'm <b>under the weather</b>':",
+   "options": [
+    "Estou na chuva",
+    "Estou meio doente",
+    "Estou feliz",
+    "Estou atrasado"
+   ],
+   "answer": 1,
+   "explanation": "under the weather = indisposto."
+  },
+  {
+   "id": "phr-q-14",
+   "topic": "Idioms Comuns",
+   "difficulty": "medio",
+   "question": "<b>Once in a blue moon</b>:",
+   "options": [
+    "Toda noite",
+    "Sempre",
+    "Raramente",
+    "Nunca"
+   ],
+   "answer": 2,
+   "explanation": "Muito raro."
+  },
+  {
+   "id": "phr-q-15",
+   "topic": "Idioms Comuns",
+   "difficulty": "medio",
+   "question": "<b>Spill the beans</b>:",
+   "options": [
+    "Derrubar feijão",
+    "Cozinhar",
+    "Mentir",
+    "Revelar um segredo"
+   ],
+   "answer": 3,
+   "explanation": "Revelar o segredo."
+  },
+  {
+   "id": "phr-q-16",
+   "topic": "Idioms Comuns",
+   "difficulty": "dificil",
+   "question": "'<b>Cost an arm and a leg</b>' =",
+   "options": [
+    "Ser muito caro",
+    "Machucar",
+    "Dar trabalho",
+    "Ser raro"
+   ],
+   "answer": 0,
+   "explanation": "Muito caro."
+  },
+  {
+   "id": "phr-q-17",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "facil",
+   "question": "Complete: 'I ___ a mistake.'",
+   "options": [
+    "did",
+    "made",
+    "took",
+    "got"
+   ],
+   "answer": 1,
+   "explanation": "make a mistake."
+  },
+  {
+   "id": "phr-q-18",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "facil",
+   "question": "Complete: 'Please ___ your homework.'",
+   "options": [
+    "make",
+    "take",
+    "do",
+    "get"
+   ],
+   "answer": 2,
+   "explanation": "do homework."
+  },
+  {
+   "id": "phr-q-19",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "medio",
+   "question": "'Let's <b>take</b> a ___.'",
+   "options": [
+    "homework",
+    "mistake",
+    "dishes",
+    "break"
+   ],
+   "answer": 3,
+   "explanation": "take a break."
+  },
+  {
+   "id": "phr-q-20",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "medio",
+   "question": "'I don't <b>get</b> it' =",
+   "options": [
+    "Não entendi",
+    "Não recebi",
+    "Não peguei",
+    "Não fui"
+   ],
+   "answer": 0,
+   "explanation": "get = entender."
+  },
+  {
+   "id": "phr-q-21",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "medio",
+   "question": "'It <b>takes</b> two hours' =",
+   "options": [
+    "Pega duas horas",
+    "Leva duas horas",
+    "Faz duas horas",
+    "Tem duas horas"
+   ],
+   "answer": 1,
+   "explanation": "take time = levar tempo."
+  },
+  {
+   "id": "phr-q-22",
+   "topic": "Expressões com Get, Take, Make, Do",
+   "difficulty": "dificil",
+   "question": "Qual é a combinação natural?",
+   "options": [
+    "do a decision",
+    "put a decision",
+    "make a decision",
+    "have a decision up"
+   ],
+   "answer": 2,
+   "explanation": "Em inglês americano: make a decision."
+  },
+  {
+   "id": "phr-q-23",
+   "topic": "Preposições e Collocations",
+   "difficulty": "facil",
+   "question": "'I'm good ___ math.'",
+   "options": [
+    "in",
+    "of",
+    "for",
+    "at"
+   ],
+   "answer": 3,
+   "explanation": "good at."
+  },
+  {
+   "id": "phr-q-24",
+   "topic": "Preposições e Collocations",
+   "difficulty": "facil",
+   "question": "'Wait ___ me.'",
+   "options": [
+    "for",
+    "to",
+    "at",
+    "on"
+   ],
+   "answer": 0,
+   "explanation": "wait for."
+  },
+  {
+   "id": "phr-q-25",
+   "topic": "Preposições e Collocations",
+   "difficulty": "medio",
+   "question": "'She's interested ___ art.'",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "about"
+   ],
+   "answer": 1,
+   "explanation": "interested in."
+  },
+  {
+   "id": "phr-q-26",
+   "topic": "Preposições e Collocations",
+   "difficulty": "medio",
+   "question": "'Listen ___ this song.'",
+   "options": [
+    "at",
+    "for",
+    "to",
+    "about"
+   ],
+   "answer": 2,
+   "explanation": "listen to."
+  },
+  {
+   "id": "phr-q-27",
+   "topic": "Preposições e Collocations",
+   "difficulty": "medio",
+   "question": "'I'm afraid ___ spiders.'",
+   "options": [
+    "from",
+    "at",
+    "with",
+    "of"
+   ],
+   "answer": 3,
+   "explanation": "afraid of."
+  },
+  {
+   "id": "phr-q-28",
+   "topic": "Preposições e Collocations",
+   "difficulty": "dificil",
+   "question": "'I agree ___ you.'",
+   "options": [
+    "with",
+    "to",
+    "of",
+    "for"
+   ],
+   "answer": 0,
+   "explanation": "agree with a person; agree to a proposal."
+  }
+ ]
+}

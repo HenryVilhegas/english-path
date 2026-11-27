@@ -1,0 +1,36 @@
+{
+  "level": "C1",
+  "sections": [
+    {
+      "title": "Inversão e Ênfase",
+      "blocks": [
+        { "list": ["Advérbios negativos no início → <b>auxiliar + sujeito</b>: never, rarely, seldom, hardly, no sooner, not only, only when/after."] },
+        { "say": ["Never have I felt so tired. | Nunca me senti tão cansado.", "Not only did she win, but... | Ela não só venceu, como...", "Had I known, I'd have called. | Se eu soubesse, teria ligado."] }
+      ]
+    },
+    {
+      "title": "Collocations e Registro",
+      "blocks": [
+        { "list": ["<b>make</b> a decision/mistake/effort · <b>do</b> homework/research/your best · <b>take</b> a risk/break · <b>have</b> a look.", "Formal × informal: obtain × get · request × ask for · regarding × about."] }
+      ]
+    },
+    {
+      "title": "Hedging e Diplomacia",
+      "blocks": [
+        { "say": ["It seems that there may be an issue. | Parece que pode haver um problema.", "I'm afraid I can't make it. | Receio que não consiga ir.", "Perhaps it would be better to wait. | Talvez fosse melhor esperar."] }
+      ]
+    },
+    {
+      "title": "Cleft Sentences e Estruturas Avançadas",
+      "blocks": [
+        { "say": ["It was John who called. | Foi o John quem ligou.", "What I need is a break. | O que preciso é de uma pausa.", "I suggest that he be on time. | Sugiro que ele seja pontual."] }
+      ]
+    },
+    {
+      "title": "Vocabulário Avançado e Nuances",
+      "blocks": [
+        { "list": ["<b>affect</b> (v) × <b>effect</b> (n) · <b>eventually</b> (por fim) · <b>actually</b> (na verdade) · <b>currently</b> (atualmente)."] }
+      ]
+    }
+  ]
+}

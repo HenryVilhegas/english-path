@@ -1,0 +1,123 @@
+[
+ {
+  "id": "tips-t-1",
+  "topic": "Pares Mínimos (Minimal Pairs)",
+  "q": "Diga em inglês: \"Eu vi uma ovelha.\" (sheep, não ship)",
+  "a": [
+   "^i saw a sheep$"
+  ],
+  "ex": "I saw a sheep.",
+  "out": "",
+  "why": "sheep = ovelha, vogal longa.",
+  "hint": "I saw a ..."
+ },
+ {
+  "id": "tips-t-2",
+  "topic": "Pares Mínimos (Minimal Pairs)",
+  "q": "Diga em inglês: \"Há três árvores.\"",
+  "a": [
+   "^there are three trees$"
+  ],
+  "ex": "There are three trees.",
+  "out": "",
+  "why": "three com TH, tree sem.",
+  "hint": "There are ..."
+ },
+ {
+  "id": "tips-t-3",
+  "topic": "Pares Mínimos (Minimal Pairs)",
+  "q": "Diga em inglês: \"Vire à direita na luz (farol).\"",
+  "a": [
+   "^turn right at the light$"
+  ],
+  "ex": "Turn right at the light.",
+  "out": "",
+  "why": "right x light: R x L.",
+  "hint": "Turn right ..."
+ },
+ {
+  "id": "tips-t-4",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso: 1500 (em inglês, forma falada)",
+  "a": [
+   "^fifteen hundred$"
+  ],
+  "ex": "fifteen hundred",
+  "out": "",
+  "why": "Padrão de centenas para números de 4 dígitos.",
+  "hint": "fif..."
+ },
+ {
+  "id": "tips-t-5",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso o ano 1999 (em inglês)",
+  "a": [
+   "^nineteen ninety[- ]nine$"
+  ],
+  "ex": "nineteen ninety-nine",
+  "out": "",
+  "why": "Dois blocos de 2 dígitos.",
+  "hint": "nine..."
+ },
+ {
+  "id": "tips-t-6",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso: 2:30 (em inglês, forma direta)",
+  "a": [
+   "^two thirty$"
+  ],
+  "ex": "two thirty",
+  "out": "",
+  "why": "Hora e minutos como dois números.",
+  "hint": "two ..."
+ },
+ {
+  "id": "tips-t-7",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso: 2:30 (em inglês, forma clássica)",
+  "a": [
+   "^half past two$"
+  ],
+  "ex": "half past two",
+  "out": "",
+  "why": "Forma clássica usa 'half past'.",
+  "hint": "half ..."
+ },
+ {
+  "id": "tips-t-8",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso: $19.99 (em inglês)",
+  "a": [
+   "^nineteen ninety[- ]nine$"
+  ],
+  "ex": "nineteen ninety-nine",
+  "out": "",
+  "why": "Preço segue o padrão de número em blocos.",
+  "hint": "nine..."
+ },
+ {
+  "id": "tips-t-9",
+  "topic": "Números e Datas Falados",
+  "q": "Escreva por extenso a data \"4 de julho\" em inglês (ordem americana)",
+  "a": [
+   "^july fourth$",
+   "^the fourth of july$"
+  ],
+  "ex": "July fourth",
+  "out": "",
+  "why": "Mês antes do dia; dia como ordinal.",
+  "hint": "July ..."
+ },
+ {
+  "id": "tips-t-10",
+  "topic": "Entonação: Pergunta vs Afirmação",
+  "q": "Diga em inglês, com entonação de pergunta sim/não: \"Você fala inglês?\"",
+  "a": [
+   "^do you speak english$"
+  ],
+  "ex": "Do you speak English?",
+  "out": "",
+  "why": "Começa com auxiliar Do, entonação sobe.",
+  "hint": "Do you ..."
+ }
+]

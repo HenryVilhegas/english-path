@@ -1,0 +1,71 @@
+{
+  "level": "B2",
+  "sections": [
+    {
+      "title": "Condicionais 2 e 3",
+      "blocks": [
+        { "h": "O que NÃO é real", "p": "As condicionais 2 e 3 falam do <b>irreal</b>: coisas improváveis agora (2ª) ou que <b>não aconteceram</b> no passado (3ª)." },
+        { "svg": "<svg viewBox='0 0 640 150' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Condicionais 2, 3 e mista'><rect x='10' y='10' width='200' height='130' rx='8' fill='#5b7fbf'/><text x='110' y='32' font-weight='bold'>2ª · presente irreal</text><text x='110' y='58'>If + <tspan fill='#ffe08a'>past simple</tspan>,</text><text x='110' y='78'><tspan fill='#ffe08a'>would</tspan> + verbo</text><text x='110' y='108' font-size='11'>If I won, I'd quit.</text><rect x='220' y='10' width='200' height='130' rx='8' fill='#8a5fbf'/><text x='320' y='32' font-weight='bold'>3ª · passado irreal</text><text x='320' y='58'>If + <tspan fill='#ffe08a'>had + part.</tspan>,</text><text x='320' y='78'><tspan fill='#ffe08a'>would have</tspan> + part.</text><text x='320' y='108' font-size='11'>If I'd known, I'd have called.</text><rect x='430' y='10' width='200' height='130' rx='8' fill='#c9803a'/><text x='530' y='32' font-weight='bold'>Mista</text><text x='530' y='58'>If + <tspan fill='#ffe08a'>had + part.</tspan>,</text><text x='530' y='78'><tspan fill='#ffe08a'>would</tspan> + verbo (agora)</text><text x='530' y='108' font-size='11'>If I'd gone, I'd be there.</text></svg>" },
+        { "say": ["If I were rich, I would travel the world. | Se eu fosse rico, viajaria o mundo.", "If I had more time, I'd learn Spanish. | Se eu tivesse mais tempo, aprenderia espanhol.", "If you had told me, I would have helped. | Se você tivesse me contado, eu teria ajudado.", "If we hadn't missed the bus, we'd be home by now. | Se não tivéssemos perdido o ônibus, já estaríamos em casa."] },
+        { "h": "Contrações que você vai ouvir", "list": ["<b>I'd</b> = I would ou I had (depende do que vem depois): I'd go (would) / I'd gone (had).", "<b>would've</b>, <b>should've</b>, <b>could've</b>: 'I would've called' (no falado: 'would of' é erro comum de escrita)."] },
+        { "h": "Pedindo/oferecendo conselho", "say": ["If I were you, I'd talk to her. | Se eu fosse você, falaria com ela.", "What would you do if you lost your job? | O que você faria se perdesse o emprego?", "I'd rather not say. | Prefiro não dizer."] },
+        { "h": "💡 Dica de americano", "p": "No inglês falado, muitos americanos dizem <b>'If I was...'</b>. Em provas e textos formais, use <b>'If I were...'</b>. Ouvindo ou escrevendo e-mails de trabalho, <i>were</i> é mais seguro." },
+        { "h": "⚠️ Pegadinhas", "list": ["'If I <b>would</b> have time' ✗ → 'If I <b>had</b> time' ✓ (nunca would no if).", "'would of' ✗ → 'would <b>have</b>' ✓ (o som de 'would've' engana).", "Não confunda 'I wish' com 'if only': ambos exprimem desejo irreal."] }
+      ]
+    },
+    {
+      "title": "Voz Passiva",
+      "blocks": [
+        { "h": "Quando o foco muda", "p": "Na <b>passiva</b>, o assunto principal é o que sofre a ação (ou o resultado), não quem a pratica. É comum em notícias, instruções, relatórios e quando o agente é desconhecido ou óbvio." },
+        { "svg": "<svg viewBox='0 0 640 110' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='13' text-anchor='middle' fill='#fff' role='img' aria-label='Ativa versus passiva'><rect x='10' y='10' width='300' height='90' rx='8' fill='#3fa56b'/><text x='160' y='32' font-weight='bold'>ATIVA</text><text x='160' y='60'>The team <tspan fill='#ffe08a'>wrote</tspan> the report.</text><text x='160' y='84' font-size='11'>sujeito faz a ação</text><rect x='330' y='10' width='300' height='90' rx='8' fill='#8a5fbf'/><text x='480' y='32' font-weight='bold'>PASSIVA</text><text x='480' y='60'>The report <tspan fill='#ffe08a'>was written</tspan> by the team.</text><text x='480' y='84' font-size='11'>be + particípio</text></svg>" },
+        { "say": ["English is spoken in many countries. | Fala-se inglês em muitos países.", "The email was sent this morning. | O e-mail foi enviado esta manhã.", "The meeting has been cancelled. | A reunião foi cancelada.", "The bridge will be built next year. | A ponte será construída no ano que vem.", "This can be done in five minutes. | Isto pode ser feito em cinco minutos."] },
+        { "h": "Formas por tempo", "list": ["Present simple: is/are + part. (It <b>is made</b> in Brazil).", "Past simple: was/were + part. (It <b>was made</b>).", "Present perfect: has/have been + part. (It <b>has been made</b>).", "Future: will be + part. (It <b>will be made</b>).", "Modal: modal + be + part. (It <b>can be made</b>)."] },
+        { "h": "Usos comuns", "list": ["Agente desconhecido: <i>My car was stolen.</i>", "Agente óbvio: <i>The suspect was arrested.</i>", "Texto formal/científico: <i>The samples were analyzed.</i>", "<b>Get passive</b> (informal): <i>I got promoted!</i> / <i>She got fired.</i>"] },
+        { "h": "⚠️ Pegadinhas", "list": ["'It <b>was happened</b>' ✗ → 'It <b>happened</b>' ✓ (verbos intransitivos não têm passiva).", "'The book <b>writes</b> by...' ✗ → 'The book <b>is written</b> by...' ✓.", "Use <b>by</b> só quando o agente agrega informação."] }
+      ]
+    },
+    {
+      "title": "Discurso Indireto",
+      "blocks": [
+        { "h": "Contando o que alguém disse", "p": "No <b>reported speech</b>, o verbo geralmente <b>recua um tempo</b> (backshift), e pronomes/advérbios mudam." },
+        { "list": ["am/is → <b>was</b> · are → <b>were</b> · present simple → <b>past simple</b>", "will → <b>would</b> · can → <b>could</b> · present perfect/past simple → <b>past perfect</b>", "now → then · today → that day · tomorrow → the next day · here → there"] },
+        { "say": ["'I'm tired.' → She said she was tired. | Ela disse que estava cansada.", "'I'll call you.' → He said he would call me. | Ele disse que ligaria.", "'I can't come.' → She said she couldn't come. | Ela disse que não podia vir.", "'Where do you live?' → He asked me where I lived. | Ele perguntou onde eu morava.", "'Are you ready?' → She asked if I was ready. | Ela perguntou se eu estava pronto."] },
+        { "h": "Say × tell × ask", "list": ["<b>say</b> + algo: He said (that) he was busy.", "<b>tell</b> + pessoa: He told <b>me</b> (that) he was busy.", "<b>ask</b>: She asked <b>if/whether</b>... / ask someone <b>to</b> do: He asked me to wait."] },
+        { "h": "Verbos de relato (mais ricos que 'say')", "say": ["She suggested going to the beach. | Ela sugeriu irmos à praia.", "He admitted that he was wrong. | Ele admitiu que estava errado.", "They promised to call. | Eles prometeram ligar.", "She warned me not to go. | Ela me avisou para não ir."] },
+        { "h": "Quando NÃO recua", "p": "Se a informação ainda é verdade ou foi dita há pouco, o recuo é opcional: <i>She said she <b>lives</b> in Miami</i> (e ainda mora)." },
+        { "h": "⚠️ Pegadinhas", "list": ["'He asked me where <b>did I live</b>' ✗ → 'where <b>I lived</b>' ✓ (ordem afirmativa).", "'He said <b>me</b>' ✗ → 'He <b>told</b> me' / 'He said <b>to me</b>' ✓.", "Perguntas yes/no usam <b>if/whether</b>, não 'that'."] }
+      ]
+    },
+    {
+      "title": "Orações Relativas",
+      "blocks": [
+        { "h": "Descrever pessoas, coisas e lugares", "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Pronomes relativos'><g font-weight='bold'><rect x='10' y='15' width='120' height='85' rx='8' fill='#3fa56b'/><text x='70' y='40'>who</text><text x='70' y='62' font-weight='normal' font-size='11'>pessoas</text><rect x='140' y='15' width='120' height='85' rx='8' fill='#5b7fbf'/><text x='200' y='40'>which</text><text x='200' y='62' font-weight='normal' font-size='11'>coisas</text><rect x='270' y='15' width='120' height='85' rx='8' fill='#8a5fbf'/><text x='330' y='40'>that</text><text x='330' y='62' font-weight='normal' font-size='11'>pessoas/coisas</text><rect x='400' y='15' width='110' height='85' rx='8' fill='#c9803a'/><text x='455' y='40'>whose</text><text x='455' y='62' font-weight='normal' font-size='11'>posse</text><rect x='520' y='15' width='110' height='85' rx='8' fill='#c94a4a'/><text x='575' y='40'>where</text><text x='575' y='62' font-weight='normal' font-size='11'>lugares</text></g></svg>" },
+        { "say": ["The woman who lives next door is a doctor. | A mulher que mora ao lado é médica.", "The book that I bought is great. | O livro que comprei é ótimo.", "That's the guy whose car was stolen. | Aquele é o cara cujo carro foi roubado.", "This is the restaurant where we met. | Este é o restaurante onde nos conhecemos."] },
+        { "h": "Restritiva × não restritiva", "list": ["<b>Restritiva</b> (essencial; sem vírgula; pode usar that): <i>The man <b>who</b> called is my uncle.</i>", "<b>Não restritiva</b> (informação extra; entre vírgulas; <b>nunca that</b>): <i>My uncle, <b>who</b> lives in Miami, called.</i>"] },
+        { "h": "Pode omitir o pronome?", "p": "Sim, quando ele é <b>objeto</b>: <i>The book (that) I bought.</i> Não, quando é sujeito: <i>The man <b>who</b> called.</i>" },
+        { "h": "⚠️ Pegadinhas", "list": ["Não repita o sujeito: 'The man who <b>he</b> called' ✗.", "'The man <b>who's</b> car...' ✗ → <b>whose</b> (who's = who is).", "Com <b>where</b> não repita preposição: 'the place where I live' (não 'where I live <b>in</b>')."] }
+      ]
+    },
+    {
+      "title": "Inglês no Trabalho",
+      "blocks": [
+        { "h": "Reuniões", "say": ["Let's get started. | Vamos começar.", "Thanks for joining. | Obrigado por participarem.", "Can everyone see my screen? | Todo mundo está vendo minha tela?", "Let me share my screen. | Deixa eu compartilhar a tela.", "I'd like to add something. | Gostaria de acrescentar algo.", "Let's take this offline. | Vamos resolver isso fora da reunião.", "Let's wrap up. | Vamos encerrar."] },
+        { "h": "E-mails", "say": ["Just following up on my last email. | Só retomando meu último e-mail.", "Please find attached the report. | Segue em anexo o relatório.", "Let me know if you have any questions. | Me avise se tiver dúvidas.", "I'll get back to you by Friday. | Respondo até sexta.", "Looking forward to hearing from you. | Aguardo seu retorno."] },
+        { "h": "Gírias de escritório (corporate English)", "list": ["<b>touch base</b> = alinhar rapidamente. <b>circle back</b> = voltar ao assunto depois.", "<b>on the same page</b> = alinhados. <b>bandwidth</b> = capacidade/tempo. <b>ASAP, EOD, FYI, ETA</b>.", "<b>deliverable</b> = entrega. <b>stakeholder</b> = parte interessada. <b>ballpark</b> = estimativa."] },
+        { "say": ["Let's touch base next week. | Vamos nos alinhar semana que vem.", "I don't have the bandwidth right now. | Não tenho capacidade agora.", "Can you give me a ballpark figure? | Pode me dar um valor aproximado?", "Are we on the same page? | Estamos alinhados?"] },
+        { "h": "Tom e educação", "list": ["Sugestões educadas: <b>Would it be possible to...?</b> / <b>Do you think we could...?</b>", "Discordar: <b>I see where you're coming from, but...</b>", "Pedir esclarecimento: <b>Just to clarify, do you mean...?</b>"] },
+        { "h": "⚠️ Pegadinhas", "list": ["'I'm <b>agree</b>' ✗ → 'I agree' ✓.", "'Attached <b>you will find</b>' é formal; 'I've attached' é padrão.", "<b>Meeting</b> × <b>appointment</b>: reunião de trabalho × compromisso (médico, cabeleireiro)."] }
+      ]
+    },
+    {
+      "title": "Wish, Would Rather e Preferências",
+      "blocks": [
+        { "h": "Desejos e arrependimentos", "svg": "<svg viewBox='0 0 640 120' xmlns='http://www.w3.org/2000/svg' font-family='Segoe UI,Arial,sans-serif' font-size='12' text-anchor='middle' fill='#fff' role='img' aria-label='Wish com tempos verbais'><rect x='10' y='10' width='200' height='100' rx='8' fill='#5b7fbf'/><text x='110' y='32' font-weight='bold'>presente</text><text x='110' y='58'>wish + <tspan fill='#ffe08a'>past simple</tspan></text><text x='110' y='84' font-size='11'>I wish I had more time.</text><rect x='220' y='10' width='200' height='100' rx='8' fill='#8a5fbf'/><text x='320' y='32' font-weight='bold'>passado</text><text x='320' y='58'>wish + <tspan fill='#ffe08a'>past perfect</tspan></text><text x='320' y='84' font-size='11'>I wish I had studied.</text><rect x='430' y='10' width='200' height='100' rx='8' fill='#c9803a'/><text x='530' y='32' font-weight='bold'>irritação</text><text x='530' y='58'>wish + <tspan fill='#ffe08a'>would</tspan></text><text x='530' y='84' font-size='11'>I wish he would stop.</text></svg>" },
+        { "say": ["I wish I had more free time. | Queria ter mais tempo livre.", "I wish I had studied more. | Queria ter estudado mais.", "I wish it would stop raining. | Queria que a chuva parasse.", "If only I were taller! | Ah, se eu fosse mais alto!"] },
+        { "h": "Preferências", "say": ["I'd rather stay home tonight. | Prefiro ficar em casa hoje à noite.", "I'd rather you didn't smoke here. | Prefiro que você não fume aqui.", "I prefer tea to coffee. | Prefiro chá a café.", "I'd prefer to go by train. | Prefiro ir de trem.", "Would you rather have tea or coffee? | Prefere chá ou café?"] },
+        { "h": "Estruturas", "list": ["<b>would rather + base</b> (sem to): I'd rather <b>go</b>.", "<b>prefer + -ing/noun to + -ing/noun</b>: I prefer <b>walking</b> to <b>driving</b>.", "<b>would prefer to + base</b>: I'd prefer <b>to go</b>."] },
+        { "h": "⚠️ Pegadinhas", "list": ["'I wish I <b>would</b> have more time' ✗ → 'I wish I <b>had</b>' ✓.", "'I'd rather <b>to</b> stay' ✗ → 'I'd rather stay' ✓.", "'I prefer tea <b>than</b> coffee' ✗ → 'prefer tea <b>to</b> coffee' ✓."] }
+      ]
+    }
+  ]
+}
